@@ -1,0 +1,4811 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e51d5c0fe370d2409272e8edea00105, type: 3}
+  m_Name: 7-4
+  m_EditorClassIdentifier: Assembly-CSharp::Mario.LevelData
+  id: 7-4
+  timeLimit: 400
+  locations:
+  - area: 0
+    entry: Castle
+    x: 0
+  areas:
+  - setting: Castle
+    exit: -1
+    underwater: 0
+    width: 528
+    nodes:
+    - type: Stone
+      group: Solid
+      x: 0
+      y: 96
+      width: 48
+      height: 128
+      hidden: 0
+      jumping: 0
+      floating: 0
+      sliding: 0
+      falling: 0
+      smart: 0
+      hard: 0
+      throwing: 0
+      inScale: 0
+      onPipe: 0
+      red: 0
+      small: 0
+      flying: 0
+      ride: 0
+      begin: 0
+      end: 0
+      speed: 0.75
+      vx: 0
+      vy: 0
+      fireballs: 0
+      section: 0
+      pass: 0
+      fail: 0
+      entrance: -1
+      targetLocation: -1
+      movement: 
+      action: 
+      link: 
+      linkPart: 
+      contents: 
+      targetMap: 
+      text: 
+    - type: Stone
+      group: Solid
+      x: 48
+      y: 80
+      width: 16
+      height: 112
+      hidden: 0
+      jumping: 0
+      floating: 0
+      sliding: 0
+      falling: 0
+      smart: 0
+      hard: 0
+      throwing: 0
+      inScale: 0
+      onPipe: 0
+      red: 0
+      small: 0
+      flying: 0
+      ride: 0
+      begin: 0
+      end: 0
+      speed: 0.75
+      vx: 0
+      vy: 0
+      fireballs: 0
+      section: 0
+      pass: 0
+      fail: 0
+      entrance: -1
+      targetLocation: -1
+      movement: 
+      action: 
+      link: 
+      linkPart: 
+      contents: 
+      targetMap: 
+      text: 
+    - type: Stone
+      group: Solid
+      x: 64
+      y: 64
+      width: 16
+      height: 96
+      hidden: 0
+      jumping: 0
+      floating: 0
+      sliding: 0
+      falling: 0
+      smart: 0
+      hard: 0
+      throwing: 0
+      inScale: 0
+      onPipe: 0
+      red: 0
+      small: 0
+      flying: 0
+      ride: 0
+      begin: 0
+      end: 0
+      speed: 0.75
+      vx: 0
+      vy: 0
+      fireballs: 0
+      section: 0
+      pass: 0
+      fail: 0
+      entrance: -1
+      targetLocation: -1
+      movement: 
+      action: 
+      link: 
+      linkPart: 
+      contents: 
+      targetMap: 
+      text: 
+    - type: Stone
+      group: Solid
+      x: 0
+      y: 176
+      width: 256
+      height: 48
+      hidden: 0
+      jumping: 0
+      floating: 0
+      sliding: 0
+      falling: 0
+      smart: 0
+      hard: 0
+      throwing: 0
+      inScale: 0
+      onPipe: 0
+      red: 0
+      small: 0
+      flying: 0
+      ride: 0
+      begin: 0
+      end: 0
+      speed: 0.75
+      vx: 0
+      vy: 0
+      fireballs: 0
+      section: 0
+      pass: 0
+      fail: 0
+      entrance: -1
+      targetLocation: -1
+      movement: 
+      action: 
+      link: 
+      linkPart: 
+      contents: 
+      targetMap: 
+      text: 
+    - type: Floor
+      group: Solid
+      x: 80
+      y: 48
+      width: 176
+      height: 80
+      hidden: 0
+      jumping: 0
+      floating: 0
+      sliding: 0
+      falling: 0
+      smart: 0
+      hard: 0
+      throwing: 0
+      inScale: 0
+      onPipe: 0
+      red: 0
+      small: 0
+      flying: 0
+      ride: 0
+      begin: 0
+      end: 0
+      speed: 0.75
+      vx: 0
+      vy: 0
+      fireballs: 0
+      section: 0
+      pass: 0
+      fail: 0
+      entrance: -1
+      targetLocation: -1
+      movement: 
+      action: 
+      link: 
+      linkPart: 
+      contents: 
+      targetMap: 
+      text: 
+    - type: Water
+      group: Scenery
+      x: 256
+      y: 4
+      width: 176
+      height: 36
+      hidden: 0
+      jumping: 0
+      floating: 0
+      sliding: 0
+      falling: 0
+      smart: 0
+      hard: 0
+      throwing: 0
+      inScale: 0
+      onPipe: 0
+      red: 0
+      small: 0
+      flying: 0
+      ride: 0
+      begin: 0
+      end: 0
+      speed: 0.75
+      vx: 0
+      vy: 0
+      fireballs: 0
+      section: 0
+      pass: 0
+      fail: 0
+      entrance: -1
+      targetLocation: -1
+      movement: 
+      action: 
+      link: 
+      linkPart: 
+      contents: 
+      targetMap: 
+      text: 
+    - type: Stone
+      group: Solid
+      x: 256
+      y: 176
+      width: 256
+      height: 16
+      hidden: 0
+      jumping: 0
+      floating: 0
+      sliding: 0
+      falling: 0
+      smart: 0
+      hard: 0
+      throwing: 0
+      inScale: 0
+      onPipe: 0
+      red: 0
+      small: 0
+      flying: 0
+      ride: 0
+      begin: 0
+      end: 0
+      speed: 0.75
+      vx: 0
+      vy: 0
+      fireballs: 0
+      section: 0
+      pass: 0
+      fail: 0
+      entrance: -1
+      targetLocation: -1
+      movement: 
+      action: 
+      link: 
+      linkPart: 
+      contents: 
+      targetMap: 
+      text: 
+    - type: Platform
+      group: Solid
+      x: 288
+      y: 96
+      width: 32
+      height: 8
+      hidden: 0
+      jumping: 0
+      floating: 0
+      sliding: 0
+      falling: 1
+      smart: 0
+      hard: 0
+      throwing: 0
+      inScale: 0
+      onPipe: 0
+      red: 0
+      small: 0
+      flying: 0
+      ride: 0
+      begin: 0
+      end: 0
+      speed: 0.75
+      vx: 0
+      vy: 0
+      fireballs: 0
+      section: 0
+      pass: 0
+      fail: 0
+      entrance: -1
+      targetLocation: -1
+      movement: 
+      action: 
+      link: 
+      linkPart: 
+      contents: 
+      targetMap: 
+      text: 
+    - type: Podoboo
+      group: Character
+      x: 320
+      y: -64
+      width: 14
+      height: 16
+      hidden: 0
+      jumping: 0
+      floating: 0
+      sliding: 0
+      falling: 0
+      smart: 0
+      hard: 0
+      throwing: 0
+      inScale: 0
+      onPipe: 0
+      red: 0
+      small: 0
+      flying: 0
+      ride: 0
+      begin: 0
+      end: 0
+      speed: 0.75
+      vx: 0
+      vy: 0
+      fireballs: 0
+      section: 0
+      pass: 0
+      fail: 0
+      entrance: -1
+      targetLocation: -1
+      movement: 
+      action: 
+      link: 
+      linkPart: 
+      contents: 
+      targetMap: 
+      text: 
+    - type: Platform
+      group: Solid
+      x: 352
+      y: 80
+      width: 32
+      height: 8
+      hidden: 0
+      jumping: 0
+      floating: 0
+      sliding: 0
+      falling: 1
+      smart: 0
+      hard: 0
+      throwing: 0
+      inScale: 0
+      onPipe: 0
+      red: 0
+      small: 0
+      flying: 0
+      ride: 0
+      begin: 0
+      end: 0
+      speed: 0.75
+      vx: 0
+      vy: 0
+      fireballs: 0
+      section: 0
+      pass: 0
+      fail: 0
+      entrance: -1
+      targetLocation: -1
+      movement: 
+      action: 
+      link: 
+      linkPart: 
+      contents: 
+      targetMap: 
+      text: 
+    - type: Floor
+      group: Solid
+      x: 432
+      y: 48
+      width: 80
+      height: 80
+      hidden: 0
+      jumping: 0
+      floating: 0
+      sliding: 0
+      falling: 0
+      smart: 0
+      hard: 0
+      throwing: 0
+      inScale: 0
+      onPipe: 0
+      red: 0
+      small: 0
+      flying: 0
+      ride: 0
+      begin: 0
+      end: 0
+      speed: 0.75
+      vx: 0
+      vy: 0
+      fireballs: 0
+      section: 0
+      pass: 0
+      fail: 0
+      entrance: -1
+      targetLocation: -1
+      movement: 
+      action: 
+      link: 
+      linkPart: 
+      contents: 
+      targetMap: 
+      text: 
+    - type: Stone
+      group: Solid
+      x: 448
+      y: 160
+      width: 64
+      height: 32
+      hidden: 0
+      jumping: 0
+      floating: 0
+      sliding: 0
+      falling: 0
+      smart: 0
+      hard: 0
+      throwing: 0
+      inScale: 0
+      onPipe: 0
+      red: 0
+      small: 0
+      flying: 0
+      ride: 0
+      begin: 0
+      end: 0
+      speed: 0.75
+      vx: 0
+      vy: 0
+      fireballs: 0
+      section: 0
+      pass: 0
+      fail: 0
+      entrance: -1
+      targetLocation: -1
+      movement: 
+      action: 
+      link: 
+      linkPart: 
+      contents: 
+      targetMap: 
+      text: 
+    - type: Section
+      group: Trigger
+      x: 512
+      y: 0
+      width: 16
+      height: 16
+      hidden: 0
+      jumping: 0
+      floating: 0
+      sliding: 0
+      falling: 0
+      smart: 0
+      hard: 0
+      throwing: 0
+      inScale: 0
+      onPipe: 0
+      red: 0
+      small: 0
+      flying: 0
+      ride: 0
+      begin: 0
+      end: 0
+      speed: 0.75
+      vx: 0
+      vy: 0
+      fireballs: 0
+      section: 0
+      pass: 0
+      fail: 0
+      entrance: -1
+      targetLocation: -1
+      movement: 
+      action: 
+      link: 
+      linkPart: 
+      contents: 
+      targetMap: 
+      text: 
+    sections:
+    - parts:
+      - kind: before
+        width: 96
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 96
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 96
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 32
+          y: 64
+          width: 64
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 64
+          y: 80
+          width: 32
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 80
+          y: 96
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+      - kind: stretch
+        width: 16
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 16
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: SectionPass
+          group: Trigger
+          x: 0
+          y: 48
+          width: 16
+          height: 48
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 112
+          width: 16
+          height: 64
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: SectionFail
+          group: Trigger
+          x: 0
+          y: 160
+          width: 16
+          height: 48
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+      - kind: after
+        width: 48
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 48
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 48
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Section
+          group: Trigger
+          x: 48
+          y: 0
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 1
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+    - parts:
+      - kind: before
+        width: 16
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 16
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 48
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+      - kind: stretch
+        width: 16
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 16
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: SectionFail
+          group: Trigger
+          x: 0
+          y: 32
+          width: 16
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 48
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: SectionPass
+          group: Trigger
+          x: 0
+          y: 96
+          width: 16
+          height: 48
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 112
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: SectionFail
+          group: Trigger
+          x: 0
+          y: 160
+          width: 16
+          height: 48
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+      - kind: after
+        width: 64
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 64
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 48
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 64
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Section
+          group: Trigger
+          x: 64
+          y: 0
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 2
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+    - parts:
+      - kind: before
+        width: 0
+        nodes: []
+      - kind: stretch
+        width: 16
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 16
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: SectionFail
+          group: Trigger
+          x: 0
+          y: 48
+          width: 16
+          height: 48
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 112
+          width: 16
+          height: 64
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: SectionPass
+          group: Trigger
+          x: 0
+          y: 160
+          width: 16
+          height: 48
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+      - kind: after
+        width: 160
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 160
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 80
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 96
+          width: 32
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 112
+          width: 64
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 160
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 80
+          y: 48
+          width: 48
+          height: 48
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: SectionDecider
+          group: Trigger
+          x: 160
+          y: 0
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 3
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+    - parts:
+      - kind: before
+        width: 272
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 48
+          width: 48
+          height: 80
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 272
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 48
+          y: 0
+          width: 64
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 96
+          y: 112
+          width: 32
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Water
+          group: Scenery
+          x: 112
+          y: 4
+          width: 48
+          height: 36
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 144
+          y: 112
+          width: 48
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 160
+          y: 0
+          width: 16
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: CastleBlock
+          group: Solid
+          x: 160
+          y: 96
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 6
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Water
+          group: Scenery
+          x: 176
+          y: 4
+          width: 48
+          height: 36
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 208
+          y: 112
+          width: 64
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 224
+          y: 0
+          width: 48
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+      - kind: stretch
+        width: 16
+        nodes:
+        - type: SectionFail
+          group: Trigger
+          x: 0
+          y: 48
+          width: 16
+          height: 48
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: SectionPass
+          group: Trigger
+          x: 0
+          y: 160
+          width: 16
+          height: 48
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 16
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 112
+          width: 16
+          height: 64
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+      - kind: after
+        width: 160
+        nodes:
+        - type: Section
+          group: Trigger
+          x: 0
+          y: 0
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 4
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+    - parts:
+      - kind: before
+        width: 128
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 128
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 128
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 32
+          y: 112
+          width: 48
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 48
+          y: 48
+          width: 48
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 112
+          y: 112
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+      - kind: stretch
+        width: 16
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 16
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 48
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 112
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+      - kind: after
+        width: 128
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 128
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 48
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 128
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 48
+          y: 112
+          width: 48
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 64
+          y: 48
+          width: 48
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Section
+          group: Trigger
+          x: 128
+          y: 0
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 5
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+    - parts:
+      - kind: before
+        width: 64
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 32
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 112
+          width: 16
+          height: 64
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 64
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 16
+          y: 112
+          width: 48
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 32
+          y: 16
+          width: 16
+          height: 48
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 48
+          y: 32
+          width: 16
+          height: 64
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+      - kind: stretch
+        width: 16
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 48
+          width: 16
+          height: 80
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: SectionPass
+          group: Trigger
+          x: 0
+          y: 160
+          width: 16
+          height: 48
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 112
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: SectionFail
+          group: Trigger
+          x: 0
+          y: 96
+          width: 16
+          height: 48
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+      - kind: after
+        width: 112
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 48
+          width: 112
+          height: 80
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 112
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: SectionDecider
+          group: Trigger
+          x: 112
+          y: 160
+          width: 16
+          height: 112
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 6
+          fail: 3
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+    - parts:
+      - kind: before
+        width: 544
+        nodes:
+        - type: Floor
+          group: Solid
+          x: 0
+          y: 0
+          width: 48
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 0
+          y: 176
+          width: 544
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 48
+          y: 48
+          width: 48
+          height: 80
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 96
+          y: 0
+          width: 32
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 128
+          y: 48
+          width: 128
+          height: 80
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 256
+          y: 0
+          width: 32
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 288
+          y: 48
+          width: 32
+          height: 80
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 320
+          y: 0
+          width: 32
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 352
+          y: 48
+          width: 32
+          height: 80
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 384
+          y: 0
+          width: 32
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 416
+          y: 48
+          width: 128
+          height: 80
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 544
+          y: 176
+          width: 512
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Water
+          group: Scenery
+          x: 544
+          y: 4
+          width: 208
+          height: 36
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: CastleBridge
+          group: Solid
+          x: 544
+          y: 48
+          width: 208
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Bowser
+          group: Character
+          x: 682
+          y: 84
+          width: 32
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: CastleChain
+          group: Solid
+          x: 736
+          y: 64
+          width: 15
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: CastleAxe
+          group: Solid
+          x: 752
+          y: 80
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: ScrollBlocker
+          group: Solid
+          x: 768
+          y: 0
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Floor
+          group: Solid
+          x: 752
+          y: 0
+          width: 304
+          height: 32
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 752
+          y: 64
+          width: 48
+          height: 64
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: Stone
+          group: Solid
+          x: 768
+          y: 160
+          width: 32
+          height: 48
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: DetectCollision
+          group: Solid
+          x: 904
+          y: 0
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: collideCastleNPC
+          link: endInsideCastleText
+          linkPart: npc
+          contents: 
+          targetMap: 8-1
+          text: 
+        - type: Toad
+          group: Scenery
+          x: 944
+          y: 26
+          width: 16
+          height: 26
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: ScrollBlocker
+          group: Solid
+          x: 1056
+          y: 0
+          width: 16
+          height: 16
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: 
+          linkPart: 
+          contents: 
+          targetMap: 
+          text: 
+        - type: CustomText
+          group: Text
+          x: 872
+          y: 128
+          width: 7
+          height: 7
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: endInsideCastleText
+          linkPart: 1
+          contents: 
+          targetMap: 
+          text: THANK YOU MARIO!
+        - type: CustomText
+          group: Text
+          x: 848
+          y: 96
+          width: 7
+          height: 7
+          hidden: 0
+          jumping: 0
+          floating: 0
+          sliding: 0
+          falling: 0
+          smart: 0
+          hard: 0
+          throwing: 0
+          inScale: 0
+          onPipe: 0
+          red: 0
+          small: 0
+          flying: 0
+          ride: 0
+          begin: 0
+          end: 0
+          speed: 0.75
+          vx: 0
+          vy: 0
+          fireballs: 0
+          section: 0
+          pass: 0
+          fail: 0
+          entrance: -1
+          targetLocation: -1
+          movement: 
+          action: 
+          link: endInsideCastleText
+          linkPart: 2
+          contents: 
+          targetMap: 
+          text: 'BUT OUR PRINCESS IS IN
+
+            ANOTHER CASTLE!'
+      - kind: stretch
+        width: 0
+        nodes: []
+      - kind: after
+        width: 0
+        nodes: []

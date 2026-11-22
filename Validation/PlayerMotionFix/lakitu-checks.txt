@@ -1,0 +1,17 @@
+PASS Lakitu: 1200-frame full-speed pursuit stays visible maxDistance=64 playerX=3018.25
+PASS Lakitu: idle patrol stays near Mario 
+PASS Lakitu: reversing does not discard cloud 
+PASS Lakitu: off-left pursuer catches up instead of despawning 
+PASS Lakitu: repeated marker keeps one cloud 
+PASS Lakitu: throw windup uses hiding sprite 
+PASS Lakitu: throw releases egg and exits hiding 
+PASS Lakitu: defeated cloud returns after delay 
+PASS Lakitu: stop marker cancels same-frame throw 
+PASS Lakitu: fleeing cloud leaves and cannot respawn 
+PASS Lakitu: new area resets encounter 
+PASS Lakitu: 4-1 sustained scroll pursuit 
+PASS Lakitu: 6-1 sustained scroll pursuit 
+PASS Lakitu: 8-2 sustained scroll pursuit 
+PASS Lakitu: J-4-1 sustained scroll pursuit 
+PASS Lakitu: J-4-2 sustained scroll pursuit 
+PASS Lakitu: J-8-3 sustained scroll pursuit 

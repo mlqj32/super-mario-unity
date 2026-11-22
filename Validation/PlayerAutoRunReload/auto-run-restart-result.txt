@@ -1,0 +1,1 @@
+MARIO_AUTO_RUN_RESTART_PASS enabled=True run=True fire=False

@@ -1,0 +1,1 @@
+MARIO_SPRING_PASS checks=37 errors=0

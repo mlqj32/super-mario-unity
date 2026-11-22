@@ -1,0 +1,68 @@
+PASS Podoboo: Podoboo rising 0 rendered pixels painted=182 mismatches=0
+PASS Podoboo: reaches apex 0 y=91.75
+PASS Podoboo: gravity continues through zero velocity 0 
+PASS Podoboo: falls with downward sprite 0 
+PASS Podoboo: Podoboo falling 0 rendered pixels painted=182 mismatches=0
+PASS Podoboo: returns and waits below lava 0/90 
+PASS Podoboo: submerged body is hidden 0/90 
+PASS Podoboo: returns and waits below lava 0/150 
+PASS Podoboo: submerged body is hidden 0/150 
+PASS Podoboo: Podoboo rising 1 rendered pixels painted=182 mismatches=0
+PASS Podoboo: reaches apex 1 y=91.75
+PASS Podoboo: gravity continues through zero velocity 1 
+PASS Podoboo: falls with downward sprite 1 
+PASS Podoboo: Podoboo falling 1 rendered pixels painted=182 mismatches=0
+PASS Podoboo: returns and waits below lava 1/90 
+PASS Podoboo: submerged body is hidden 1/90 
+PASS Podoboo: returns and waits below lava 1/150 
+PASS Podoboo: submerged body is hidden 1/150 
+PASS Podoboo: Podoboo rising 2 rendered pixels painted=182 mismatches=0
+PASS Podoboo: reaches apex 2 y=91.75
+PASS Podoboo: gravity continues through zero velocity 2 
+PASS Podoboo: falls with downward sprite 2 
+PASS Podoboo: Podoboo falling 2 rendered pixels painted=182 mismatches=0
+PASS Podoboo: returns and waits below lava 2/90 
+PASS Podoboo: submerged body is hidden 2/90 
+PASS Podoboo: returns and waits below lava 2/150 
+PASS Podoboo: submerged body is hidden 2/150 
+PASS Podoboo: next cycle reappears 
+PASS Podoboo: pause holds apex 
+PASS Podoboo: resume continues falling 
+PASS Podoboo: 2-4/0 actual lava fire completes arc 
+PASS Podoboo: 2-4/0 actual lava fire completes arc 
+PASS Podoboo: 3-4/0 actual lava fire completes arc 
+PASS Podoboo: 3-4/0 actual lava fire completes arc 
+PASS Podoboo: 3-4/0 actual lava fire completes arc 
+PASS Podoboo: 3-4/0 actual lava fire completes arc 
+PASS Podoboo: 3-4/0 actual lava fire completes arc 
+PASS Podoboo: 3-4/0 actual lava fire completes arc 
+PASS Podoboo: 5-4/0 actual lava fire completes arc 
+PASS Podoboo: 5-4/0 actual lava fire completes arc 
+PASS Podoboo: 5-4/0 actual lava fire completes arc 
+PASS Podoboo: 5-4/0 actual lava fire completes arc 
+PASS Podoboo: 5-4/0 actual lava fire completes arc 
+PASS Podoboo: 5-4/0 actual lava fire completes arc 
+PASS Podoboo: 6-4/0 actual lava fire completes arc 
+PASS Podoboo: 6-4/0 actual lava fire completes arc 
+PASS Podoboo: 7-4/0 actual lava fire completes arc 
+PASS Podoboo: 8-4/5 actual lava fire completes arc 
+PASS Podoboo: J-2-4/0 actual lava fire completes arc 
+PASS Podoboo: J-2-4/0 actual lava fire completes arc 
+PASS Podoboo: J-2-4/0 actual lava fire completes arc 
+PASS Podoboo: J-2-4/0 actual lava fire completes arc 
+PASS Podoboo: J-3-4/0 actual lava fire completes arc 
+PASS Podoboo: J-3-4/0 actual lava fire completes arc 
+PASS Podoboo: J-4-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-6-4/0 actual lava fire completes arc 
+PASS Podoboo: J-6-4/0 actual lava fire completes arc 
+PASS Podoboo: J-6-4/0 actual lava fire completes arc 
+PASS Podoboo: J-7-4/0 actual lava fire completes arc 
+PASS Podoboo: J-8-4/0 actual lava fire completes arc 

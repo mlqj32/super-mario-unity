@@ -1,0 +1,1 @@
+MARIO_PHYSICS_REFERENCE_PASS scenarios=12 frames=2160 maxPositionError=0

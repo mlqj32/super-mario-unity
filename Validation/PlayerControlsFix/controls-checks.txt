@@ -1,0 +1,45 @@
+PASS Controls: fall fixture reaches support ticks=12
+PASS Controls: released preinput landing lead=0 vy=4
+PASS Controls: released preinput landing lead=1 vy=4
+PASS Controls: released preinput landing lead=4 vy=4
+PASS Controls: released preinput landing lead=8 vy=4
+PASS Controls: released preinput landing lead=9 vy=0
+PASS Controls: released preinput landing lead=11 vy=0
+PASS Controls: released buffered tap remains a short hop peak=20.3125
+PASS Controls: held buffered jump reaches full height peak=66
+PASS Controls: ledge departure is airborne 1 
+PASS Controls: ledge grace delay=1 vy=4.84375
+PASS Controls: ledge departure is airborne 3 
+PASS Controls: ledge grace delay=3 vy=4.84375
+PASS Controls: ledge departure is airborne 6 
+PASS Controls: ledge grace delay=6 vy=4.84375
+PASS Controls: ledge departure is airborne 7 
+PASS Controls: ledge grace delay=7 vy=-3.0625
+PASS Controls: ledge departure is airborne 10 
+PASS Controls: ledge grace delay=10 vy=-4.375
+PASS Controls: ground press takes off immediately 
+PASS Controls: fresh air press cannot double jump 
+PASS Controls: holding jump does not repeat on landing takeoffs=1
+PASS Controls: reaches unchanged speed cap in 18 ticks -1/False 
+PASS Controls: release stops without slow drift -1/False 
+PASS Controls: reaches unchanged speed cap in 18 ticks -1/True 
+PASS Controls: release stops without slow drift -1/True 
+PASS Controls: reaches unchanged speed cap in 18 ticks 1/False 
+PASS Controls: release stops without slow drift 1/False 
+PASS Controls: reaches unchanged speed cap in 18 ticks 1/True 
+PASS Controls: release stops without slow drift 1/True 
+PASS Controls: run reversal responds within ten ticks 
+PASS Controls: air turn and shot use current input facing 
+PASS Controls: moving platform accepts landing preinput 
+PASS Controls: spring bounce consumes queued jump 
+PASS Controls: stomp consumes queue and cannot grant air jump 
+PASS Controls: swim presses produce one stroke each 
+PASS Controls: transition clears queued input pause 
+PASS Controls: transition clears queued input death 
+PASS Controls: transition clears queued input load 
+PASS Controls: transition clears queued input pipe 
+PASS Controls: transition clears queued input confirm 
+PASS Controls: transition clears queued input cancel 
+PASS Controls: recent jump survives short transform freeze 
+PASS Controls: stale transform input expires 
+PASS Controls: legacy profile keeps strict landing timing 

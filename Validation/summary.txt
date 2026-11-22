@@ -1,0 +1,1 @@
+MARIO_VALIDATION_PASS levels=64 areas=136 nodes=83609 checks=5783 failed=0

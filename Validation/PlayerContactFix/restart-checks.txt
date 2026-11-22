@@ -1,0 +1,153 @@
+PASS Restart: 1-1 modal freezes gameplay form=1 
+PASS Restart: default Enter cancels and consumes input 
+PASS Restart: cancel preserves state 
+PASS Restart: Escape cancels 
+PASS Restart: selection leaves dialog open 
+PASS Restart: confirm consumes input 
+PASS Restart: confirmed restart starts small at course entrance 
+PASS Restart: restart clears temporary state 
+PASS Restart: restart resets timer and motion 
+PASS Restart: restart preserves totals and closes menus 
+PASS Restart: duplicate confirmation is ignored 
+PASS Restart: 1-1 modal freezes gameplay form=2 
+PASS Restart: default Enter cancels and consumes input 
+PASS Restart: cancel preserves state 
+PASS Restart: Escape cancels 
+PASS Restart: selection leaves dialog open 
+PASS Restart: confirm consumes input 
+PASS Restart: confirmed restart starts small at course entrance 
+PASS Restart: restart clears temporary state 
+PASS Restart: restart resets timer and motion 
+PASS Restart: restart preserves totals and closes menus 
+PASS Restart: duplicate confirmation is ignored 
+PASS Restart: 1-1 modal freezes gameplay form=3 
+PASS Restart: default Enter cancels and consumes input 
+PASS Restart: cancel preserves state 
+PASS Restart: Escape cancels 
+PASS Restart: selection leaves dialog open 
+PASS Restart: confirm consumes input 
+PASS Restart: confirmed restart starts small at course entrance 
+PASS Restart: restart clears temporary state 
+PASS Restart: restart resets timer and motion 
+PASS Restart: restart preserves totals and closes menus 
+PASS Restart: duplicate confirmation is ignored 
+PASS Restart: death skip consumed at tick 0 
+PASS Restart: 1-1 quick respawn uses checkpoint and small form 
+PASS Restart: respawn preserves score and resets timer 
+PASS Restart: repeated death completion cannot deduct life 
+PASS Restart: death skip consumed at tick 30 
+PASS Restart: 1-1 quick respawn uses checkpoint and small form 
+PASS Restart: respawn preserves score and resets timer 
+PASS Restart: repeated death completion cannot deduct life 
+PASS Restart: death skip consumed at tick 149 
+PASS Restart: 1-1 quick respawn uses checkpoint and small form 
+PASS Restart: respawn preserves score and resets timer 
+PASS Restart: repeated death completion cannot deduct life 
+PASS Restart: death skip consumed at tick 150 
+PASS Restart: 1-1 quick respawn uses checkpoint and small form 
+PASS Restart: respawn preserves score and resets timer 
+PASS Restart: repeated death completion cannot deduct life 
+PASS Restart: normal death animation still plays 
+PASS Restart: automatic completion deducts exactly once 
+PASS Restart: last life skip ends game without new campaign 
+PASS Restart: last life automatic completion ends game 
+PASS Restart: normal level loading retains power 
+PASS Restart: new level clears stale confirmation 
+PASS Restart: J-1-1 modal freezes gameplay form=1 
+PASS Restart: default Enter cancels and consumes input 
+PASS Restart: cancel preserves state 
+PASS Restart: Escape cancels 
+PASS Restart: selection leaves dialog open 
+PASS Restart: confirm consumes input 
+PASS Restart: confirmed restart starts small at course entrance 
+PASS Restart: restart clears temporary state 
+PASS Restart: restart resets timer and motion 
+PASS Restart: restart preserves totals and closes menus 
+PASS Restart: duplicate confirmation is ignored 
+PASS Restart: J-1-1 modal freezes gameplay form=2 
+PASS Restart: default Enter cancels and consumes input 
+PASS Restart: cancel preserves state 
+PASS Restart: Escape cancels 
+PASS Restart: selection leaves dialog open 
+PASS Restart: confirm consumes input 
+PASS Restart: confirmed restart starts small at course entrance 
+PASS Restart: restart clears temporary state 
+PASS Restart: restart resets timer and motion 
+PASS Restart: restart preserves totals and closes menus 
+PASS Restart: duplicate confirmation is ignored 
+PASS Restart: J-1-1 modal freezes gameplay form=3 
+PASS Restart: default Enter cancels and consumes input 
+PASS Restart: cancel preserves state 
+PASS Restart: Escape cancels 
+PASS Restart: selection leaves dialog open 
+PASS Restart: confirm consumes input 
+PASS Restart: confirmed restart starts small at course entrance 
+PASS Restart: restart clears temporary state 
+PASS Restart: restart resets timer and motion 
+PASS Restart: restart preserves totals and closes menus 
+PASS Restart: duplicate confirmation is ignored 
+PASS Restart: death skip consumed at tick 0 
+PASS Restart: J-1-1 quick respawn uses checkpoint and small form 
+PASS Restart: respawn preserves score and resets timer 
+PASS Restart: repeated death completion cannot deduct life 
+PASS Restart: death skip consumed at tick 30 
+PASS Restart: J-1-1 quick respawn uses checkpoint and small form 
+PASS Restart: respawn preserves score and resets timer 
+PASS Restart: repeated death completion cannot deduct life 
+PASS Restart: death skip consumed at tick 149 
+PASS Restart: J-1-1 quick respawn uses checkpoint and small form 
+PASS Restart: respawn preserves score and resets timer 
+PASS Restart: repeated death completion cannot deduct life 
+PASS Restart: death skip consumed at tick 150 
+PASS Restart: J-1-1 quick respawn uses checkpoint and small form 
+PASS Restart: respawn preserves score and resets timer 
+PASS Restart: repeated death completion cannot deduct life 
+PASS Restart: normal death animation still plays 
+PASS Restart: automatic completion deducts exactly once 
+PASS Restart: last life skip ends game without new campaign 
+PASS Restart: last life automatic completion ends game 
+PASS Restart: normal level loading retains power 
+PASS Restart: new level clears stale confirmation 
+PASS Restart: UI glyph 立 
+PASS Restart: UI glyph 即 
+PASS Restart: UI glyph 复 
+PASS Restart: UI glyph 活 
+PASS Restart: UI glyph 跳 
+PASS Restart: UI glyph 过 
+PASS Restart: UI glyph 动 
+PASS Restart: UI glyph 画 
+PASS Restart: UI glyph 确 
+PASS Restart: UI glyph 认 
+PASS Restart: UI glyph 重 
+PASS Restart: UI glyph 玩 
+PASS Restart: UI glyph 本 
+PASS Restart: UI glyph 关 
+PASS Restart: UI glyph 从 
+PASS Restart: UI glyph 起 
+PASS Restart: UI glyph 点 
+PASS Restart: UI glyph 以 
+PASS Restart: UI glyph 小 
+PASS Restart: UI glyph 马 
+PASS Restart: UI glyph 里 
+PASS Restart: UI glyph 奥 
+PASS Restart: UI glyph 重 
+PASS Restart: UI glyph 新 
+PASS Restart: UI glyph 开 
+PASS Restart: UI glyph 始 
+PASS Restart: UI glyph 保 
+PASS Restart: UI glyph 留 
+PASS Restart: UI glyph 分 
+PASS Restart: UI glyph 数 
+PASS Restart: UI glyph 金 
+PASS Restart: UI glyph 币 
+PASS Restart: UI glyph 和 
+PASS Restart: UI glyph 生 
+PASS Restart: UI glyph 命 
+PASS Restart: UI glyph 取 
+PASS Restart: UI glyph 消 
+PASS Restart: UI glyph 左 
+PASS Restart: UI glyph 右 
+PASS Restart: UI glyph 选 
+PASS Restart: UI glyph 择 
+PASS Restart: UI glyph 回 
+PASS Restart: UI glyph 车 

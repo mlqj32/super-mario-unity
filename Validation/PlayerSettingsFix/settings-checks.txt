@@ -1,0 +1,27 @@
+PASS Settings: fill entire (1920, 1080) 
+PASS Settings: proportional view fits (1920, 1080) 
+PASS Settings: fill entire (2048, 1088) 
+PASS Settings: proportional view fits (2048, 1088) 
+PASS Settings: fill entire (768, 720) 
+PASS Settings: proportional view fits (768, 720) 
+PASS Settings: fill entire (800, 1200) 
+PASS Settings: proportional view fits (800, 1200) 
+PASS Settings: volume clamps at zero 
+PASS Settings: volume clamps at one 
+PASS Settings: mute preserves level 
+PASS Settings: unmute restores level 
+PASS Settings: preferences reload 
+PASS Settings: settings keep gameplay paused 
+PASS Settings: settings return to pause 
+PASS Settings: resume still works 
+PASS Settings: settings return to title 
+PASS window mode applies 
+PASS window has no black border 
+PASS native window policy installed 
+PASS all eight resize edges blocked 
+PASS maximize remains available 
+PASS maximized view fills screen 
+PASS restore returns fixed window 
+PASS borderless fullscreen applies 
+PASS fullscreen has no black border 
+PASS fullscreen returns to window 

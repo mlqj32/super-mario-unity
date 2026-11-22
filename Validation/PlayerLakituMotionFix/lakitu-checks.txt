@@ -1,0 +1,30 @@
+PASS Lakitu motion: start stop and reversal accelerate gradually maxDeltaV=0.1
+PASS Lakitu motion: pursuit speed is bounded maxSpeed=3.1
+PASS Lakitu motion: vertical bob does not snap maxStep=0.1500092
+PASS Lakitu motion: full run remains tracked maxDistance=42.49512
+PASS Lakitu motion: sustained reversal catches player distance=42.24329
+PASS Lakitu motion: small input changes do not jerk pursuit maxDeltaV=0.1
+PASS Lakitu motion: small input changes do not flicker facing turns=1
+PASS Lakitu motion: nearby idle patrol is slow maxSpeed=0.2603668
+PASS Lakitu motion: nonstandard spawn height settles without teleport 
+PASS Lakitu motion: leaving encounter also turns smoothly 
+PASS Lakitu motion: blocked player does not drag cloud away -1 distance=0.4453125
+PASS Lakitu motion: blocked player does not drag cloud away 1 distance=0.4442139
+PASS Lakitu: 1200-frame full-speed pursuit stays visible maxDistance=46.01877 playerX=3018.25
+PASS Lakitu: idle patrol stays near Mario 
+PASS Lakitu: reversing does not discard cloud 
+PASS Lakitu: off-left pursuer catches up instead of despawning 
+PASS Lakitu: repeated marker keeps one cloud 
+PASS Lakitu: throw windup uses hiding sprite 
+PASS Lakitu: throw releases egg and exits hiding 
+PASS Lakitu: defeated cloud returns after delay 
+PASS Lakitu: stop marker cancels same-frame throw 
+PASS Lakitu: fleeing cloud leaves and cannot respawn 
+PASS Lakitu: new area resets encounter 
+PASS Lakitu: 4-1 sustained scroll pursuit 
+PASS Lakitu: 6-1 sustained scroll pursuit 
+PASS Lakitu: 8-2 sustained scroll pursuit 
+PASS Lakitu: J-4-1 sustained scroll pursuit 
+PASS Lakitu: J-4-2 sustained scroll pursuit 
+PASS Lakitu: J-8-3 sustained scroll pursuit 
+PASS Lakitu rendered screen motion maxStep=4

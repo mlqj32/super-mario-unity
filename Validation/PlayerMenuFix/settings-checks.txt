@@ -1,0 +1,38 @@
+PASS Settings: old stretch preference migrates to original ratio 
+PASS Settings: migration preserves volume and window settings 
+PASS Settings: explicit stretch choice survives reload 
+PASS Settings: fresh install defaults to original ratio 
+PASS Settings: preset fills without distortion (512, 480) 
+PASS Settings: preset fills without distortion (768, 720) 
+PASS Settings: preset fills without distortion (1024, 960) 
+PASS Settings: fill entire (1920, 1080) 
+PASS Settings: proportional view fits (1920, 1080) 
+PASS Settings: fill entire (2048, 1088) 
+PASS Settings: proportional view fits (2048, 1088) 
+PASS Settings: fill entire (768, 720) 
+PASS Settings: proportional view fits (768, 720) 
+PASS Settings: fill entire (800, 1200) 
+PASS Settings: proportional view fits (800, 1200) 
+PASS Settings: volume clamps at zero 
+PASS Settings: volume percent glyph exists 
+PASS Settings: volume clamps at one 
+PASS Settings: mute preserves level 
+PASS Settings: unmute restores level 
+PASS Settings: preferences reload 
+PASS Settings: settings keep gameplay paused 
+PASS Settings: settings return to pause 
+PASS Settings: resume still works 
+PASS Settings: settings return to title 
+PASS window mode applies 
+PASS window has no black border 
+FAIL native window policy installed 
+PASS all eight resize edges blocked 
+FAIL maximize remains available 
+PASS maximized view fills screen 
+PASS restore returns fixed window 
+PASS borderless fullscreen applies 
+PASS fullscreen has no black border 
+PASS fullscreen returns to window 
+PASS standard window uses original ratio 
+PASS new game starts with ten lives 
+PASS first death leaves nine lives 

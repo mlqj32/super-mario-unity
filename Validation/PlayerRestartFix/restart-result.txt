@@ -1,0 +1,1 @@
+MARIO_RESTART_PASS checks=153 errors=0

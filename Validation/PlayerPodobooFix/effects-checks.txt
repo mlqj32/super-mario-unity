@@ -1,0 +1,454 @@
+PASS Podoboo: Podoboo rising 0 rendered pixels painted=182 mismatches=0
+PASS Podoboo: reaches apex 0 y=91.75
+PASS Podoboo: gravity continues through zero velocity 0 
+PASS Podoboo: falls with downward sprite 0 
+PASS Podoboo: Podoboo falling 0 rendered pixels painted=182 mismatches=0
+PASS Podoboo: returns and waits below lava 0/90 
+PASS Podoboo: submerged body is hidden 0/90 
+PASS Podoboo: returns and waits below lava 0/150 
+PASS Podoboo: submerged body is hidden 0/150 
+PASS Podoboo: Podoboo rising 1 rendered pixels painted=182 mismatches=0
+PASS Podoboo: reaches apex 1 y=91.75
+PASS Podoboo: gravity continues through zero velocity 1 
+PASS Podoboo: falls with downward sprite 1 
+PASS Podoboo: Podoboo falling 1 rendered pixels painted=182 mismatches=0
+PASS Podoboo: returns and waits below lava 1/90 
+PASS Podoboo: submerged body is hidden 1/90 
+PASS Podoboo: returns and waits below lava 1/150 
+PASS Podoboo: submerged body is hidden 1/150 
+PASS Podoboo: Podoboo rising 2 rendered pixels painted=182 mismatches=0
+PASS Podoboo: reaches apex 2 y=91.75
+PASS Podoboo: gravity continues through zero velocity 2 
+PASS Podoboo: falls with downward sprite 2 
+PASS Podoboo: Podoboo falling 2 rendered pixels painted=182 mismatches=0
+PASS Podoboo: returns and waits below lava 2/90 
+PASS Podoboo: submerged body is hidden 2/90 
+PASS Podoboo: returns and waits below lava 2/150 
+PASS Podoboo: submerged body is hidden 2/150 
+PASS Podoboo: next cycle reappears 
+PASS Podoboo: pause holds apex 
+PASS Podoboo: resume continues falling 
+PASS Podoboo: 2-4/0 actual lava fire completes arc 
+PASS Podoboo: 2-4/0 actual lava fire completes arc 
+PASS Podoboo: 3-4/0 actual lava fire completes arc 
+PASS Podoboo: 3-4/0 actual lava fire completes arc 
+PASS Podoboo: 3-4/0 actual lava fire completes arc 
+PASS Podoboo: 3-4/0 actual lava fire completes arc 
+PASS Podoboo: 3-4/0 actual lava fire completes arc 
+PASS Podoboo: 3-4/0 actual lava fire completes arc 
+PASS Podoboo: 5-4/0 actual lava fire completes arc 
+PASS Podoboo: 5-4/0 actual lava fire completes arc 
+PASS Podoboo: 5-4/0 actual lava fire completes arc 
+PASS Podoboo: 5-4/0 actual lava fire completes arc 
+PASS Podoboo: 5-4/0 actual lava fire completes arc 
+PASS Podoboo: 5-4/0 actual lava fire completes arc 
+PASS Podoboo: 6-4/0 actual lava fire completes arc 
+PASS Podoboo: 6-4/0 actual lava fire completes arc 
+PASS Podoboo: 7-4/0 actual lava fire completes arc 
+PASS Podoboo: 8-4/5 actual lava fire completes arc 
+PASS Podoboo: J-2-4/0 actual lava fire completes arc 
+PASS Podoboo: J-2-4/0 actual lava fire completes arc 
+PASS Podoboo: J-2-4/0 actual lava fire completes arc 
+PASS Podoboo: J-2-4/0 actual lava fire completes arc 
+PASS Podoboo: J-3-4/0 actual lava fire completes arc 
+PASS Podoboo: J-3-4/0 actual lava fire completes arc 
+PASS Podoboo: J-4-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-5-4/0 actual lava fire completes arc 
+PASS Podoboo: J-6-4/0 actual lava fire completes arc 
+PASS Podoboo: J-6-4/0 actual lava fire completes arc 
+PASS Podoboo: J-6-4/0 actual lava fire completes arc 
+PASS Podoboo: J-7-4/0 actual lava fire completes arc 
+PASS Podoboo: J-8-4/0 actual lava fire completes arc 
+PASS Effects: wall-left impact spawns one explosion 
+PASS Effects: wall-left cannot duplicate explosion 
+PASS Effects: wall-left explosion 0 rendered pixels painted=44 mismatches=0
+PASS Effects: wall-left explosion 7 rendered pixels painted=112 mismatches=0
+PASS Effects: wall-left explosion 14 rendered pixels painted=200 mismatches=0
+PASS Effects: wall-left displays three explosion cells 
+PASS Effects: wall-left explosion expires without damage or points 
+PASS Effects: wall-right impact spawns one explosion 
+PASS Effects: wall-right cannot duplicate explosion 
+PASS Effects: wall-right explosion 0 rendered pixels painted=44 mismatches=0
+PASS Effects: wall-right explosion 7 rendered pixels painted=112 mismatches=0
+PASS Effects: wall-right explosion 14 rendered pixels painted=200 mismatches=0
+PASS Effects: wall-right displays three explosion cells 
+PASS Effects: wall-right explosion expires without damage or points 
+PASS Effects: ceiling impact spawns one explosion 
+PASS Effects: ceiling cannot duplicate explosion 
+PASS Effects: ceiling explosion 0 rendered pixels painted=44 mismatches=0
+PASS Effects: ceiling explosion 7 rendered pixels painted=112 mismatches=0
+PASS Effects: ceiling explosion 14 rendered pixels painted=200 mismatches=0
+PASS Effects: ceiling displays three explosion cells 
+PASS Effects: ceiling explosion expires without damage or points 
+PASS Effects: Goomba impact spawns one explosion 
+PASS Effects: Goomba cannot duplicate explosion 
+PASS Effects: Goomba explosion 0 rendered pixels painted=44 mismatches=0
+PASS Effects: Goomba explosion 7 rendered pixels painted=112 mismatches=0
+PASS Effects: Goomba explosion 14 rendered pixels painted=200 mismatches=0
+PASS Effects: Goomba displays three explosion cells 
+PASS Effects: Goomba explosion expires without damage or points 
+PASS Effects: Beetle impact spawns one explosion 
+PASS Effects: Beetle cannot duplicate explosion 
+PASS Effects: Beetle explosion 0 rendered pixels painted=44 mismatches=0
+PASS Effects: Beetle explosion 7 rendered pixels painted=112 mismatches=0
+PASS Effects: Beetle explosion 14 rendered pixels painted=200 mismatches=0
+PASS Effects: Beetle displays three explosion cells 
+PASS Effects: Beetle explosion expires without damage or points 
+PASS Effects: BeetleShell impact spawns one explosion 
+PASS Effects: BeetleShell cannot duplicate explosion 
+PASS Effects: BeetleShell explosion 0 rendered pixels painted=44 mismatches=0
+PASS Effects: BeetleShell explosion 7 rendered pixels painted=112 mismatches=0
+PASS Effects: BeetleShell explosion 14 rendered pixels painted=200 mismatches=0
+PASS Effects: BeetleShell displays three explosion cells 
+PASS Effects: BeetleShell explosion expires without damage or points 
+PASS Effects: BulletBill impact spawns one explosion 
+PASS Effects: BulletBill cannot duplicate explosion 
+PASS Effects: BulletBill explosion 0 rendered pixels painted=44 mismatches=0
+PASS Effects: BulletBill explosion 7 rendered pixels painted=112 mismatches=0
+PASS Effects: BulletBill explosion 14 rendered pixels painted=200 mismatches=0
+PASS Effects: BulletBill displays three explosion cells 
+PASS Effects: BulletBill explosion expires without damage or points 
+PASS Effects: Bowser impact spawns one explosion 
+PASS Effects: Bowser cannot duplicate explosion 
+PASS Effects: Bowser explosion 0 rendered pixels painted=44 mismatches=0
+PASS Effects: Bowser explosion 7 rendered pixels painted=112 mismatches=0
+PASS Effects: Bowser explosion 14 rendered pixels painted=200 mismatches=0
+PASS Effects: Bowser displays three explosion cells 
+PASS Effects: Bowser explosion expires without damage or points 
+PASS Effects: offscreen cleanup does not explode 
+PASS Effects: ground bounce does not explode 
+PASS Effects: explosion releases projectile slot 
+PASS Effects: Overworld pop coin 0 rendered pixels painted=84 mismatches=0
+PASS Effects: Overworld pop coin 2 rendered pixels painted=48 mismatches=0
+PASS Effects: Overworld pop coin 4 rendered pixels painted=14 mismatches=0
+PASS Effects: Overworld pop coin 6 rendered pixels painted=48 mismatches=0
+PASS Effects: Overworld coin rotates through four frames 
+PASS Effects: coin becomes 200 without duplicate points Overworld 
+PASS Effects: Overworld 200 popup rendered pixels painted=78 mismatches=0
+PASS Effects: Overworld score text expires 
+PASS Effects: Overworld brick produces four fragments 
+PASS Effects: Overworld brick fragment rendered pixels painted=46 mismatches=0
+PASS Effects: Overworld brick fragment rendered pixels painted=46 mismatches=0
+PASS Effects: Overworld brick fragment rendered pixels painted=46 mismatches=0
+PASS Effects: Overworld brick fragment rendered pixels painted=46 mismatches=0
+PASS Effects: Overworld fragments use dedicated 8px art 
+PASS Effects: Underworld pop coin 0 rendered pixels painted=84 mismatches=0
+PASS Effects: Underworld pop coin 2 rendered pixels painted=48 mismatches=0
+PASS Effects: Underworld pop coin 4 rendered pixels painted=14 mismatches=0
+PASS Effects: Underworld pop coin 6 rendered pixels painted=48 mismatches=0
+PASS Effects: Underworld coin rotates through four frames 
+PASS Effects: coin becomes 200 without duplicate points Underworld 
+PASS Effects: Underworld 200 popup rendered pixels painted=78 mismatches=0
+PASS Effects: Underworld score text expires 
+PASS Effects: Underworld brick produces four fragments 
+PASS Effects: Underworld brick fragment rendered pixels painted=46 mismatches=0
+PASS Effects: Underworld brick fragment rendered pixels painted=46 mismatches=0
+PASS Effects: Underworld brick fragment rendered pixels painted=46 mismatches=0
+PASS Effects: Underworld brick fragment rendered pixels painted=46 mismatches=0
+PASS Effects: Underworld fragments use dedicated 8px art 
+PASS Effects: Castle pop coin 0 rendered pixels painted=84 mismatches=0
+PASS Effects: Castle pop coin 2 rendered pixels painted=48 mismatches=0
+PASS Effects: Castle pop coin 4 rendered pixels painted=14 mismatches=0
+PASS Effects: Castle pop coin 6 rendered pixels painted=48 mismatches=0
+PASS Effects: Castle coin rotates through four frames 
+PASS Effects: coin becomes 200 without duplicate points Castle 
+PASS Effects: Castle 200 popup rendered pixels painted=78 mismatches=0
+PASS Effects: Castle score text expires 
+PASS Effects: Castle brick produces four fragments 
+PASS Effects: Castle brick fragment rendered pixels painted=46 mismatches=0
+PASS Effects: Castle brick fragment rendered pixels painted=46 mismatches=0
+PASS Effects: Castle brick fragment rendered pixels painted=46 mismatches=0
+PASS Effects: Castle brick fragment rendered pixels painted=46 mismatches=0
+PASS Effects: Castle fragments use dedicated 8px art 
+PASS Effects: Goomba awards visible score label 
+PASS Effects: Goomba score text rendered pixels painted=67 mismatches=0
+PASS Effects: Mushroom awards visible score label 
+PASS Effects: Mushroom score text rendered pixels painted=91 mismatches=0
+PASS Effects: FireFlower awards visible score label 
+PASS Effects: FireFlower score text rendered pixels painted=91 mismatches=0
+PASS Effects: Mushroom1Up awards visible score label 
+PASS Effects: Mushroom1Up score text rendered pixels painted=76 mismatches=0
+PASS Effects: Star awards visible score label 
+PASS Effects: Star score text rendered pixels painted=91 mismatches=0
+PASS Effects: shell chain safely creates multiple labels 
+PASS Effects: Flag does not freeze transient effects 
+PASS Effects: Castle does not freeze transient effects 
+PASS Effects: Clear does not freeze transient effects 
+PASS Effects: Dying does not freeze transient effects 
+PASS Effects: underwater breathing emits bubble 
+PASS Effects: water bubble rendered pixels painted=8 mismatches=0
+PASS Effects: bubble rises 
+PASS Effects: bubble expires at surface 
+PASS Effects: firework rule False digit 0 
+PASS Effects: firework rule False digit 1 
+PASS Effects: firework rule False digit 2 
+PASS Effects: firework rule False digit 3 
+PASS Effects: firework rule False digit 4 
+PASS Effects: firework rule False digit 5 
+PASS Effects: firework rule False digit 6 
+PASS Effects: firework rule False digit 7 
+PASS Effects: firework rule False digit 8 
+PASS Effects: firework rule False digit 9 
+PASS Effects: firework rule True digit 0 
+PASS Effects: Japanese unmatched digits 0 
+PASS Effects: firework rule True digit 1 
+PASS Effects: Japanese unmatched digits 1 
+PASS Effects: firework rule True digit 2 
+PASS Effects: Japanese unmatched digits 2 
+PASS Effects: firework rule True digit 3 
+PASS Effects: Japanese unmatched digits 3 
+PASS Effects: firework rule True digit 4 
+PASS Effects: Japanese unmatched digits 4 
+PASS Effects: firework rule True digit 5 
+PASS Effects: Japanese unmatched digits 5 
+PASS Effects: firework rule True digit 6 
+PASS Effects: Japanese unmatched digits 6 
+PASS Effects: firework rule True digit 7 
+PASS Effects: Japanese unmatched digits 7 
+PASS Effects: firework rule True digit 8 
+PASS Effects: Japanese unmatched digits 8 
+PASS Effects: firework rule True digit 9 
+PASS Effects: Japanese unmatched digits 9 
+PASS Effects: six fireworks finish before advancing 
+PASS Effects: fireworks allow next course 
+PASS Effects: five fireballs defeat Bowser with five impacts 
+PASS Effects: defeated Bowser upside down rendered pixels painted=531 mismatches=0
+PASS Effects: 1-4 axe starts collapse 
+PASS Effects: 1-4 bridge removes visible eight-pixel section 
+PASS Effects: 1-4 Bowser visibly falls 
+PASS Effects: J-1-4 axe starts collapse 
+PASS Effects: J-1-4 bridge removes visible eight-pixel section 
+PASS Effects: J-1-4 Bowser visibly falls 
+PASS Effects: Fireball on castle wall 0 rendered pixels painted=43 mismatches=0
+PASS Effects: Fireball on castle wall 4 rendered pixels painted=43 mismatches=0
+PASS Effects: Fireball on castle wall 8 rendered pixels painted=43 mismatches=0
+PASS Effects: Fireball on castle wall 12 rendered pixels painted=43 mismatches=0
+PASS Effects: Fireball painted animation states states=4
+PASS Effects: FireFlower on castle wall 0 rendered pixels painted=162 mismatches=0
+PASS Effects: FireFlower on castle wall 4 rendered pixels painted=162 mismatches=0
+PASS Effects: FireFlower on castle wall 8 rendered pixels painted=162 mismatches=0
+PASS Effects: FireFlower on castle wall 12 rendered pixels painted=162 mismatches=0
+PASS Effects: FireFlower painted animation states states=4
+PASS Effects: Star on castle wall 0 rendered pixels painted=122 mismatches=0
+PASS Effects: Star on castle wall 4 rendered pixels painted=122 mismatches=0
+PASS Effects: Star on castle wall 8 rendered pixels painted=122 mismatches=0
+PASS Effects: Star on castle wall 12 rendered pixels painted=122 mismatches=0
+PASS Effects: Star painted animation states states=4
+PASS Effects: Hammer on castle wall 0 rendered pixels painted=52 mismatches=0
+PASS Effects: Hammer on castle wall 4 rendered pixels painted=52 mismatches=0
+PASS Effects: Hammer on castle wall 8 rendered pixels painted=52 mismatches=0
+PASS Effects: Hammer on castle wall 12 rendered pixels painted=52 mismatches=0
+PASS Effects: Hammer painted animation states states=4
+PASS Effects: CastleFireball on castle wall 0 rendered pixels painted=43 mismatches=0
+PASS Effects: CastleFireball on castle wall 4 rendered pixels painted=43 mismatches=0
+PASS Effects: CastleFireball on castle wall 8 rendered pixels painted=43 mismatches=0
+PASS Effects: CastleFireball on castle wall 12 rendered pixels painted=43 mismatches=0
+PASS Effects: CastleFireball painted animation states states=4
+PASS Effects: BowserFire on castle wall 0 rendered pixels painted=130 mismatches=0
+PASS Effects: BowserFire on castle wall 8 rendered pixels painted=130 mismatches=0
+PASS Effects: BowserFire painted animation states states=2
+PASS Effects: Podoboo on castle wall 0 rendered pixels painted=182 mismatches=0
+PASS Effects: Podoboo on castle wall 8 rendered pixels painted=182 mismatches=0
+PASS Effects: Podoboo painted animation states states=2
+PASS Effects: Coin on castle wall 0 rendered pixels painted=124 mismatches=0
+PASS Effects: Coin on castle wall 24 rendered pixels painted=124 mismatches=0
+PASS Effects: Coin on castle wall 32 rendered pixels painted=124 mismatches=0
+PASS Effects: Coin painted animation states states=3
+PASS Effects: BrickShard on castle wall 0 rendered pixels painted=46 mismatches=0
+PASS Effects: BrickShard on castle wall 4 rendered pixels painted=46 mismatches=0
+PASS Effects: BrickShard painted animation states states=2
+PASS Effects: 1-4 boss 1 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: 1-4 boss 1 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: 1-4 boss 1 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: 1-4 boss 1 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: 1-4 boss 1 four body/mouth poses states=4
+PASS Effects: 1-4 boss 1 remains on castle terrain y=48
+PASS Effects: 1-4 boss 1 emits mouth flame bossX=2209.383
+PASS Effects: 1-4 boss 1 breath rendered pixels painted=130 mismatches=0
+PASS Effects: 1-4 boss 1 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: 1-4 boss 1 breath travels 
+PASS Effects: 1-4 boss 1 facing matches breath direction 
+PASS Effects: 2-4 boss 2 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: 2-4 boss 2 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: 2-4 boss 2 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: 2-4 boss 2 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: 2-4 boss 2 four body/mouth poses states=4
+PASS Effects: 2-4 boss 2 remains on castle terrain y=48
+PASS Effects: 2-4 boss 2 emits mouth flame bossX=2209.383
+PASS Effects: 2-4 boss 2 breath rendered pixels painted=130 mismatches=0
+PASS Effects: 2-4 boss 2 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: 2-4 boss 2 breath travels 
+PASS Effects: 2-4 boss 2 facing matches breath direction 
+PASS Effects: 3-4 boss 3 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: 3-4 boss 3 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: 3-4 boss 3 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: 3-4 boss 3 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: 3-4 boss 3 four body/mouth poses states=4
+PASS Effects: 3-4 boss 3 remains on castle terrain y=48
+PASS Effects: 3-4 boss 3 emits mouth flame bossX=2209.383
+PASS Effects: 3-4 boss 3 breath rendered pixels painted=130 mismatches=0
+PASS Effects: 3-4 boss 3 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: 3-4 boss 3 breath travels 
+PASS Effects: 3-4 boss 3 facing matches breath direction 
+PASS Effects: 4-4 boss 4 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: 4-4 boss 4 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: 4-4 boss 4 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: 4-4 boss 4 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: 4-4 boss 4 four body/mouth poses states=4
+PASS Effects: 4-4 boss 4 remains on castle terrain y=48
+PASS Effects: 4-4 boss 4 emits mouth flame bossX=1185.383
+PASS Effects: 4-4 boss 4 breath rendered pixels painted=130 mismatches=0
+PASS Effects: 4-4 boss 4 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: 4-4 boss 4 breath travels 
+PASS Effects: 4-4 boss 4 facing matches breath direction 
+PASS Effects: 5-4 boss 5 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: 5-4 boss 5 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: 5-4 boss 5 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: 5-4 boss 5 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: 5-4 boss 5 four body/mouth poses states=4
+PASS Effects: 5-4 boss 5 remains on castle terrain y=48
+PASS Effects: 5-4 boss 5 emits mouth flame bossX=2209.383
+PASS Effects: 5-4 boss 5 breath rendered pixels painted=130 mismatches=0
+PASS Effects: 5-4 boss 5 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: 5-4 boss 5 breath travels 
+PASS Effects: 5-4 boss 5 facing matches breath direction 
+PASS Effects: 6-4 boss 6 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: 6-4 boss 6 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: 6-4 boss 6 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: 6-4 boss 6 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: 6-4 boss 6 four body/mouth poses states=4
+PASS Effects: 6-4 boss 6 remains on castle terrain y=48
+PASS Effects: 6-4 boss 6 emits mouth flame bossX=2209.383
+PASS Effects: 6-4 boss 6 breath rendered pixels painted=130 mismatches=0
+PASS Effects: 6-4 boss 6 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: 6-4 boss 6 breath travels 
+PASS Effects: 6-4 boss 6 facing matches breath direction 
+PASS Effects: 7-4 boss 7 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: 7-4 boss 7 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: 7-4 boss 7 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: 7-4 boss 7 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: 7-4 boss 7 four body/mouth poses states=4
+PASS Effects: 7-4 boss 7 remains on castle terrain y=48
+PASS Effects: 7-4 boss 7 emits mouth flame bossX=1729.383
+PASS Effects: 7-4 boss 7 breath rendered pixels painted=130 mismatches=0
+PASS Effects: 7-4 boss 7 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: 7-4 boss 7 breath travels 
+PASS Effects: 7-4 boss 7 facing matches breath direction 
+PASS Effects: 8-4 boss 8 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: 8-4 boss 8 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: 8-4 boss 8 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: 8-4 boss 8 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: 8-4 boss 8 four body/mouth poses states=4
+PASS Effects: 8-4 boss 8 remains on castle terrain y=48
+PASS Effects: 8-4 boss 8 emits mouth flame bossX=625.3826
+PASS Effects: 8-4 boss 8 breath rendered pixels painted=130 mismatches=0
+PASS Effects: 8-4 boss 8 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: 8-4 boss 8 breath travels 
+PASS Effects: 8-4 boss 8 facing matches breath direction 
+PASS Effects: J-1-4 boss 9 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: J-1-4 boss 9 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: J-1-4 boss 9 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: J-1-4 boss 9 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: J-1-4 boss 9 four body/mouth poses states=4
+PASS Effects: J-1-4 boss 9 remains on castle terrain y=48
+PASS Effects: J-1-4 boss 9 emits mouth flame bossX=2183.383
+PASS Effects: J-1-4 boss 9 breath rendered pixels painted=130 mismatches=0
+PASS Effects: J-1-4 boss 9 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: J-1-4 boss 9 breath travels 
+PASS Effects: J-1-4 boss 9 facing matches breath direction 
+PASS Effects: J-2-4 boss 10 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: J-2-4 boss 10 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: J-2-4 boss 10 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: J-2-4 boss 10 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: J-2-4 boss 10 four body/mouth poses states=4
+PASS Effects: J-2-4 boss 10 remains on castle terrain y=48
+PASS Effects: J-2-4 boss 10 emits mouth flame bossX=2183.383
+PASS Effects: J-2-4 boss 10 breath rendered pixels painted=130 mismatches=0
+PASS Effects: J-2-4 boss 10 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: J-2-4 boss 10 breath travels 
+PASS Effects: J-2-4 boss 10 facing matches breath direction 
+PASS Effects: J-3-4 boss 11 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: J-3-4 boss 11 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: J-3-4 boss 11 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: J-3-4 boss 11 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: J-3-4 boss 11 four body/mouth poses states=4
+PASS Effects: J-3-4 boss 11 remains on castle terrain y=48
+PASS Effects: J-3-4 boss 11 emits mouth flame bossX=2695.383
+PASS Effects: J-3-4 boss 11 breath rendered pixels painted=130 mismatches=0
+PASS Effects: J-3-4 boss 11 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: J-3-4 boss 11 breath travels 
+PASS Effects: J-3-4 boss 11 facing matches breath direction 
+PASS Effects: J-4-4 boss 12 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: J-4-4 boss 12 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: J-4-4 boss 12 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: J-4-4 boss 12 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: J-4-4 boss 12 four body/mouth poses states=4
+PASS Effects: J-4-4 boss 12 remains on castle terrain y=48
+PASS Effects: J-4-4 boss 12 emits mouth flame bossX=3207.383
+PASS Effects: J-4-4 boss 12 breath rendered pixels painted=130 mismatches=0
+PASS Effects: J-4-4 boss 12 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: J-4-4 boss 12 breath travels 
+PASS Effects: J-4-4 boss 12 facing matches breath direction 
+PASS Effects: J-5-4 boss 13 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: J-5-4 boss 13 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: J-5-4 boss 13 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: J-5-4 boss 13 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: J-5-4 boss 13 four body/mouth poses states=4
+PASS Effects: J-5-4 boss 13 remains on castle terrain y=48
+PASS Effects: J-5-4 boss 13 emits mouth flame bossX=3207.383
+PASS Effects: J-5-4 boss 13 breath rendered pixels painted=130 mismatches=0
+PASS Effects: J-5-4 boss 13 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: J-5-4 boss 13 breath travels 
+PASS Effects: J-5-4 boss 13 facing matches breath direction 
+PASS Effects: J-6-4 boss 14 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: J-6-4 boss 14 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: J-6-4 boss 14 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: J-6-4 boss 14 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: J-6-4 boss 14 four body/mouth poses states=4
+PASS Effects: J-6-4 boss 14 remains on castle terrain y=48
+PASS Effects: J-6-4 boss 14 emits mouth flame bossX=3207.383
+PASS Effects: J-6-4 boss 14 breath rendered pixels painted=130 mismatches=0
+PASS Effects: J-6-4 boss 14 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: J-6-4 boss 14 breath travels 
+PASS Effects: J-6-4 boss 14 facing matches breath direction 
+PASS Effects: J-7-4 boss 15 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: J-7-4 boss 15 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: J-7-4 boss 15 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: J-7-4 boss 15 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: J-7-4 boss 15 four body/mouth poses states=4
+PASS Effects: J-7-4 boss 15 remains on castle terrain y=48
+PASS Effects: J-7-4 boss 15 emits mouth flame bossX=3719.383
+PASS Effects: J-7-4 boss 15 breath rendered pixels painted=130 mismatches=0
+PASS Effects: J-7-4 boss 15 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: J-7-4 boss 15 breath travels 
+PASS Effects: J-7-4 boss 15 facing matches breath direction 
+PASS Effects: J-8-4 boss 16 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: J-8-4 boss 16 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: J-8-4 boss 16 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: J-8-4 boss 16 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: J-8-4 boss 16 four body/mouth poses states=4
+PASS Effects: J-8-4 boss 16 remains on castle terrain y=48
+PASS Effects: J-8-4 boss 16 emits mouth flame bossX=4743.381
+PASS Effects: J-8-4 boss 16 breath rendered pixels painted=130 mismatches=0
+PASS Effects: J-8-4 boss 16 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: J-8-4 boss 16 breath travels 
+PASS Effects: J-8-4 boss 16 facing matches breath direction 
+PASS Effects: J-8-4 boss 17 pose 12 rendered pixels painted=518 mismatches=0
+PASS Effects: J-8-4 boss 17 pose 22 rendered pixels painted=520 mismatches=0
+PASS Effects: J-8-4 boss 17 pose 0 rendered pixels painted=531 mismatches=0
+PASS Effects: J-8-4 boss 17 pose 10 rendered pixels painted=529 mismatches=0
+PASS Effects: J-8-4 boss 17 four body/mouth poses states=4
+PASS Effects: J-8-4 boss 17 remains on castle terrain y=48
+PASS Effects: J-8-4 boss 17 emits mouth flame bossX=6279.381
+PASS Effects: J-8-4 boss 17 breath rendered pixels painted=130 mismatches=0
+PASS Effects: J-8-4 boss 17 inverted breath frame rendered pixels painted=130 mismatches=0
+PASS Effects: J-8-4 boss 17 breath travels 
+PASS Effects: J-8-4 boss 17 facing matches breath direction 
+PASS Effects: all castle bosses covered bosses=17

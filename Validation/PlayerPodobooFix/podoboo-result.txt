@@ -1,0 +1,1 @@
+MARIO_PODOBOO_PASS checks=68 errors=0

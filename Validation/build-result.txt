@@ -1,0 +1,1 @@
+MARIO_BUILD_PASS errors=0 warnings=0 bytes=191883527

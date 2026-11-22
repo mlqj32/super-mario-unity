@@ -1,0 +1,1 @@
+MARIO_COIN_CHINESE_JAPAN_PASS checks=364 errors=0

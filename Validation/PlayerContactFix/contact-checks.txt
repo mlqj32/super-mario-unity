@@ -1,0 +1,295 @@
+PASS Contact: rising side size=1 crouch=False side=-1 overlap=0.25 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=False side=-1 overlap=2 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=False side=-1 overlap=3.75 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=False side=-1 overlap=4 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=False side=-1 overlap=4.25 phase=Dying power=1
+PASS Contact: rising side size=1 crouch=False side=-1 overlap=8 phase=Dying power=1
+PASS Contact: rising side size=1 crouch=False side=1 overlap=0.25 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=False side=1 overlap=2 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=False side=1 overlap=3.75 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=False side=1 overlap=4 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=False side=1 overlap=4.25 phase=Dying power=1
+PASS Contact: rising side size=1 crouch=False side=1 overlap=8 phase=Dying power=1
+PASS Contact: rising side size=1 crouch=True side=-1 overlap=0.25 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=True side=-1 overlap=2 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=True side=-1 overlap=3.75 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=True side=-1 overlap=4 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=True side=-1 overlap=4.25 phase=Dying power=1
+PASS Contact: rising side size=1 crouch=True side=-1 overlap=8 phase=Dying power=1
+PASS Contact: rising side size=1 crouch=True side=1 overlap=0.25 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=True side=1 overlap=2 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=True side=1 overlap=3.75 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=True side=1 overlap=4 phase=Playing power=1
+PASS Contact: rising side size=1 crouch=True side=1 overlap=4.25 phase=Dying power=1
+PASS Contact: rising side size=1 crouch=True side=1 overlap=8 phase=Dying power=1
+PASS Contact: rising side size=2 crouch=False side=-1 overlap=0.25 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=False side=-1 overlap=2 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=False side=-1 overlap=3.75 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=False side=-1 overlap=4 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=False side=-1 overlap=4.25 phase=Playing power=1
+PASS Contact: rising side size=2 crouch=False side=-1 overlap=8 phase=Playing power=1
+PASS Contact: rising side size=2 crouch=False side=1 overlap=0.25 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=False side=1 overlap=2 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=False side=1 overlap=3.75 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=False side=1 overlap=4 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=False side=1 overlap=4.25 phase=Playing power=1
+PASS Contact: rising side size=2 crouch=False side=1 overlap=8 phase=Playing power=1
+PASS Contact: rising side size=2 crouch=True side=-1 overlap=0.25 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=True side=-1 overlap=2 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=True side=-1 overlap=3.75 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=True side=-1 overlap=4 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=True side=-1 overlap=4.25 phase=Playing power=1
+PASS Contact: rising side size=2 crouch=True side=-1 overlap=8 phase=Playing power=1
+PASS Contact: rising side size=2 crouch=True side=1 overlap=0.25 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=True side=1 overlap=2 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=True side=1 overlap=3.75 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=True side=1 overlap=4 phase=Playing power=2
+PASS Contact: rising side size=2 crouch=True side=1 overlap=4.25 phase=Playing power=1
+PASS Contact: rising side size=2 crouch=True side=1 overlap=8 phase=Playing power=1
+PASS Contact: rising side size=3 crouch=False side=-1 overlap=0.25 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=False side=-1 overlap=2 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=False side=-1 overlap=3.75 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=False side=-1 overlap=4 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=False side=-1 overlap=4.25 phase=Playing power=1
+PASS Contact: rising side size=3 crouch=False side=-1 overlap=8 phase=Playing power=1
+PASS Contact: rising side size=3 crouch=False side=1 overlap=0.25 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=False side=1 overlap=2 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=False side=1 overlap=3.75 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=False side=1 overlap=4 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=False side=1 overlap=4.25 phase=Playing power=1
+PASS Contact: rising side size=3 crouch=False side=1 overlap=8 phase=Playing power=1
+PASS Contact: rising side size=3 crouch=True side=-1 overlap=0.25 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=True side=-1 overlap=2 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=True side=-1 overlap=3.75 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=True side=-1 overlap=4 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=True side=-1 overlap=4.25 phase=Playing power=1
+PASS Contact: rising side size=3 crouch=True side=-1 overlap=8 phase=Playing power=1
+PASS Contact: rising side size=3 crouch=True side=1 overlap=0.25 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=True side=1 overlap=2 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=True side=1 overlap=3.75 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=True side=1 overlap=4 phase=Playing power=3
+PASS Contact: rising side size=3 crouch=True side=1 overlap=4.25 phase=Playing power=1
+PASS Contact: rising side size=3 crouch=True side=1 overlap=8 phase=Playing power=1
+PASS Contact: rising vertical size=1 crouch=False above=False overlap=0.25 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=False above=True overlap=0.25 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=False above=False overlap=2 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=False above=True overlap=2 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=False above=False overlap=3.75 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=False above=True overlap=3.75 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=False above=False overlap=4 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=False above=True overlap=4 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=False above=False overlap=4.25 phase=Dying power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=False above=True overlap=4.25 phase=Dying power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=False above=False overlap=8 phase=Dying power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=False above=True overlap=8 phase=Dying power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=True above=False overlap=0.25 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=True above=True overlap=0.25 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=True above=False overlap=2 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=True above=True overlap=2 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=True above=False overlap=3.75 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=True above=True overlap=3.75 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=True above=False overlap=4 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=True above=True overlap=4 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=True above=False overlap=4.25 phase=Dying power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=True above=True overlap=4.25 phase=Dying power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=True above=False overlap=8 phase=Dying power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=1 crouch=True above=True overlap=8 phase=Dying power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=False above=False overlap=0.25 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=False above=True overlap=0.25 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=False above=False overlap=2 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=False above=True overlap=2 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=False above=False overlap=3.75 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=False above=True overlap=3.75 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=False above=False overlap=4 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=False above=True overlap=4 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=False above=False overlap=4.25 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=False above=True overlap=4.25 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=False above=False overlap=8 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=False above=True overlap=8 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=True above=False overlap=0.25 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=True above=True overlap=0.25 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=True above=False overlap=2 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=True above=True overlap=2 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=True above=False overlap=3.75 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=True above=True overlap=3.75 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=True above=False overlap=4 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=True above=True overlap=4 phase=Playing power=2
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=True above=False overlap=4.25 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=True above=True overlap=4.25 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=True above=False overlap=8 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=2 crouch=True above=True overlap=8 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=False above=False overlap=0.25 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=False above=True overlap=0.25 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=False above=False overlap=2 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=False above=True overlap=2 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=False above=False overlap=3.75 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=False above=True overlap=3.75 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=False above=False overlap=4 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=False above=True overlap=4 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=False above=False overlap=4.25 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=False above=True overlap=4.25 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=False above=False overlap=8 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=False above=True overlap=8 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=True above=False overlap=0.25 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=True above=True overlap=0.25 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=True above=False overlap=2 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=True above=True overlap=2 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=True above=False overlap=3.75 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=True above=True overlap=3.75 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=True above=False overlap=4 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=True above=True overlap=4 phase=Playing power=3
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=True above=False overlap=4.25 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=True above=True overlap=4.25 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=True above=False overlap=8 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: rising vertical size=3 crouch=True above=True overlap=8 phase=Playing power=1
+PASS Contact: rising contact never stomps 
+PASS Contact: edge stomp remains generous Goomba size=1 side=-1 
+PASS Contact: edge stomp remains generous Koopa size=1 side=-1 
+PASS Contact: edge stomp remains generous Beetle size=1 side=-1 
+PASS Contact: edge stomp remains generous Shell size=1 side=-1 
+PASS Contact: edge stomp remains generous BeetleShell size=1 side=-1 
+PASS Contact: edge stomp remains generous BulletBill size=1 side=-1 
+PASS Contact: edge stomp remains generous HammerBro size=1 side=-1 
+PASS Contact: edge stomp remains generous Goomba size=2 side=-1 
+PASS Contact: edge stomp remains generous Koopa size=2 side=-1 
+PASS Contact: edge stomp remains generous Beetle size=2 side=-1 
+PASS Contact: edge stomp remains generous Shell size=2 side=-1 
+PASS Contact: edge stomp remains generous BeetleShell size=2 side=-1 
+PASS Contact: edge stomp remains generous BulletBill size=2 side=-1 
+PASS Contact: edge stomp remains generous HammerBro size=2 side=-1 
+PASS Contact: edge stomp remains generous Goomba size=3 side=-1 
+PASS Contact: edge stomp remains generous Koopa size=3 side=-1 
+PASS Contact: edge stomp remains generous Beetle size=3 side=-1 
+PASS Contact: edge stomp remains generous Shell size=3 side=-1 
+PASS Contact: edge stomp remains generous BeetleShell size=3 side=-1 
+PASS Contact: edge stomp remains generous BulletBill size=3 side=-1 
+PASS Contact: edge stomp remains generous HammerBro size=3 side=-1 
+PASS Contact: edge stomp remains generous Goomba size=1 side=1 
+PASS Contact: edge stomp remains generous Koopa size=1 side=1 
+PASS Contact: edge stomp remains generous Beetle size=1 side=1 
+PASS Contact: edge stomp remains generous Shell size=1 side=1 
+PASS Contact: edge stomp remains generous BeetleShell size=1 side=1 
+PASS Contact: edge stomp remains generous BulletBill size=1 side=1 
+PASS Contact: edge stomp remains generous HammerBro size=1 side=1 
+PASS Contact: edge stomp remains generous Goomba size=2 side=1 
+PASS Contact: edge stomp remains generous Koopa size=2 side=1 
+PASS Contact: edge stomp remains generous Beetle size=2 side=1 
+PASS Contact: edge stomp remains generous Shell size=2 side=1 
+PASS Contact: edge stomp remains generous BeetleShell size=2 side=1 
+PASS Contact: edge stomp remains generous BulletBill size=2 side=1 
+PASS Contact: edge stomp remains generous HammerBro size=2 side=1 
+PASS Contact: edge stomp remains generous Goomba size=3 side=1 
+PASS Contact: edge stomp remains generous Koopa size=3 side=1 
+PASS Contact: edge stomp remains generous Beetle size=3 side=1 
+PASS Contact: edge stomp remains generous Shell size=3 side=1 
+PASS Contact: edge stomp remains generous BeetleShell size=3 side=1 
+PASS Contact: edge stomp remains generous BulletBill size=3 side=1 
+PASS Contact: edge stomp remains generous HammerBro size=3 side=1 
+PASS Contact: jump glances along enemy edge -1 
+PASS Contact: deep ascending side collision still hurts -1 
+PASS Contact: jump glances along enemy edge 1 
+PASS Contact: deep ascending side collision still hurts 1 
+PASS Contact: Spiny deep hazard contact remains dangerous 
+PASS Contact: SpinyEgg deep hazard contact remains dangerous 
+PASS Contact: Piranha deep hazard contact remains dangerous 
+PASS Contact: Bowser deep hazard contact remains dangerous 
+PASS Contact: Podoboo deep hazard contact remains dangerous 
+PASS Contact: Hammer deep hazard contact remains dangerous 
+PASS Contact: BowserFire deep hazard contact remains dangerous 
+PASS Contact: CastleFireball deep hazard contact remains dangerous 
+PASS Contact: water edge contact is forgiving but not a stomp 
+PASS Contact: water deep contact hurts instead of stomping 
+PASS Contact: star keeps generous attack box 
+PASS Contact: existing damage invulnerability preserved 
+PASS Contact: 8px firebar keeps dangerous core side=-1 overlap=2 
+PASS Contact: 8px firebar keeps dangerous core side=-1 overlap=3 
+PASS Contact: 8px firebar keeps dangerous core side=-1 overlap=3.25 
+PASS Contact: 8px firebar keeps dangerous core side=-1 overlap=6 
+PASS Contact: 8px firebar keeps dangerous core side=1 overlap=2 
+PASS Contact: 8px firebar keeps dangerous core side=1 overlap=3 
+PASS Contact: 8px firebar keeps dangerous core side=1 overlap=3.25 
+PASS Contact: 8px firebar keeps dangerous core side=1 overlap=6 
+PASS Contact: moving Shell side=-1 overlap=2 
+PASS Contact: moving Shell side=-1 overlap=4 
+PASS Contact: moving Shell side=-1 overlap=6 
+PASS Contact: moving Shell side=1 overlap=2 
+PASS Contact: moving Shell side=1 overlap=4 
+PASS Contact: moving Shell side=1 overlap=6 
+PASS Contact: moving BeetleShell side=-1 overlap=2 
+PASS Contact: moving BeetleShell side=-1 overlap=4 
+PASS Contact: moving BeetleShell side=-1 overlap=6 
+PASS Contact: moving BeetleShell side=1 overlap=2 
+PASS Contact: moving BeetleShell side=1 overlap=4 
+PASS Contact: moving BeetleShell side=1 overlap=6 
+PASS Contact: coin pickup retains wider reach 

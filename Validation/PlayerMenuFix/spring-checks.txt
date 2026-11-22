@@ -1,0 +1,37 @@
+PASS Springs: compresses and restores legacy=False boost=False min=13 restored=True
+PASS Springs: rendered poses change legacy=False boost=False poses=7
+PASS Springs: base stays fixed legacy=False boost=False 
+PASS Springs: launch follows compression legacy=False boost=False tick=11
+PASS Springs: bounce has useful height after falling legacy=False boost=False rise=59.5
+PASS Springs: bounce clears jump assistance legacy=False boost=False 
+PASS Springs: compresses and restores legacy=False boost=True min=13 restored=True
+PASS Springs: rendered poses change legacy=False boost=True poses=7
+PASS Springs: base stays fixed legacy=False boost=True 
+PASS Springs: launch follows compression legacy=False boost=True tick=11
+PASS Springs: bounce has useful height after falling legacy=False boost=True rise=170.625
+PASS Springs: bounce clears jump assistance legacy=False boost=True 
+PASS Springs: compresses and restores legacy=True boost=False min=13 restored=True
+PASS Springs: rendered poses change legacy=True boost=False poses=7
+PASS Springs: base stays fixed legacy=True boost=False 
+PASS Springs: launch follows compression legacy=True boost=False tick=11
+PASS Springs: bounce has useful height after falling legacy=True boost=False rise=59.5
+PASS Springs: bounce clears jump assistance legacy=True boost=False 
+PASS Springs: compresses and restores legacy=True boost=True min=13 restored=True
+PASS Springs: rendered poses change legacy=True boost=True poses=7
+PASS Springs: base stays fixed legacy=True boost=True 
+PASS Springs: launch follows compression legacy=True boost=True tick=11
+PASS Springs: bounce has useful height after falling legacy=True boost=True rise=170.625
+PASS Springs: bounce clears jump assistance legacy=True boost=True 
+PASS Springs: 2-1 spring clears adjacent 160px wall player=3040.75,160
+PASS Springs: direction input during compression does not push rider sideways -1 x=152.375 vy=11.5625
+PASS Springs: direction input during compression does not push rider sideways 1 x=170.875 vy=11.5625
+PASS Springs: compression tap boosts every player form 1 peak=199.625
+PASS Springs: compression tap boosts every player form 2 peak=199.625
+PASS Springs: compression tap boosts every player form 3 peak=199.625
+PASS Springs: leaving compressed spring cancels remote launch 
+PASS Springs: pause freezes spring and rider 
+PASS Springs: resume completes spring launch 
+PASS Springs: transition clears spring rider death 
+PASS Springs: transition clears spring rider load 
+PASS Springs: transition clears spring rider pipe 
+PASS Springs: boost still respects solid ceiling peak=48

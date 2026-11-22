@@ -1,0 +1,155 @@
+PASS Corpse: Goomba height=0 disappears only below visible screen age=48 top=-65.60001
+PASS Corpse: Goomba height=0 cannot score twice 
+PASS Corpse: Goomba height=96 remains visible beyond old 40-tick cutoff age=41 top=71
+PASS Corpse: Goomba height=96 disappears only below visible screen age=61 top=-70.99995
+PASS Corpse: Goomba height=96 cannot score twice 
+PASS Corpse: Goomba height=176 remains visible beyond old 40-tick cutoff age=41 top=151
+PASS Corpse: Goomba height=176 rendered pixels painted=180 mismatches=0
+PASS Corpse: Goomba height=176 disappears only below visible screen age=69 top=-70.19992
+PASS Corpse: Goomba height=176 cannot score twice 
+PASS Corpse: Koopa height=0 disappears only below visible screen age=49 top=-64.20001
+PASS Corpse: Koopa height=0 cannot score twice 
+PASS Corpse: Koopa height=96 remains visible beyond old 40-tick cutoff age=41 top=79
+PASS Corpse: Koopa height=96 disappears only below visible screen age=62 top=-72.19995
+PASS Corpse: Koopa height=96 cannot score twice 
+PASS Corpse: Koopa height=176 remains visible beyond old 40-tick cutoff age=41 top=159
+PASS Corpse: Koopa height=176 rendered pixels painted=213 mismatches=0
+PASS Corpse: Koopa height=176 disappears only below visible screen age=70 top=-72.99992
+PASS Corpse: Koopa height=176 cannot score twice 
+PASS Corpse: Beetle height=0 disappears only below visible screen age=48 top=-65.60001
+PASS Corpse: Beetle height=0 cannot score twice 
+PASS Corpse: Beetle height=96 remains visible beyond old 40-tick cutoff age=41 top=71
+PASS Corpse: Beetle height=96 disappears only below visible screen age=61 top=-70.99995
+PASS Corpse: Beetle height=96 cannot score twice 
+PASS Corpse: Beetle height=176 remains visible beyond old 40-tick cutoff age=41 top=151
+PASS Corpse: Beetle height=176 rendered pixels painted=188 mismatches=0
+PASS Corpse: Beetle height=176 disappears only below visible screen age=69 top=-70.19992
+PASS Corpse: Beetle height=176 cannot score twice 
+PASS Corpse: Spiny height=0 disappears only below visible screen age=48 top=-65.60001
+PASS Corpse: Spiny height=0 cannot score twice 
+PASS Corpse: Spiny height=96 remains visible beyond old 40-tick cutoff age=41 top=71
+PASS Corpse: Spiny height=96 disappears only below visible screen age=61 top=-70.99995
+PASS Corpse: Spiny height=96 cannot score twice 
+PASS Corpse: Spiny height=176 remains visible beyond old 40-tick cutoff age=41 top=151
+PASS Corpse: Spiny height=176 rendered pixels painted=150 mismatches=0
+PASS Corpse: Spiny height=176 disappears only below visible screen age=69 top=-70.19992
+PASS Corpse: Spiny height=176 cannot score twice 
+PASS Corpse: SpinyEgg height=0 disappears only below visible screen age=48 top=-65.60001
+PASS Corpse: SpinyEgg height=0 cannot score twice 
+PASS Corpse: SpinyEgg height=96 remains visible beyond old 40-tick cutoff age=41 top=71
+PASS Corpse: SpinyEgg height=96 disappears only below visible screen age=61 top=-70.99995
+PASS Corpse: SpinyEgg height=96 cannot score twice 
+PASS Corpse: SpinyEgg height=176 remains visible beyond old 40-tick cutoff age=41 top=151
+PASS Corpse: SpinyEgg height=176 rendered pixels painted=156 mismatches=0
+PASS Corpse: SpinyEgg height=176 disappears only below visible screen age=69 top=-70.19992
+PASS Corpse: SpinyEgg height=176 cannot score twice 
+PASS Corpse: Piranha height=0 disappears only below visible screen age=49 top=-64.20001
+PASS Corpse: Piranha height=0 cannot score twice 
+PASS Corpse: Piranha height=96 remains visible beyond old 40-tick cutoff age=41 top=79
+PASS Corpse: Piranha height=96 disappears only below visible screen age=62 top=-72.19995
+PASS Corpse: Piranha height=96 cannot score twice 
+PASS Corpse: Piranha height=176 remains visible beyond old 40-tick cutoff age=41 top=159
+PASS Corpse: Piranha height=176 rendered pixels painted=188 mismatches=0
+PASS Corpse: Piranha height=176 disappears only below visible screen age=70 top=-72.99992
+PASS Corpse: Piranha height=176 cannot score twice 
+PASS Corpse: Blooper height=0 disappears only below visible screen age=48 top=-65.60001
+PASS Corpse: Blooper height=0 cannot score twice 
+PASS Corpse: Blooper height=96 remains visible beyond old 40-tick cutoff age=41 top=71
+PASS Corpse: Blooper height=96 disappears only below visible screen age=61 top=-70.99995
+PASS Corpse: Blooper height=96 cannot score twice 
+PASS Corpse: Blooper height=176 remains visible beyond old 40-tick cutoff age=41 top=151
+PASS Corpse: Blooper height=176 rendered pixels painted=218 mismatches=0
+PASS Corpse: Blooper height=176 disappears only below visible screen age=69 top=-70.19992
+PASS Corpse: Blooper height=176 cannot score twice 
+PASS Corpse: CheepCheep height=0 disappears only below visible screen age=48 top=-65.60001
+PASS Corpse: CheepCheep height=0 cannot score twice 
+PASS Corpse: CheepCheep height=96 remains visible beyond old 40-tick cutoff age=41 top=71
+PASS Corpse: CheepCheep height=96 disappears only below visible screen age=61 top=-70.99995
+PASS Corpse: CheepCheep height=96 cannot score twice 
+PASS Corpse: CheepCheep height=176 remains visible beyond old 40-tick cutoff age=41 top=151
+PASS Corpse: CheepCheep height=176 rendered pixels painted=180 mismatches=0
+PASS Corpse: CheepCheep height=176 disappears only below visible screen age=69 top=-70.19992
+PASS Corpse: CheepCheep height=176 cannot score twice 
+PASS Corpse: BulletBill height=0 disappears only below visible screen age=48 top=-65.60001
+PASS Corpse: BulletBill height=0 cannot score twice 
+PASS Corpse: BulletBill height=96 remains visible beyond old 40-tick cutoff age=41 top=71
+PASS Corpse: BulletBill height=96 disappears only below visible screen age=61 top=-70.99995
+PASS Corpse: BulletBill height=96 cannot score twice 
+PASS Corpse: BulletBill height=176 remains visible beyond old 40-tick cutoff age=41 top=151
+PASS Corpse: BulletBill height=176 rendered pixels painted=188 mismatches=0
+PASS Corpse: BulletBill height=176 disappears only below visible screen age=69 top=-70.19992
+PASS Corpse: BulletBill height=176 cannot score twice 
+PASS Corpse: Lakitu height=0 disappears only below visible screen age=48 top=-65.60001
+PASS Corpse: Lakitu height=0 cannot score twice 
+PASS Corpse: Lakitu height=96 remains visible beyond old 40-tick cutoff age=41 top=71
+PASS Corpse: Lakitu height=96 disappears only below visible screen age=61 top=-70.99995
+PASS Corpse: Lakitu height=96 cannot score twice 
+PASS Corpse: Lakitu height=176 remains visible beyond old 40-tick cutoff age=41 top=151
+PASS Corpse: Lakitu height=176 rendered pixels painted=302 mismatches=0
+PASS Corpse: Lakitu height=176 disappears only below visible screen age=69 top=-70.19992
+PASS Corpse: Lakitu height=176 cannot score twice 
+PASS Corpse: HammerBro height=0 disappears only below visible screen age=49 top=-64.20001
+PASS Corpse: HammerBro height=0 cannot score twice 
+PASS Corpse: HammerBro height=96 remains visible beyond old 40-tick cutoff age=41 top=79
+PASS Corpse: HammerBro height=96 disappears only below visible screen age=62 top=-72.19995
+PASS Corpse: HammerBro height=96 cannot score twice 
+PASS Corpse: HammerBro height=176 remains visible beyond old 40-tick cutoff age=41 top=159
+PASS Corpse: HammerBro height=176 rendered pixels painted=227 mismatches=0
+PASS Corpse: HammerBro height=176 disappears only below visible screen age=70 top=-72.99992
+PASS Corpse: HammerBro height=176 cannot score twice 
+PASS Corpse: Bowser height=0 disappears only below visible screen age=51 top=-70.00001
+PASS Corpse: Bowser height=0 cannot score twice 
+PASS Corpse: Bowser height=96 remains visible beyond old 40-tick cutoff age=41 top=87
+PASS Corpse: Bowser height=96 disappears only below visible screen age=62 top=-64.19995
+PASS Corpse: Bowser height=96 cannot score twice 
+PASS Corpse: Bowser height=176 remains visible beyond old 40-tick cutoff age=41 top=167
+PASS Corpse: Bowser height=176 rendered pixels painted=520 mismatches=0
+PASS Corpse: Bowser height=176 disappears only below visible screen age=70 top=-64.99992
+PASS Corpse: Bowser height=176 cannot score twice 
+PASS Corpse: Shell height=0 disappears only below visible screen age=48 top=-65.60001
+PASS Corpse: Shell height=0 cannot score twice 
+PASS Corpse: Shell height=96 remains visible beyond old 40-tick cutoff age=41 top=71
+PASS Corpse: Shell height=96 disappears only below visible screen age=61 top=-70.99995
+PASS Corpse: Shell height=96 cannot score twice 
+PASS Corpse: Shell height=176 remains visible beyond old 40-tick cutoff age=41 top=151
+PASS Corpse: Shell height=176 rendered pixels painted=146 mismatches=0
+PASS Corpse: Shell height=176 disappears only below visible screen age=69 top=-70.19992
+PASS Corpse: Shell height=176 cannot score twice 
+PASS Corpse: BeetleShell height=0 disappears only below visible screen age=48 top=-65.60001
+PASS Corpse: BeetleShell height=0 cannot score twice 
+PASS Corpse: BeetleShell height=96 remains visible beyond old 40-tick cutoff age=41 top=71
+PASS Corpse: BeetleShell height=96 disappears only below visible screen age=61 top=-70.99995
+PASS Corpse: BeetleShell height=96 cannot score twice 
+PASS Corpse: BeetleShell height=176 remains visible beyond old 40-tick cutoff age=41 top=151
+PASS Corpse: BeetleShell height=176 rendered pixels painted=184 mismatches=0
+PASS Corpse: BeetleShell height=176 disappears only below visible screen age=69 top=-70.19992
+PASS Corpse: BeetleShell height=176 cannot score twice 
+PASS Corpse: fireball produces falling corpse 
+PASS Corpse: fireball survives old cutoff in real simulation top=135
+PASS Corpse: fireball releases actor and visual after falling 
+PASS Corpse: shell produces falling corpse 
+PASS Corpse: shell survives old cutoff in real simulation top=135
+PASS Corpse: shell releases actor and visual after falling 
+PASS Corpse: star produces falling corpse 
+PASS Corpse: star survives old cutoff in real simulation top=135
+PASS Corpse: star releases actor and visual after falling 
+PASS Corpse: block produces falling corpse 
+PASS Corpse: block survives old cutoff in real simulation top=135
+PASS Corpse: block releases actor and visual after falling 
+PASS Corpse: stomp produces falling corpse 
+PASS Corpse: stomp survives old cutoff in real simulation top=20.00004
+PASS Corpse: stomp releases actor and visual after falling 
+PASS Corpse: stomped Goomba uses flat non-solid corpse 
+PASS Corpse: flat corpse remains briefly 
+PASS Corpse: flat corpse still expires promptly 
+PASS Corpse: Overworld Goomba corpse in front of pipe rendered pixels painted=180 mismatches=0
+PASS Corpse: Overworld Piranha corpse in front of pipe rendered pixels painted=188 mismatches=0
+PASS Corpse: Underworld Goomba corpse in front of pipe rendered pixels painted=180 mismatches=0
+PASS Corpse: Underworld Piranha corpse in front of pipe rendered pixels painted=188 mismatches=0
+PASS Corpse: Underwater Goomba corpse in front of pipe rendered pixels painted=180 mismatches=0
+PASS Corpse: Underwater Piranha corpse in front of pipe rendered pixels painted=188 mismatches=0
+PASS Corpse: Castle Goomba corpse in front of pipe rendered pixels painted=180 mismatches=0
+PASS Corpse: Castle Piranha corpse in front of pipe rendered pixels painted=188 mismatches=0
+PASS Corpse: corpse passes through player without damage or score 
+PASS Corpse: pause preserves corpse time and position 
+PASS Corpse: resumed corpse continues falling 

@@ -1,0 +1,1 @@
+MARIO_SETTINGS_PASS checks=38 errors=0

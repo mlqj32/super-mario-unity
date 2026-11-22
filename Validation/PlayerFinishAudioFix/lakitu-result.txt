@@ -1,0 +1,1 @@
+MARIO_LAKITU_PASS checks=17 errors=0

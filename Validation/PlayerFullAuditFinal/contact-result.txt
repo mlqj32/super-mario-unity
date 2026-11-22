@@ -1,0 +1,1 @@
+MARIO_CONTACT_PASS checks=297 errors=0

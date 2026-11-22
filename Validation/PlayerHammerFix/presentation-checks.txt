@@ -1,0 +1,22 @@
+PASS Presentation: camera tracking holds player at one pixel size=1 facing=-1 screenX=126
+PASS Presentation: camera tracking holds player at one pixel size=1 facing=1 screenX=110
+PASS Presentation: camera tracking holds player at one pixel size=2 facing=-1 screenX=126
+PASS Presentation: camera tracking holds player at one pixel size=2 facing=1 screenX=110
+PASS Presentation: camera tracking holds player at one pixel size=3 facing=-1 screenX=126
+PASS Presentation: camera tracking holds player at one pixel size=3 facing=1 screenX=110
+PASS Presentation: walk/run changes preserve ordered cycle start=0 backwards=0 changes=42 cells=000000011111122222200011122200011112222220000001111122200011122200001111112222220000111222000111222220000001111112222000111222000111112222220000001112220001112220000001111112222220
+PASS Presentation: walk/run changes never flash a one-tick pose start=0 shortPoses=0
+PASS Presentation: pause and repeated rendering preserve pose start=0 
+PASS Presentation: walk/run changes preserve ordered cycle start=13 backwards=0 changes=42 cells=000000011111122222200011122200011112222220000001111122200011122200001111112222220000111222000111222220000001111112222000111222000111112222220000001112220001112220000001111112222220
+PASS Presentation: walk/run changes never flash a one-tick pose start=13 shortPoses=0
+PASS Presentation: pause and repeated rendering preserve pose start=13 
+PASS Presentation: walk/run changes preserve ordered cycle start=39 backwards=0 changes=42 cells=000000011111122222200011122200011112222220000001111122200011122200001111112222220000111222000111222220000001111112222000111222000111112222220000001112220001112220000001111112222220
+PASS Presentation: walk/run changes never flash a one-tick pose start=39 shortPoses=0
+PASS Presentation: pause and repeated rendering preserve pose start=39 
+PASS Presentation: walk/run changes preserve ordered cycle start=100 backwards=0 changes=42 cells=000000011111122222200011122200011112222220000001111122200011122200001111112222220000111222000111222220000001111112222000111222000111112222220000001112220001112220000001111112222220
+PASS Presentation: walk/run changes never flash a one-tick pose start=100 shortPoses=0
+PASS Presentation: pause and repeated rendering preserve pose start=100 
+PASS Presentation: extra high-refresh repaints do not advance animation True 
+PASS Presentation: catch-up steps have the same animation phase as separate repaints 
+PASS Presentation: extra high-refresh repaints do not advance animation False 
+MARIO_PRESENTATION_PASS checks=867 renderedFrames=576 errors=0

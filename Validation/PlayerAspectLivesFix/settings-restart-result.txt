@@ -1,0 +1,1 @@
+MARIO_SETTINGS_RESTART_PASS volume=0.35 fill=False fullscreen=False

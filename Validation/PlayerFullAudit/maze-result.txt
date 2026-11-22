@@ -1,0 +1,1 @@
+MARIO_MAZE_PASS checks=54 errors=0

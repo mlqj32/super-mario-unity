@@ -1,0 +1,1 @@
+MARIO_MENU_PASS checks=266 errors=0

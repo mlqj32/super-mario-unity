@@ -1,0 +1,119 @@
+PASS Finish audio: 1-1 muted=False clip exists Stage Clear
+PASS Finish audio: 1-1 muted=False independent normal-speed channel 
+PASS Finish audio: 1-1 muted=False pause freezes settlement 
+PASS Finish audio: 1-1 muted=False waits for complete jingle clip=Stage Clear seconds=5.641497 required=340 elapsed=339 phase=Clear level=1-1
+PASS Finish audio: 1-1 muted=False proceeds after music Playing 1-2
+PASS Finish audio: 1-1 muted=False no old jingle in next state 
+PASS Finish audio: 1-1 muted=False new game clears ending and jingle 
+PASS Finish audio: 1-1 muted=True clip exists Stage Clear
+PASS Finish audio: 1-1 muted=True independent normal-speed channel 
+PASS Finish audio: 1-1 muted=True pause freezes settlement 
+PASS Finish audio: 1-1 muted=True waits for complete jingle clip=Stage Clear seconds=5.641497 required=340 elapsed=339 phase=Clear level=1-1
+PASS Finish audio: 1-1 muted=True proceeds after music Playing 1-2
+PASS Finish audio: 1-1 muted=True no old jingle in next state 
+PASS Finish audio: 1-1 muted=True new game clears ending and jingle 
+PASS Finish audio: 4-4 muted=False clip exists World Clear
+PASS Finish audio: 4-4 muted=False independent normal-speed channel 
+PASS Finish audio: 4-4 muted=False pause freezes settlement 
+PASS Finish audio: 4-4 muted=False waits for complete jingle clip=World Clear seconds=6.264127 required=377 elapsed=376 phase=Clear level=4-4
+PASS Finish audio: 4-4 muted=False proceeds after music Playing 5-1
+PASS Finish audio: 4-4 muted=False no old jingle in next state 
+PASS Finish audio: 4-4 muted=False new game clears ending and jingle 
+PASS Finish audio: 4-4 muted=True clip exists World Clear
+PASS Finish audio: 4-4 muted=True independent normal-speed channel 
+PASS Finish audio: 4-4 muted=True pause freezes settlement 
+PASS Finish audio: 4-4 muted=True waits for complete jingle clip=World Clear seconds=6.264127 required=377 elapsed=376 phase=Clear level=4-4
+PASS Finish audio: 4-4 muted=True proceeds after music Playing 5-1
+PASS Finish audio: 4-4 muted=True no old jingle in next state 
+PASS Finish audio: 4-4 muted=True new game clears ending and jingle 
+PASS Finish audio: 8-4 muted=False clip exists World Clear
+PASS Finish audio: 8-4 muted=False independent normal-speed channel 
+PASS Finish audio: 8-4 muted=False pause freezes settlement 
+PASS Finish audio: 8-4 muted=False waits for complete jingle clip=World Clear seconds=6.264127 required=377 elapsed=376 phase=Clear level=8-4
+PASS Finish audio: 8-4 muted=False proceeds after music Victory 8-4
+PASS Finish audio: 8-4 muted=False no old jingle in next state 
+PASS Finish audio: 8-4 muted=False new game clears ending and jingle 
+PASS Finish audio: 8-4 muted=True clip exists World Clear
+PASS Finish audio: 8-4 muted=True independent normal-speed channel 
+PASS Finish audio: 8-4 muted=True pause freezes settlement 
+PASS Finish audio: 8-4 muted=True waits for complete jingle clip=World Clear seconds=6.264127 required=377 elapsed=376 phase=Clear level=8-4
+PASS Finish audio: 8-4 muted=True proceeds after music Victory 8-4
+PASS Finish audio: 8-4 muted=True no old jingle in next state 
+PASS Finish audio: 8-4 muted=True new game clears ending and jingle 
+PASS Finish audio: J-1-1 muted=False clip exists Stage Clear
+PASS Finish audio: J-1-1 muted=False independent normal-speed channel 
+PASS Finish audio: J-1-1 muted=False pause freezes settlement 
+PASS Finish audio: J-1-1 muted=False waits for complete jingle clip=Stage Clear seconds=5.641497 required=340 elapsed=339 phase=Clear level=J-1-1
+PASS Finish audio: J-1-1 muted=False proceeds after music Playing J-1-2
+PASS Finish audio: J-1-1 muted=False no old jingle in next state 
+PASS Finish audio: J-1-1 muted=False new game clears ending and jingle 
+PASS Finish audio: J-1-1 muted=True clip exists Stage Clear
+PASS Finish audio: J-1-1 muted=True independent normal-speed channel 
+PASS Finish audio: J-1-1 muted=True pause freezes settlement 
+PASS Finish audio: J-1-1 muted=True waits for complete jingle clip=Stage Clear seconds=5.641497 required=340 elapsed=339 phase=Clear level=J-1-1
+PASS Finish audio: J-1-1 muted=True proceeds after music Playing J-1-2
+PASS Finish audio: J-1-1 muted=True no old jingle in next state 
+PASS Finish audio: J-1-1 muted=True new game clears ending and jingle 
+PASS Finish audio: J-4-4 muted=False clip exists World Clear
+PASS Finish audio: J-4-4 muted=False independent normal-speed channel 
+PASS Finish audio: J-4-4 muted=False pause freezes settlement 
+PASS Finish audio: J-4-4 muted=False waits for complete jingle clip=World Clear seconds=6.264127 required=377 elapsed=376 phase=Clear level=J-4-4
+PASS Finish audio: J-4-4 muted=False proceeds after music Playing J-5-1
+PASS Finish audio: J-4-4 muted=False no old jingle in next state 
+PASS Finish audio: J-4-4 muted=False new game clears ending and jingle 
+PASS Finish audio: J-4-4 muted=True clip exists World Clear
+PASS Finish audio: J-4-4 muted=True independent normal-speed channel 
+PASS Finish audio: J-4-4 muted=True pause freezes settlement 
+PASS Finish audio: J-4-4 muted=True waits for complete jingle clip=World Clear seconds=6.264127 required=377 elapsed=376 phase=Clear level=J-4-4
+PASS Finish audio: J-4-4 muted=True proceeds after music Playing J-5-1
+PASS Finish audio: J-4-4 muted=True no old jingle in next state 
+PASS Finish audio: J-4-4 muted=True new game clears ending and jingle 
+PASS Finish audio: J-8-4 muted=False clip exists World Clear
+PASS Finish audio: J-8-4 muted=False independent normal-speed channel 
+PASS Finish audio: J-8-4 muted=False pause freezes settlement 
+PASS Finish audio: J-8-4 muted=False waits for complete jingle clip=World Clear seconds=6.264127 required=377 elapsed=376 phase=Clear level=J-8-4
+PASS Finish audio: J-8-4 muted=False proceeds after music Victory J-8-4
+PASS Finish audio: J-8-4 muted=False no old jingle in next state 
+PASS Finish audio: J-8-4 muted=False new game clears ending and jingle 
+PASS Finish audio: J-8-4 muted=True clip exists World Clear
+PASS Finish audio: J-8-4 muted=True independent normal-speed channel 
+PASS Finish audio: J-8-4 muted=True pause freezes settlement 
+PASS Finish audio: J-8-4 muted=True waits for complete jingle clip=World Clear seconds=6.264127 required=377 elapsed=376 phase=Clear level=J-8-4
+PASS Finish audio: J-8-4 muted=True proceeds after music Victory J-8-4
+PASS Finish audio: J-8-4 muted=True no old jingle in next state 
+PASS Finish audio: J-8-4 muted=True new game clears ending and jingle 
+PASS Finish audio: long score conversion is not truncated 
+PASS Finish audio: full score awarded before advancing 
+PASS Finish audio: ready music still waits for fireworks 
+PASS Finish audio: final fireworks eventually advance 
+PASS Finish audio: missing clip cannot deadlock settlement 
+PASS 1-1 live jingle starts 
+PASS 1-1 background music stopped during jingle 
+PASS 1-1 fast simulation cannot outrun live music 
+PASS live jingle pauses with settlement 
+PASS live jingle resumes 
+PASS 1-1 real audio samples advance 
+PASS 1-1 transition waits for actual audio duration 5.909s / 5.641497
+PASS 1-1 live finish reaches correct destination 
+PASS 1-1 old clear clip cannot overlap next audio 
+PASS 1-1 next background music starts 
+PASS 1-1 replay stops all fanfares 
+PASS 4-4 live jingle starts 
+PASS 4-4 background music stopped during jingle 
+PASS 4-4 fast simulation cannot outrun live music 
+PASS 4-4 real audio samples advance 
+PASS 4-4 transition waits for actual audio duration 6.293s / 6.264127
+PASS 4-4 live finish reaches correct destination 
+PASS 4-4 old clear clip cannot overlap next audio 
+PASS 4-4 next background music starts 
+PASS 4-4 replay stops all fanfares 
+PASS J-8-4 live jingle starts 
+PASS J-8-4 background music stopped during jingle 
+PASS J-8-4 fast simulation cannot outrun live music 
+PASS J-8-4 real audio samples advance 
+PASS J-8-4 transition waits for actual audio duration 8.064s / 6.264127
+PASS J-8-4 live finish reaches correct destination 
+PASS J-8-4 old clear clip cannot overlap next audio 
+PASS J-8-4 replay stops all fanfares 
+PASS transient sound starts before cleanup check 
+PASS return to title stops every audio channel 

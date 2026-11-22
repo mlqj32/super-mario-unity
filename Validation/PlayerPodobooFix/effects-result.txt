@@ -1,0 +1,1 @@
+MARIO_EFFECTS_PASS checks=454 errors=0

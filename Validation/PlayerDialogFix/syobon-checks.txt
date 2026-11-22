@@ -1,0 +1,156 @@
+PASS Syobon audio 0 jump
+PASS Syobon audio 1 brockbreak
+PASS Syobon audio 2 coin
+PASS Syobon audio 3 humi
+PASS Syobon audio 4 koura
+PASS Syobon audio 5 dokan
+PASS Syobon audio 6 brockkinoko
+PASS Syobon audio 7 powerup
+PASS Syobon audio 8 kirra
+PASS Syobon audio 9 goal
+PASS Syobon audio 10 death
+PASS Syobon audio 11 Pswitch
+PASS Syobon audio 12 jumpBlock
+PASS Syobon audio 13 hintBlock
+PASS Syobon audio 14 4-clear
+PASS Syobon audio 15 allclear
+PASS Syobon audio 16 tekifire
+PASS Syobon audio 17 titerman
+PASS Syobon audio 18 spelunk
+PASS Syobon audio 19 star4
+PASS Syobon audio 20 makaimura
+PASS Syobon audio 21 puyo
+PASS Syobon atlas 0 player
+PASS Syobon atlas 1 brock
+PASS Syobon atlas 2 item
+PASS Syobon atlas 3 teki
+PASS Syobon atlas 4 haikei
+PASS Syobon atlas 5 brock2
+PASS Syobon atlas 6 omake
+PASS Syobon atlas 7 omake2
+PASS Syobon atlas 30 syobon3
+PASS Syobon source sprite rectangles frames=85 invalid=0
+PASS Syobon: (1, 0) loads map and scripted actors 
+PASS Syobon: (1, 0) every screen simulates and renders screens=10
+PASS Syobon: (1, 0) mixed input stress deaths=9 ticks=2286
+PASS Syobon: (2, 0) loads map and scripted actors 
+PASS Syobon: (2, 0) every screen simulates and renders screens=1
+PASS Syobon: (2, 0) mixed input stress deaths=6 ticks=4146
+PASS Syobon: (2, 1) loads map and scripted actors 
+PASS Syobon: (2, 1) every screen simulates and renders screens=11
+PASS Syobon: (2, 1) mixed input stress deaths=21 ticks=6491
+PASS Syobon: (2, 2) loads map and scripted actors 
+PASS Syobon: (2, 2) every screen simulates and renders screens=3
+PASS Syobon: (2, 2) mixed input stress deaths=8 ticks=8447
+PASS Syobon: (3, 0) loads map and scripted actors 
+PASS Syobon: (3, 0) every screen simulates and renders screens=10
+PASS Syobon: (3, 0) mixed input stress deaths=2 ticks=10726
+PASS Syobon: (3, 1) loads map and scripted actors 
+PASS Syobon: (3, 1) every screen simulates and renders screens=1
+PASS Syobon: (3, 1) mixed input stress deaths=3 ticks=12583
+PASS Syobon: (3, 5) loads map and scripted actors 
+PASS Syobon: (3, 5) every screen simulates and renders screens=1
+PASS Syobon: (3, 5) mixed input stress deaths=4 ticks=14441
+PASS Syobon: (4, 0) loads map and scripted actors 
+PASS Syobon: (4, 0) every screen simulates and renders screens=12
+PASS Syobon: (4, 0) mixed input stress deaths=26 ticks=16838
+PASS Syobon: player survives idle spawn 
+PASS Syobon: jump raises player ground=330 y=247
+PASS Syobon: right input moves player x=87.2
+PASS Syobon: colour key becomes alpha 
+PASS Syobon: pixel texture retains native dimensions size=169x44
+PASS Syobon: hidden blocks present 
+PASS Syobon: jump reveals hidden block type=3
+PASS Syobon: checkpoint exists 
+PASS Syobon: checkpoint activates 
+PASS Syobon: damage enters death 
+PASS Syobon: quick retry keeps checkpoint and spends one life x=1914 target=1914
+PASS Syobon: confirmed restart returns to course start 
+PASS Syobon: negative lives remain playable 
+PASS Syobon: 1 clear advances exactly once stage=2
+PASS Syobon: 2 clear advances exactly once stage=3
+PASS Syobon: 3 clear advances exactly once stage=4
+PASS Syobon: final ending reachable mode=301 timer=440
+PASS Syobon: death retry stays in underground area 
+PASS Syobon: automatic death transition spends only one life lives=9 mode=10
+PASS Syobon: reload clears cells outside new map 
+PASS Syobon dialog: real stage-two sign opens and waits 
+PASS Syobon dialog: 0 opening reaches confirmation 
+PASS Syobon dialog: message 67 has visible text whitePixels=97
+PASS Syobon dialog: localized row fits and has Chinese glyphs 提示
+PASS Syobon dialog: 0 waiting preserves body and freezes gameplay 
+PASS Syobon dialog: 0 confirmation closes without deadlock 
+PASS Syobon dialog: 1 opening reaches confirmation 
+PASS Syobon dialog: message 68 has visible text whitePixels=380
+PASS Syobon dialog: localized row fits and has Chinese glyphs 欢迎来到猫里奥!
+PASS Syobon dialog: message 69 has visible text whitePixels=384
+PASS Syobon dialog: localized row fits and has Chinese glyphs 方向键或摇杆移动
+PASS Syobon dialog: message 70 has visible text whitePixels=379
+PASS Syobon dialog: localized row fits and has Chinese glyphs Z / 空格 / 手柄A跳跃
+PASS Syobon dialog: message 71 has visible text whitePixels=373
+PASS Syobon dialog: localized row fits and has Chinese glyphs 菜单中可以选择关卡
+PASS Syobon dialog: message 72 has visible text whitePixels=242
+PASS Syobon dialog: localized row fits and has Chinese glyphs 按确认继续
+PASS Syobon dialog: 1 waiting preserves body and freezes gameplay 
+PASS Syobon dialog: 1 confirmation closes without deadlock 
+PASS Syobon dialog: 2 opening reaches confirmation 
+PASS Syobon dialog: message 73 has visible text whitePixels=156
+PASS Syobon dialog: localized row fits and has Chinese glyphs 小心脚下!
+PASS Syobon dialog: message 74 has visible text whitePixels=242
+PASS Syobon dialog: localized row fits and has Chinese glyphs 按确认继续
+PASS Syobon dialog: 2 waiting preserves body and freezes gameplay 
+PASS Syobon dialog: 2 confirmation closes without deadlock 
+PASS Syobon dialog: 3 opening reaches confirmation 
+PASS Syobon dialog: message 75 has visible text whitePixels=428
+PASS Syobon dialog: localized row fits and has Chinese glyphs 不要相信眼前的一切!
+PASS Syobon dialog: message 76 has visible text whitePixels=242
+PASS Syobon dialog: localized row fits and has Chinese glyphs 按确认继续
+PASS Syobon dialog: 3 waiting preserves body and freezes gameplay 
+PASS Syobon dialog: 3 confirmation closes without deadlock 
+PASS Syobon dialog: 4 opening reaches confirmation 
+PASS Syobon dialog: message 77 has visible text whitePixels=342
+PASS Syobon dialog: localized row fits and has Chinese glyphs 前方可能有陷阱
+PASS Syobon dialog: message 78 has visible text whitePixels=259
+PASS Syobon dialog: localized row fits and has Chinese glyphs 请仔细观察
+PASS Syobon dialog: 4 waiting preserves body and freezes gameplay 
+PASS Syobon dialog: 4 confirmation closes without deadlock 
+PASS Syobon dialog: 5 opening reaches confirmation 
+PASS Syobon dialog: message 79 has visible text whitePixels=223
+PASS Syobon dialog: localized row fits and has Chinese glyphs 温馨提示
+PASS Syobon dialog: message 80 has visible text whitePixels=374
+PASS Syobon dialog: localized row fits and has Chinese glyphs 看起来安全的地方
+PASS Syobon dialog: message 81 has visible text whitePixels=282
+PASS Syobon dialog: localized row fits and has Chinese glyphs 也可能有危险
+PASS Syobon dialog: message 82 has visible text whitePixels=242
+PASS Syobon dialog: localized row fits and has Chinese glyphs 按确认继续
+PASS Syobon dialog: 5 waiting preserves body and freezes gameplay 
+PASS Syobon dialog: 5 confirmation closes without deadlock 
+PASS Syobon dialog: 80 opening reaches confirmation 
+PASS Syobon dialog: message 83 has visible text whitePixels=436
+PASS Syobon dialog: localized row fits and has Chinese glyphs 没有什么是绝对安全的
+PASS Syobon dialog: message 84 has visible text whitePixels=331
+PASS Syobon dialog: localized row fits and has Chinese glyphs 试试不同的路线
+PASS Syobon dialog: message 85 has visible text whitePixels=242
+PASS Syobon dialog: localized row fits and has Chinese glyphs 按确认继续
+PASS Syobon dialog: 80 waiting preserves body and freezes gameplay 
+PASS Syobon dialog: 80 confirmation closes without deadlock 
+PASS Syobon dialog: 100 opening reaches confirmation 
+PASS Syobon dialog: message 86 has visible text whitePixels=257
+PASS Syobon dialog: localized row fits and has Chinese glyphs 最后的提示
+PASS Syobon dialog: message 87 has visible text whitePixels=419
+PASS Syobon dialog: localized row fits and has Chinese glyphs 坚持就能找到答案
+PASS Syobon dialog: message 88 has visible text whitePixels=367
+PASS Syobon dialog: localized row fits and has Chinese glyphs 死亡后可立即重试
+PASS Syobon dialog: message 89 has visible text whitePixels=471
+PASS Syobon dialog: localized row fits and has Chinese glyphs 暂停菜单可以重玩本关
+PASS Syobon dialog: message 90 has visible text whitePixels=242
+PASS Syobon dialog: localized row fits and has Chinese glyphs 按确认继续
+PASS Syobon dialog: 100 waiting preserves body and freezes gameplay 
+PASS Syobon dialog: 100 confirmation closes without deadlock 
+PASS Syobon dialog: retry clears active dialog 
+PASS Cat Mario live sign waits with dialog 
+PASS Cat Mario live dialog accepts confirmation 
+PASS Cat Mario live music starts samples=940
+PASS Cat Mario pause freezes audio 
+PASS Cat Mario resume advances audio 
+PASS Cat Mario audio channels released when switching campaign 

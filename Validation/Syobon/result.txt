@@ -1,0 +1,1 @@
+SYOBON_VALIDATION_PASS checks=150 errors=0

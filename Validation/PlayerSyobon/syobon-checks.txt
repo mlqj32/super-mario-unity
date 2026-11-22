@@ -1,0 +1,82 @@
+PASS Syobon audio 0 jump
+PASS Syobon audio 1 brockbreak
+PASS Syobon audio 2 coin
+PASS Syobon audio 3 humi
+PASS Syobon audio 4 koura
+PASS Syobon audio 5 dokan
+PASS Syobon audio 6 brockkinoko
+PASS Syobon audio 7 powerup
+PASS Syobon audio 8 kirra
+PASS Syobon audio 9 goal
+PASS Syobon audio 10 death
+PASS Syobon audio 11 Pswitch
+PASS Syobon audio 12 jumpBlock
+PASS Syobon audio 13 hintBlock
+PASS Syobon audio 14 4-clear
+PASS Syobon audio 15 allclear
+PASS Syobon audio 16 tekifire
+PASS Syobon audio 17 titerman
+PASS Syobon audio 18 spelunk
+PASS Syobon audio 19 star4
+PASS Syobon audio 20 makaimura
+PASS Syobon audio 21 puyo
+PASS Syobon atlas 0 player
+PASS Syobon atlas 1 brock
+PASS Syobon atlas 2 item
+PASS Syobon atlas 3 teki
+PASS Syobon atlas 4 haikei
+PASS Syobon atlas 5 brock2
+PASS Syobon atlas 6 omake
+PASS Syobon atlas 7 omake2
+PASS Syobon atlas 30 syobon3
+PASS Syobon source sprite rectangles frames=85 invalid=0
+PASS Syobon: (1, 0) loads map and scripted actors 
+PASS Syobon: (1, 0) every screen simulates and renders screens=10
+PASS Syobon: (1, 0) mixed input stress deaths=9 ticks=2286
+PASS Syobon: (2, 0) loads map and scripted actors 
+PASS Syobon: (2, 0) every screen simulates and renders screens=1
+PASS Syobon: (2, 0) mixed input stress deaths=7 ticks=4147
+PASS Syobon: (2, 1) loads map and scripted actors 
+PASS Syobon: (2, 1) every screen simulates and renders screens=11
+PASS Syobon: (2, 1) mixed input stress deaths=21 ticks=6492
+PASS Syobon: (2, 2) loads map and scripted actors 
+PASS Syobon: (2, 2) every screen simulates and renders screens=3
+PASS Syobon: (2, 2) mixed input stress deaths=8 ticks=8448
+PASS Syobon: (3, 0) loads map and scripted actors 
+PASS Syobon: (3, 0) every screen simulates and renders screens=10
+PASS Syobon: (3, 0) mixed input stress deaths=2 ticks=10727
+PASS Syobon: (3, 1) loads map and scripted actors 
+PASS Syobon: (3, 1) every screen simulates and renders screens=1
+PASS Syobon: (3, 1) mixed input stress deaths=3 ticks=12584
+PASS Syobon: (3, 5) loads map and scripted actors 
+PASS Syobon: (3, 5) every screen simulates and renders screens=1
+PASS Syobon: (3, 5) mixed input stress deaths=4 ticks=14442
+PASS Syobon: (4, 0) loads map and scripted actors 
+PASS Syobon: (4, 0) every screen simulates and renders screens=12
+PASS Syobon: (4, 0) mixed input stress deaths=26 ticks=16839
+PASS Syobon: player survives idle spawn 
+PASS Syobon: jump raises player ground=330 y=247
+PASS Syobon: right input moves player x=87.2
+PASS Syobon: colour key becomes alpha 
+PASS Syobon: pixel texture retains native dimensions size=169x44
+PASS Syobon: hidden blocks present 
+PASS Syobon: jump reveals hidden block type=3
+PASS Syobon: checkpoint exists 
+PASS Syobon: checkpoint activates 
+PASS Syobon: damage enters death 
+PASS Syobon: quick retry keeps checkpoint and spends one life x=1914 target=1914
+PASS Syobon: confirmed restart returns to course start 
+PASS Syobon: negative lives remain playable 
+PASS Syobon: 1 clear advances exactly once stage=2
+PASS Syobon: 2 clear advances exactly once stage=3
+PASS Syobon: 3 clear advances exactly once stage=4
+PASS Syobon: final ending reachable mode=301 timer=440
+PASS Syobon: death retry stays in underground area 
+PASS Syobon: automatic death transition spends only one life lives=9 mode=10
+PASS Syobon: reload clears cells outside new map 
+PASS Syobon: hint waits for confirmation 
+PASS Syobon: confirm closes hint without deadlock 
+PASS Cat Mario live music starts samples=470
+PASS Cat Mario pause freezes audio 
+PASS Cat Mario resume advances audio 
+PASS Cat Mario audio channels released when switching campaign 

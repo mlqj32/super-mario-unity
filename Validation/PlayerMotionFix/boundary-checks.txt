@@ -1,0 +1,128 @@
+PASS Boundary: Playing pause input suspends simulation 
+PASS Boundary: Playing resume restores exact phase 
+PASS Boundary: Flag pause input suspends simulation 
+PASS Boundary: Flag resume restores exact phase 
+PASS Boundary: Castle pause input suspends simulation 
+PASS Boundary: Castle resume restores exact phase 
+PASS Boundary: Clear pause input suspends simulation 
+PASS Boundary: Clear resume restores exact phase 
+PASS Boundary: Playing disconnect pauses simulation 
+PASS Boundary: Playing disconnect resumes exact phase 
+PASS Boundary: Playing lost focus pauses simulation 
+PASS Boundary: Playing focus pause restores exact phase 
+PASS Boundary: Flag disconnect pauses simulation 
+PASS Boundary: Flag disconnect resumes exact phase 
+PASS Boundary: Flag lost focus pauses simulation 
+PASS Boundary: Flag focus pause restores exact phase 
+PASS Boundary: Castle disconnect pauses simulation 
+PASS Boundary: Castle disconnect resumes exact phase 
+PASS Boundary: Castle lost focus pauses simulation 
+PASS Boundary: Castle focus pause restores exact phase 
+PASS Boundary: Clear disconnect pauses simulation 
+PASS Boundary: Clear disconnect resumes exact phase 
+PASS Boundary: Clear lost focus pauses simulation 
+PASS Boundary: Clear focus pause restores exact phase 
+PASS Boundary: Dying disconnect pauses simulation 
+PASS Boundary: Dying disconnect resumes exact phase 
+PASS Boundary: Dying lost focus pauses simulation 
+PASS Boundary: Dying focus pause restores exact phase 
+PASS Boundary: death Start still skips once 
+PASS Boundary: Flag corpse continues falling 
+PASS Boundary: Flag corpse exits and expires 
+PASS Boundary: Castle corpse continues falling 
+PASS Boundary: Castle corpse exits and expires 
+PASS Boundary: Clear corpse continues falling 
+PASS Boundary: Clear corpse exits and expires 
+PASS Boundary: Dying corpse continues falling 
+PASS Boundary: Dying corpse exits and expires 
+PASS Boundary: defeated Bowser moves once during bridge collapse 
+PASS Boundary: scale rope breaks both sides False 
+PASS Boundary: both detached scale platforms fall False left=-5.299988 right=-5
+PASS Boundary: scale rope breaks both sides True 
+PASS Boundary: both detached scale platforms fall True left=-5.299988 right=-5
+PASS Boundary: 2-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: 5-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: 6-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: 7-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: 8-4 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-3-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-4-1 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-6-1 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-6-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-8-1 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-8-4 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: low time music survives track selection star=False 
+PASS Boundary: low time music survives area transfer 
+PASS Boundary: new course restores normal music speed 
+PASS Boundary: low time music survives track selection star=True 
+PASS Boundary: star expiration restores urgent music 
+PASS Boundary: low time music survives area transfer 
+PASS Boundary: new course restores normal music speed 
+PASS Boundary: score stays readable over explosion rendered pixels painted=67 mismatches=0
+PASS Boundary: empty text removes stale sprite 
+PASS Stability: 1-1 1200 mixed-input frames deaths=0 actors=48
+PASS Stability: 1-2 1200 mixed-input frames deaths=0 actors=496
+PASS Stability: 1-3 1200 mixed-input frames deaths=2 actors=204
+PASS Stability: 1-4 1200 mixed-input frames deaths=4 actors=58
+PASS Stability: 2-1 1200 mixed-input frames deaths=0 actors=253
+PASS Stability: 2-2 1200 mixed-input frames deaths=0 actors=101
+PASS Stability: 2-3 1200 mixed-input frames deaths=1 actors=224
+PASS Stability: 2-4 1200 mixed-input frames deaths=6 actors=85
+PASS Stability: 3-1 1200 mixed-input frames deaths=0 actors=276
+PASS Stability: 3-2 1200 mixed-input frames deaths=0 actors=191
+PASS Stability: 3-3 1200 mixed-input frames deaths=5 actors=236
+PASS Stability: 3-4 1200 mixed-input frames deaths=6 actors=96
+PASS Stability: 4-1 1200 mixed-input frames deaths=1 actors=196
+PASS Stability: 4-2 1200 mixed-input frames deaths=4 actors=820
+PASS Stability: 4-3 1200 mixed-input frames deaths=3 actors=209
+PASS Stability: 4-4 1200 mixed-input frames deaths=5 actors=48
+PASS Stability: 5-1 1200 mixed-input frames deaths=0 actors=220
+PASS Stability: 5-2 1200 mixed-input frames deaths=1 actors=265
+PASS Stability: 5-3 1200 mixed-input frames deaths=4 actors=207
+PASS Stability: 5-4 1200 mixed-input frames deaths=6 actors=101
+PASS Stability: 6-1 1200 mixed-input frames deaths=3 actors=205
+PASS Stability: 6-2 1200 mixed-input frames deaths=0 actors=213
+PASS Stability: 6-3 1200 mixed-input frames deaths=5 actors=252
+PASS Stability: 6-4 1200 mixed-input frames deaths=4 actors=57
+PASS Stability: 7-1 1200 mixed-input frames deaths=0 actors=253
+PASS Stability: 7-2 1200 mixed-input frames deaths=0 actors=106
+PASS Stability: 7-3 1200 mixed-input frames deaths=1 actors=235
+PASS Stability: 7-4 1200 mixed-input frames deaths=5 actors=26
+PASS Stability: 8-1 1200 mixed-input frames deaths=0 actors=337
+PASS Stability: 8-2 1200 mixed-input frames deaths=3 actors=258
+PASS Stability: 8-3 1200 mixed-input frames deaths=1 actors=222
+PASS Stability: 8-4 1200 mixed-input frames deaths=4 actors=31
+PASS Stability: J-1-1 1200 mixed-input frames deaths=0 actors=944
+PASS Stability: J-1-2 1200 mixed-input frames deaths=5 actors=1436
+PASS Stability: J-1-3 1200 mixed-input frames deaths=6 actors=900
+PASS Stability: J-1-4 1200 mixed-input frames deaths=3 actors=1090
+PASS Stability: J-2-1 1200 mixed-input frames deaths=1 actors=1246
+PASS Stability: J-2-2 1200 mixed-input frames deaths=1 actors=1010
+PASS Stability: J-2-3 1200 mixed-input frames deaths=2 actors=964
+PASS Stability: J-2-4 1200 mixed-input frames deaths=3 actors=1034
+PASS Stability: J-3-1 1200 mixed-input frames deaths=2 actors=1512
+PASS Stability: J-3-2 1200 mixed-input frames deaths=0 actors=2931
+PASS Stability: J-3-3 1200 mixed-input frames deaths=2 actors=1044
+PASS Stability: J-3-4 1200 mixed-input frames deaths=5 actors=1002
+PASS Stability: J-4-1 1200 mixed-input frames deaths=1 actors=995
+PASS Stability: J-4-2 1200 mixed-input frames deaths=0 actors=936
+PASS Stability: J-4-3 1200 mixed-input frames deaths=6 actors=819
+PASS Stability: J-4-4 1200 mixed-input frames deaths=3 actors=1343
+PASS Stability: J-5-1 1200 mixed-input frames deaths=2 actors=2411
+PASS Stability: J-5-2 1200 mixed-input frames deaths=7 actors=1909
+PASS Stability: J-5-3 1200 mixed-input frames deaths=5 actors=1025
+PASS Stability: J-5-4 1200 mixed-input frames deaths=12 actors=1263
+PASS Stability: J-6-1 1200 mixed-input frames deaths=3 actors=1193
+PASS Stability: J-6-2 1200 mixed-input frames deaths=0 actors=2941
+PASS Stability: J-6-3 1200 mixed-input frames deaths=3 actors=893
+PASS Stability: J-6-4 1200 mixed-input frames deaths=11 actors=1090
+PASS Stability: J-7-1 1200 mixed-input frames deaths=2 actors=1419
+PASS Stability: J-7-2 1200 mixed-input frames deaths=5 actors=811
+PASS Stability: J-7-3 1200 mixed-input frames deaths=6 actors=949
+PASS Stability: J-7-4 1200 mixed-input frames deaths=2 actors=1771
+PASS Stability: J-8-1 1200 mixed-input frames deaths=1 actors=989
+PASS Stability: J-8-2 1200 mixed-input frames deaths=2 actors=1127
+PASS Stability: J-8-3 1200 mixed-input frames deaths=4 actors=1105
+PASS Stability: J-8-4 1200 mixed-input frames deaths=11 actors=2716
+PASS sound cleanup fixture has active samples clip=Powerup samples=470 playing=True
+PASS death clears earlier sound playback oldClipSamples=0

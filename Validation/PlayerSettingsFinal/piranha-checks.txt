@@ -1,0 +1,21 @@
+PASS Piranha: 1-2 upright anchor matches pipe opening mouth=48
+PASS Piranha: 1-2 upright pose=0 pipe occlusion leakedPixels=0
+PASS Piranha: 1-2 upright pose=0 exposed artwork exposedPixels=0
+PASS Piranha: 1-2 upright pose=1 pipe occlusion leakedPixels=0
+PASS Piranha: 1-2 upright pose=1 exposed artwork exposedPixels=84
+PASS Piranha: 1-2 upright pose=2 pipe occlusion leakedPixels=0
+PASS Piranha: 1-2 upright pose=2 exposed artwork exposedPixels=220
+PASS Piranha: J-1-1 upright anchor matches pipe opening mouth=0
+PASS Piranha: J-1-1 upright pose=0 pipe occlusion leakedPixels=0
+PASS Piranha: J-1-1 upright pose=0 exposed artwork exposedPixels=0
+PASS Piranha: J-1-1 upright pose=1 pipe occlusion leakedPixels=0
+PASS Piranha: J-1-1 upright pose=1 exposed artwork exposedPixels=84
+PASS Piranha: J-1-1 upright pose=2 pipe occlusion leakedPixels=0
+PASS Piranha: J-1-1 upright pose=2 exposed artwork exposedPixels=188
+PASS Piranha: J-5-1 inverted anchor matches pipe opening mouth=32
+PASS Piranha: J-5-1 inverted pose=0 pipe occlusion leakedPixels=0
+PASS Piranha: J-5-1 inverted pose=0 exposed artwork exposedPixels=0
+PASS Piranha: J-5-1 inverted pose=1 pipe occlusion leakedPixels=0
+PASS Piranha: J-5-1 inverted pose=1 exposed artwork exposedPixels=84
+PASS Piranha: J-5-1 inverted pose=2 pipe occlusion leakedPixels=0
+PASS Piranha: J-5-1 inverted pose=2 exposed artwork exposedPixels=188

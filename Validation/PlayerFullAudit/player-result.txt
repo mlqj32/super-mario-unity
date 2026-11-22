@@ -1,0 +1,1 @@
+MARIO_PLAYER_SMOKE_FAIL courses=64 simulatedFrames=122880 errors=1

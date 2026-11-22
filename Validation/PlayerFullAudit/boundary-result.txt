@@ -1,0 +1,1 @@
+MARIO_BOUNDARY_FAIL checks=128 errors=1

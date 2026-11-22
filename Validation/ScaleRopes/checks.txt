@@ -1,0 +1,554 @@
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=left two linked platforms 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=left both ropes connected 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=left ropes follow every painted frame 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=left opposite motion conserves span 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=left pause keeps ropes still 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=left changing sides reverses ropes 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=left both platforms detach 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=right two linked platforms 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=right both ropes connected 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=right ropes follow every painted frame 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=right opposite motion conserves span 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=right pause keeps ropes still 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=right changing sides reverses ropes 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=right both platforms detach 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--660,86,24,24,24,44 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=left two linked platforms 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=left both ropes connected 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=left ropes follow every painted frame 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=left opposite motion conserves span 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=left pause keeps ropes still 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=left changing sides reverses ropes 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=left both platforms detach 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=right two linked platforms 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=right both ropes connected 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=right ropes follow every painted frame 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=right opposite motion conserves span 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=right pause keeps ropes still 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=right changing sides reverses ropes 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=right both platforms detach 
+PASS Scale ropes: 3-3 area=0 ScaleCollection--1100,86,24,24,24,48 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=left two linked platforms 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=left both ropes connected 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=left ropes follow every painted frame 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=left opposite motion conserves span 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=left pause keeps ropes still 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=left changing sides reverses ropes 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=left both platforms detach 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=right two linked platforms 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=right both ropes connected 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=right ropes follow every painted frame 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=right opposite motion conserves span 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=right pause keeps ropes still 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=right changing sides reverses ropes 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=right both platforms detach 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--396,86,24,24,24,44 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=left two linked platforms 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=left both ropes connected 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=left ropes follow every painted frame 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=left opposite motion conserves span 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=left pause keeps ropes still 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=left changing sides reverses ropes 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=left both platforms detach 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=right two linked platforms 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=right both ropes connected 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=right ropes follow every painted frame 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=right opposite motion conserves span 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=right pause keeps ropes still 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=right changing sides reverses ropes 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=right both platforms detach 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--652,86,24,24,24,52 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=left two linked platforms 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=left both ropes connected 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=left ropes follow every painted frame 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=left opposite motion conserves span 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=left pause keeps ropes still 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=left changing sides reverses ropes 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=left both platforms detach 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=right two linked platforms 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=right both ropes connected 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=right ropes follow every painted frame 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=right opposite motion conserves span 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=right pause keeps ropes still 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=right changing sides reverses ropes 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=right both platforms detach 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--740,86,24,24,24,56 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=left two linked platforms 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=left both ropes connected 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=left ropes follow every painted frame 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=left opposite motion conserves span 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=left pause keeps ropes still 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=left changing sides reverses ropes 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=left both platforms detach 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=right two linked platforms 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=right both ropes connected 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=right ropes follow every painted frame 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=right opposite motion conserves span 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=right pause keeps ropes still 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=right changing sides reverses ropes 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=right both platforms detach 
+PASS Scale ropes: 4-3 area=0 ScaleCollection--828,86,24,24,24,56 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=left two linked platforms 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=left both ropes connected 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=left ropes follow every painted frame 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=left opposite motion conserves span 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=left pause keeps ropes still 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=left changing sides reverses ropes 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=left both platforms detach 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=right two linked platforms 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=right both ropes connected 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=right ropes follow every painted frame 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=right opposite motion conserves span 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=right pause keeps ropes still 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=right changing sides reverses ropes 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=right both platforms detach 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--572,86,16,16,24,56 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=left two linked platforms 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=left both ropes connected 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=left ropes follow every painted frame 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=left opposite motion conserves span 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=left pause keeps ropes still 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=left changing sides reverses ropes 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=left both platforms detach 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=right two linked platforms 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=right both ropes connected 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=right ropes follow every painted frame 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=right opposite motion conserves span 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=right pause keeps ropes still 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=right changing sides reverses ropes 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=right both platforms detach 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--636,86,16,16,24,56 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=left two linked platforms 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=left both ropes connected 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=left ropes follow every painted frame 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=left opposite motion conserves span 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=left pause keeps ropes still 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=left changing sides reverses ropes 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=left both platforms detach 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=right two linked platforms 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=right both ropes connected 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=right ropes follow every painted frame 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=right opposite motion conserves span 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=right pause keeps ropes still 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=right changing sides reverses ropes 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=right both platforms detach 
+PASS Scale ropes: 6-3 area=0 ScaleCollection--1020,86,16,16,32,56 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=left two linked platforms 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=left both ropes connected 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=left ropes follow every painted frame 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=left opposite motion conserves span 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=left original rope columns are suppressed 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=left pause keeps ropes still 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=left changing sides reverses ropes 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=left both platforms detach 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=right two linked platforms 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=right both ropes connected 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=right ropes follow every painted frame 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=right opposite motion conserves span 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=right original rope columns are suppressed 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=right pause keeps ropes still 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=right changing sides reverses ropes 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=right both platforms detach 
+PASS Scale ropes: J-1-3 area=0 balance-0 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=left two linked platforms 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=left both ropes connected 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=left ropes follow every painted frame 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=left opposite motion conserves span 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=left original rope columns are suppressed 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=left pause keeps ropes still 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=left changing sides reverses ropes 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=left both platforms detach 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=right two linked platforms 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=right both ropes connected 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=right ropes follow every painted frame 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=right opposite motion conserves span 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=right original rope columns are suppressed 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=right pause keeps ropes still 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=right changing sides reverses ropes 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=right both platforms detach 
+PASS Scale ropes: J-1-3 area=0 balance-1 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=left two linked platforms 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=left both ropes connected 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=left ropes follow every painted frame 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=left opposite motion conserves span 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=left original rope columns are suppressed 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=left pause keeps ropes still 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=left changing sides reverses ropes 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=left both platforms detach 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=right two linked platforms 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=right both ropes connected 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=right ropes follow every painted frame 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=right opposite motion conserves span 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=right original rope columns are suppressed 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=right pause keeps ropes still 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=right changing sides reverses ropes 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=right both platforms detach 
+PASS Scale ropes: J-1-3 area=0 balance-2 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=left two linked platforms 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=left both ropes connected 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=left ropes follow every painted frame 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=left opposite motion conserves span 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=left original rope columns are suppressed 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=left pause keeps ropes still 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=left changing sides reverses ropes 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=left both platforms detach 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=right two linked platforms 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=right both ropes connected 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=right ropes follow every painted frame 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=right opposite motion conserves span 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=right original rope columns are suppressed 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=right pause keeps ropes still 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=right changing sides reverses ropes 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=right both platforms detach 
+PASS Scale ropes: J-3-3 area=0 balance-0 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=left two linked platforms 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=left both ropes connected 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=left ropes follow every painted frame 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=left opposite motion conserves span 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=left original rope columns are suppressed 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=left pause keeps ropes still 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=left changing sides reverses ropes 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=left both platforms detach 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=right two linked platforms 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=right both ropes connected 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=right ropes follow every painted frame 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=right opposite motion conserves span 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=right original rope columns are suppressed 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=right pause keeps ropes still 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=right changing sides reverses ropes 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=right both platforms detach 
+PASS Scale ropes: J-3-3 area=0 balance-1 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=left two linked platforms 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=left both ropes connected 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=left ropes follow every painted frame 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=left opposite motion conserves span 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=left original rope columns are suppressed 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=left pause keeps ropes still 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=left changing sides reverses ropes 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=left both platforms detach 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=right two linked platforms 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=right both ropes connected 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=right ropes follow every painted frame 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=right opposite motion conserves span 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=right original rope columns are suppressed 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=right pause keeps ropes still 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=right changing sides reverses ropes 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=right both platforms detach 
+PASS Scale ropes: J-4-3 area=0 balance-0 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=left two linked platforms 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=left both ropes connected 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=left ropes follow every painted frame 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=left opposite motion conserves span 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=left original rope columns are suppressed 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=left pause keeps ropes still 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=left changing sides reverses ropes 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=left both platforms detach 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=right two linked platforms 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=right both ropes connected 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=right ropes follow every painted frame 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=right opposite motion conserves span 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=right original rope columns are suppressed 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=right pause keeps ropes still 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=right changing sides reverses ropes 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=right both platforms detach 
+PASS Scale ropes: J-4-3 area=0 balance-1 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=left two linked platforms 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=left both ropes connected 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=left ropes follow every painted frame 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=left opposite motion conserves span 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=left original rope columns are suppressed 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=left pause keeps ropes still 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=left changing sides reverses ropes 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=left both platforms detach 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=right two linked platforms 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=right both ropes connected 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=right ropes follow every painted frame 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=right opposite motion conserves span 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=right original rope columns are suppressed 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=right pause keeps ropes still 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=right changing sides reverses ropes 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=right both platforms detach 
+PASS Scale ropes: J-5-1 area=2 balance-0 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=left two linked platforms 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=left both ropes connected 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=left ropes follow every painted frame 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=left opposite motion conserves span 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=left original rope columns are suppressed 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=left pause keeps ropes still 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=left changing sides reverses ropes 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=left both platforms detach 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=right two linked platforms 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=right both ropes connected 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=right ropes follow every painted frame 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=right opposite motion conserves span 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=right original rope columns are suppressed 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=right pause keeps ropes still 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=right changing sides reverses ropes 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=right both platforms detach 
+PASS Scale ropes: J-5-1 area=2 balance-1 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=left two linked platforms 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=left both ropes connected 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=left ropes follow every painted frame 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=left opposite motion conserves span 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=left original rope columns are suppressed 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=left pause keeps ropes still 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=left changing sides reverses ropes 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=left both platforms detach 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=right two linked platforms 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=right both ropes connected 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=right ropes follow every painted frame 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=right opposite motion conserves span 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=right original rope columns are suppressed 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=right pause keeps ropes still 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=right changing sides reverses ropes 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=right both platforms detach 
+PASS Scale ropes: J-5-3 area=0 balance-0 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=left two linked platforms 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=left both ropes connected 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=left ropes follow every painted frame 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=left opposite motion conserves span 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=left original rope columns are suppressed 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=left pause keeps ropes still 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=left changing sides reverses ropes 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=left both platforms detach 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=right two linked platforms 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=right both ropes connected 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=right ropes follow every painted frame 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=right opposite motion conserves span 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=right original rope columns are suppressed 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=right pause keeps ropes still 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=right changing sides reverses ropes 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=right both platforms detach 
+PASS Scale ropes: J-5-3 area=0 balance-1 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=left two linked platforms 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=left both ropes connected 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=left ropes follow every painted frame 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=left opposite motion conserves span 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=left original rope columns are suppressed 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=left pause keeps ropes still 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=left changing sides reverses ropes 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=left both platforms detach 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=right two linked platforms 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=right both ropes connected 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=right ropes follow every painted frame 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=right opposite motion conserves span 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=right original rope columns are suppressed 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=right pause keeps ropes still 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=right changing sides reverses ropes 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=right both platforms detach 
+PASS Scale ropes: J-7-3 area=0 balance-0 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=left two linked platforms 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=left both ropes connected 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=left ropes follow every painted frame 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=left opposite motion conserves span 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=left original rope columns are suppressed 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=left pause keeps ropes still 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=left changing sides reverses ropes 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=left both platforms detach 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=left broken ropes hang while platforms fall 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=right two linked platforms 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=right both ropes connected 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=right ropes follow every painted frame 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=right opposite motion conserves span 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=right original rope columns are suppressed 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=right pause keeps ropes still 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=right changing sides reverses ropes 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=right both platforms detach 
+PASS Scale ropes: J-8-3 area=0 balance-0 rider=right broken ropes hang while platforms fall 
+PASS Scale ropes: real level pair coverage pairs=22
+PASS Platforms: wrap does not catch airborne player down legacy=False y=0 before=0 after=-1 platform=184
+PASS Platforms: wrap does not catch airborne player down legacy=False y=32 before=32 after=31 platform=184
+PASS Platforms: wrap does not catch airborne player down legacy=False y=80 before=80 after=79 platform=184
+PASS Platforms: wrap does not catch airborne player down legacy=False y=128 before=128 after=127 platform=184
+PASS Platforms: wrap detaches rider without vertical transfer down legacy=False before=-31.75 after=-31.75 platform=184
+PASS Platforms: same-column wrap cannot steal another rider down legacy=False reversed=False player=79.16016 support=79.16 wrapped=184
+PASS Platforms: same-column wrap cannot steal another rider down legacy=False reversed=True player=79.16016 support=79.16 wrapped=184
+PASS Platforms: recycled platform collides again next tick down legacy=False 
+PASS Platforms: ordinary vertical movement carries rider down legacy=False 
+PASS Platforms: rider can jump off elevator down legacy=False 
+PASS Platforms: wrap does not catch airborne player up legacy=False y=0 before=0 after=-1 platform=-24
+PASS Platforms: wrap does not catch airborne player up legacy=False y=32 before=32 after=31 platform=-24
+PASS Platforms: wrap does not catch airborne player up legacy=False y=80 before=80 after=79 platform=-24
+PASS Platforms: wrap does not catch airborne player up legacy=False y=128 before=128 after=127 platform=-24
+PASS Platforms: wrap detaches rider without vertical transfer up legacy=False before=199.75 after=199.75 platform=-24
+PASS Platforms: same-column wrap cannot steal another rider up legacy=False reversed=False player=80.83984 support=80.84 wrapped=-24
+PASS Platforms: same-column wrap cannot steal another rider up legacy=False reversed=True player=80.83984 support=80.84 wrapped=-24
+PASS Platforms: recycled platform collides again next tick up legacy=False 
+PASS Platforms: ordinary vertical movement carries rider up legacy=False 
+PASS Platforms: rider can jump off elevator up legacy=False 
+PASS Platforms: wrap does not catch airborne player down legacy=True y=0 before=0 after=-1 platform=184
+PASS Platforms: wrap does not catch airborne player down legacy=True y=32 before=32 after=31 platform=184
+PASS Platforms: wrap does not catch airborne player down legacy=True y=80 before=80 after=79 platform=184
+PASS Platforms: wrap does not catch airborne player down legacy=True y=128 before=128 after=127 platform=184
+PASS Platforms: wrap detaches rider without vertical transfer down legacy=True before=-31.75 after=-31.75 platform=184
+PASS Platforms: same-column wrap cannot steal another rider down legacy=True reversed=False player=79.16016 support=79.16 wrapped=184
+PASS Platforms: same-column wrap cannot steal another rider down legacy=True reversed=True player=79.16016 support=79.16 wrapped=184
+PASS Platforms: recycled platform collides again next tick down legacy=True 
+PASS Platforms: ordinary vertical movement carries rider down legacy=True 
+PASS Platforms: rider can jump off elevator down legacy=True 
+PASS Platforms: wrap does not catch airborne player up legacy=True y=0 before=0 after=-1 platform=-24
+PASS Platforms: wrap does not catch airborne player up legacy=True y=32 before=32 after=31 platform=-24
+PASS Platforms: wrap does not catch airborne player up legacy=True y=80 before=80 after=79 platform=-24
+PASS Platforms: wrap does not catch airborne player up legacy=True y=128 before=128 after=127 platform=-24
+PASS Platforms: wrap detaches rider without vertical transfer up legacy=True before=199.75 after=199.75 platform=-24
+PASS Platforms: same-column wrap cannot steal another rider up legacy=True reversed=False player=80.83984 support=80.84 wrapped=-24
+PASS Platforms: same-column wrap cannot steal another rider up legacy=True reversed=True player=80.83984 support=80.84 wrapped=-24
+PASS Platforms: recycled platform collides again next tick up legacy=True 
+PASS Platforms: ordinary vertical movement carries rider up legacy=True 
+PASS Platforms: rider can jump off elevator up legacy=True 
+PASS Platforms: wrap cannot pull player off stationary ledge False 
+PASS Platforms: wrap cannot pull player off stationary ledge True 
+PASS Platforms: multiple real elevator cycles stay local False wraps=4 maxPlayerStep=1
+PASS Platforms: multiple real elevator cycles stay local True wraps=3 maxPlayerStep=1
+PASS Boundary: Playing pause input suspends simulation 
+PASS Boundary: Playing resume restores exact phase 
+PASS Boundary: Flag pause input suspends simulation 
+PASS Boundary: Flag resume restores exact phase 
+PASS Boundary: Castle pause input suspends simulation 
+PASS Boundary: Castle resume restores exact phase 
+PASS Boundary: Clear pause input suspends simulation 
+PASS Boundary: Clear resume restores exact phase 
+PASS Boundary: Playing disconnect pauses simulation 
+PASS Boundary: Playing disconnect resumes exact phase 
+PASS Boundary: Playing lost focus pauses simulation 
+PASS Boundary: Playing focus pause restores exact phase 
+PASS Boundary: Flag disconnect pauses simulation 
+PASS Boundary: Flag disconnect resumes exact phase 
+PASS Boundary: Flag lost focus pauses simulation 
+PASS Boundary: Flag focus pause restores exact phase 
+PASS Boundary: Castle disconnect pauses simulation 
+PASS Boundary: Castle disconnect resumes exact phase 
+PASS Boundary: Castle lost focus pauses simulation 
+PASS Boundary: Castle focus pause restores exact phase 
+PASS Boundary: Clear disconnect pauses simulation 
+PASS Boundary: Clear disconnect resumes exact phase 
+PASS Boundary: Clear lost focus pauses simulation 
+PASS Boundary: Clear focus pause restores exact phase 
+PASS Boundary: Dying disconnect pauses simulation 
+PASS Boundary: Dying disconnect resumes exact phase 
+PASS Boundary: Dying lost focus pauses simulation 
+PASS Boundary: Dying focus pause restores exact phase 
+PASS Boundary: death Start still skips once 
+PASS Boundary: Flag corpse continues falling 
+PASS Boundary: Flag corpse exits and expires 
+PASS Boundary: Castle corpse continues falling 
+PASS Boundary: Castle corpse exits and expires 
+PASS Boundary: Clear corpse continues falling 
+PASS Boundary: Clear corpse exits and expires 
+PASS Boundary: Dying corpse continues falling 
+PASS Boundary: Dying corpse exits and expires 
+PASS Boundary: defeated Bowser moves once during bridge collapse 
+PASS Boundary: scale rope breaks both sides False 
+PASS Boundary: both detached scale platforms fall False left=-5.299988 right=-5
+PASS Boundary: scale rope breaks both sides True 
+PASS Boundary: both detached scale platforms fall True left=-5.299988 right=-5
+PASS Boundary: 2-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: 5-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: 6-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: 7-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: 8-4 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-3-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-4-1 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-6-1 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-6-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-8-1 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-8-4 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: low time music survives track selection star=False 
+PASS Boundary: low time music survives area transfer 
+PASS Boundary: new course restores normal music speed 
+PASS Boundary: low time music survives track selection star=True 
+PASS Boundary: star expiration restores urgent music 
+PASS Boundary: low time music survives area transfer 
+PASS Boundary: new course restores normal music speed 
+PASS Boundary: score stays readable over explosion rendered pixels painted=67 mismatches=0
+PASS Boundary: empty text removes stale sprite 
+PASS 3-3 no old rope tail below raised platform 
+PASS 3-3 rope extends into newly exposed span 
+PASS J-1-3 no old rope tail below raised platform 
+PASS J-1-3 rope extends into newly exposed span 
+PASS 1-1 editable level unchanged 
+PASS 1-2 editable level unchanged 
+PASS 1-3 editable level unchanged 
+PASS 1-4 editable level unchanged 
+PASS 2-1 editable level unchanged 
+PASS 2-2 editable level unchanged 
+PASS 2-3 editable level unchanged 
+PASS 2-4 editable level unchanged 
+PASS 3-1 editable level unchanged 
+PASS 3-2 editable level unchanged 
+PASS 3-3 editable level unchanged 
+PASS 3-4 editable level unchanged 
+PASS 4-1 editable level unchanged 
+PASS 4-2 editable level unchanged 
+PASS 4-3 editable level unchanged 
+PASS 4-4 editable level unchanged 
+PASS 5-1 editable level unchanged 
+PASS 5-2 editable level unchanged 
+PASS 5-3 editable level unchanged 
+PASS 5-4 editable level unchanged 
+PASS 6-1 editable level unchanged 
+PASS 6-2 editable level unchanged 
+PASS 6-3 editable level unchanged 
+PASS 6-4 editable level unchanged 
+PASS 7-1 editable level unchanged 
+PASS 7-2 editable level unchanged 
+PASS 7-3 editable level unchanged 
+PASS 7-4 editable level unchanged 
+PASS 8-1 editable level unchanged 
+PASS 8-2 editable level unchanged 
+PASS 8-3 editable level unchanged 
+PASS 8-4 editable level unchanged 
+PASS J-1-1 editable level unchanged 
+PASS J-1-2 editable level unchanged 
+PASS J-1-3 editable level unchanged 
+PASS J-1-4 editable level unchanged 
+PASS J-2-1 editable level unchanged 
+PASS J-2-2 editable level unchanged 
+PASS J-2-3 editable level unchanged 
+PASS J-2-4 editable level unchanged 
+PASS J-3-1 editable level unchanged 
+PASS J-3-2 editable level unchanged 
+PASS J-3-3 editable level unchanged 
+PASS J-3-4 editable level unchanged 
+PASS J-4-1 editable level unchanged 
+PASS J-4-2 editable level unchanged 
+PASS J-4-3 editable level unchanged 
+PASS J-4-4 editable level unchanged 
+PASS J-5-1 editable level unchanged 
+PASS J-5-2 editable level unchanged 
+PASS J-5-3 editable level unchanged 
+PASS J-5-4 editable level unchanged 
+PASS J-6-1 editable level unchanged 
+PASS J-6-2 editable level unchanged 
+PASS J-6-3 editable level unchanged 
+PASS J-6-4 editable level unchanged 
+PASS J-7-1 editable level unchanged 
+PASS J-7-2 editable level unchanged 
+PASS J-7-3 editable level unchanged 
+PASS J-7-4 editable level unchanged 
+PASS J-8-1 editable level unchanged 
+PASS J-8-2 editable level unchanged 
+PASS J-8-3 editable level unchanged 
+PASS J-8-4 editable level unchanged 
+MARIO_SCALE_ROPES_PASS checks=553 errors=0

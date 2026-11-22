@@ -1,0 +1,270 @@
+PASS Menus: title starts on start button 
+PASS Menus: keyboard down selects courses 
+PASS Menus: keyboard opens course menu 
+PASS Menus: course back returns to title 
+PASS Menus: keyboard opens settings 
+PASS Menus: keyboard lowers volume 
+PASS Menus: settings back restores title focus 
+PASS Menus: shoulder switches campaign 
+PASS Menus: pad opens courses 
+PASS Menus: dpad moves right in course grid course1-2
+PASS Menus: dpad moves down in course grid course1-4
+PASS Menus: pad confirms Japanese course 
+PASS Menus: menu confirm cannot jump in new course 
+PASS Menus: released and repressed south jumps 
+PASS Menus: X runs and fires 
+PASS Menus: Circle runs and fires 
+PASS Menus: stick movement -1 
+PASS Menus: dpad movement -1 
+PASS Menus: stick movement 1 
+PASS Menus: dpad movement 1 
+PASS Menus: dpad down crouches / enters pipe 
+PASS Menus: dpad up climbs 
+PASS Menus: start pauses 
+PASS Menus: pad opens restart with cancel selected 
+PASS Menus: default restart accept cancels 
+PASS Menus: pad selects restart confirmation 
+PASS Menus: east cancels restart and restores focus 
+PASS Menus: pad confirms restart as small Mario 
+PASS Menus: focus reachable Pause/settings focus=settings
+PASS Menus: pad opens settings 
+PASS Menus: focus reachable Settings/volume focus=volume
+PASS Menus: held stick does not repeat every frame 
+PASS Menus: held stick repeats after delay 
+PASS Menus: stick drift does not navigate or adjust 
+PASS Menus: menu volume clamps at zero 
+PASS Menus: menu volume clamps at one 
+PASS Menus: focus reachable Settings/mute focus=mute
+PASS Menus: pad toggles mute 
+PASS Menus: focus reachable Settings/display focus=display
+PASS Menus: pad selects window mode 
+PASS Menus: focus reachable Settings/aspect focus=aspect
+PASS Menus: pad toggles presentation 
+PASS Menus: focus reachable Settings/autoRun focus=autoRun
+PASS Menus: pad enables automatic running 
+PASS Menus: pad left disables automatic running 
+PASS Menus: keyboard right enables automatic running 
+PASS Menus: keyboard confirm toggles automatic running off 
+PASS Menus: focus reachable Settings/size0 focus=size0
+PASS Menus: pad selects window preset 0 
+PASS Menus: focus reachable Settings/size1 focus=size1
+PASS Menus: pad selects window preset 1 
+PASS Menus: focus reachable Settings/size2 focus=size2
+PASS Menus: pad selects window preset 2 
+PASS Menus: focus reachable Settings/display focus=display
+PASS Menus: pad selects fullscreen 
+PASS Menus: focus reachable Settings/autoRun focus=autoRun
+PASS Menus: disabled window sizes are skipped 
+PASS Menus: settings back stays paused 
+PASS Menus: start resumes pause 
+PASS Menus: focus reachable Courses/course1-1 focus=course1-1
+PASS Menus: keyboard launches 1-1 
+PASS Menus: focus reachable Courses/course1-2 focus=course1-2
+PASS Menus: keyboard launches 1-2 
+PASS Menus: focus reachable Courses/course1-3 focus=course1-3
+PASS Menus: keyboard launches 1-3 
+PASS Menus: focus reachable Courses/course1-4 focus=course1-4
+PASS Menus: keyboard launches 1-4 
+PASS Menus: focus reachable Courses/course2-1 focus=course2-1
+PASS Menus: keyboard launches 2-1 
+PASS Menus: focus reachable Courses/course2-2 focus=course2-2
+PASS Menus: keyboard launches 2-2 
+PASS Menus: focus reachable Courses/course2-3 focus=course2-3
+PASS Menus: keyboard launches 2-3 
+PASS Menus: focus reachable Courses/course2-4 focus=course2-4
+PASS Menus: keyboard launches 2-4 
+PASS Menus: focus reachable Courses/course3-1 focus=course3-1
+PASS Menus: keyboard launches 3-1 
+PASS Menus: focus reachable Courses/course3-2 focus=course3-2
+PASS Menus: keyboard launches 3-2 
+PASS Menus: focus reachable Courses/course3-3 focus=course3-3
+PASS Menus: keyboard launches 3-3 
+PASS Menus: focus reachable Courses/course3-4 focus=course3-4
+PASS Menus: keyboard launches 3-4 
+PASS Menus: focus reachable Courses/course4-1 focus=course4-1
+PASS Menus: keyboard launches 4-1 
+PASS Menus: focus reachable Courses/course4-2 focus=course4-2
+PASS Menus: keyboard launches 4-2 
+PASS Menus: focus reachable Courses/course4-3 focus=course4-3
+PASS Menus: keyboard launches 4-3 
+PASS Menus: focus reachable Courses/course4-4 focus=course4-4
+PASS Menus: keyboard launches 4-4 
+PASS Menus: focus reachable Courses/course5-1 focus=course5-1
+PASS Menus: keyboard launches 5-1 
+PASS Menus: focus reachable Courses/course5-2 focus=course5-2
+PASS Menus: keyboard launches 5-2 
+PASS Menus: focus reachable Courses/course5-3 focus=course5-3
+PASS Menus: keyboard launches 5-3 
+PASS Menus: focus reachable Courses/course5-4 focus=course5-4
+PASS Menus: keyboard launches 5-4 
+PASS Menus: focus reachable Courses/course6-1 focus=course6-1
+PASS Menus: keyboard launches 6-1 
+PASS Menus: focus reachable Courses/course6-2 focus=course6-2
+PASS Menus: keyboard launches 6-2 
+PASS Menus: focus reachable Courses/course6-3 focus=course6-3
+PASS Menus: keyboard launches 6-3 
+PASS Menus: focus reachable Courses/course6-4 focus=course6-4
+PASS Menus: keyboard launches 6-4 
+PASS Menus: focus reachable Courses/course7-1 focus=course7-1
+PASS Menus: keyboard launches 7-1 
+PASS Menus: focus reachable Courses/course7-2 focus=course7-2
+PASS Menus: keyboard launches 7-2 
+PASS Menus: focus reachable Courses/course7-3 focus=course7-3
+PASS Menus: keyboard launches 7-3 
+PASS Menus: focus reachable Courses/course7-4 focus=course7-4
+PASS Menus: keyboard launches 7-4 
+PASS Menus: focus reachable Courses/course8-1 focus=course8-1
+PASS Menus: keyboard launches 8-1 
+PASS Menus: focus reachable Courses/course8-2 focus=course8-2
+PASS Menus: keyboard launches 8-2 
+PASS Menus: focus reachable Courses/course8-3 focus=course8-3
+PASS Menus: keyboard launches 8-3 
+PASS Menus: focus reachable Courses/course8-4 focus=course8-4
+PASS Menus: keyboard launches 8-4 
+PASS Menus: focus reachable Courses/course1-1 focus=course1-1
+PASS Menus: keyboard launches J-1-1 
+PASS Menus: focus reachable Courses/course1-2 focus=course1-2
+PASS Menus: keyboard launches J-1-2 
+PASS Menus: focus reachable Courses/course1-3 focus=course1-3
+PASS Menus: keyboard launches J-1-3 
+PASS Menus: focus reachable Courses/course1-4 focus=course1-4
+PASS Menus: keyboard launches J-1-4 
+PASS Menus: focus reachable Courses/course2-1 focus=course2-1
+PASS Menus: keyboard launches J-2-1 
+PASS Menus: focus reachable Courses/course2-2 focus=course2-2
+PASS Menus: keyboard launches J-2-2 
+PASS Menus: focus reachable Courses/course2-3 focus=course2-3
+PASS Menus: keyboard launches J-2-3 
+PASS Menus: focus reachable Courses/course2-4 focus=course2-4
+PASS Menus: keyboard launches J-2-4 
+PASS Menus: focus reachable Courses/course3-1 focus=course3-1
+PASS Menus: keyboard launches J-3-1 
+PASS Menus: focus reachable Courses/course3-2 focus=course3-2
+PASS Menus: keyboard launches J-3-2 
+PASS Menus: focus reachable Courses/course3-3 focus=course3-3
+PASS Menus: keyboard launches J-3-3 
+PASS Menus: focus reachable Courses/course3-4 focus=course3-4
+PASS Menus: keyboard launches J-3-4 
+PASS Menus: focus reachable Courses/course4-1 focus=course4-1
+PASS Menus: keyboard launches J-4-1 
+PASS Menus: focus reachable Courses/course4-2 focus=course4-2
+PASS Menus: keyboard launches J-4-2 
+PASS Menus: focus reachable Courses/course4-3 focus=course4-3
+PASS Menus: keyboard launches J-4-3 
+PASS Menus: focus reachable Courses/course4-4 focus=course4-4
+PASS Menus: keyboard launches J-4-4 
+PASS Menus: focus reachable Courses/course5-1 focus=course5-1
+PASS Menus: keyboard launches J-5-1 
+PASS Menus: focus reachable Courses/course5-2 focus=course5-2
+PASS Menus: keyboard launches J-5-2 
+PASS Menus: focus reachable Courses/course5-3 focus=course5-3
+PASS Menus: keyboard launches J-5-3 
+PASS Menus: focus reachable Courses/course5-4 focus=course5-4
+PASS Menus: keyboard launches J-5-4 
+PASS Menus: focus reachable Courses/course6-1 focus=course6-1
+PASS Menus: keyboard launches J-6-1 
+PASS Menus: focus reachable Courses/course6-2 focus=course6-2
+PASS Menus: keyboard launches J-6-2 
+PASS Menus: focus reachable Courses/course6-3 focus=course6-3
+PASS Menus: keyboard launches J-6-3 
+PASS Menus: focus reachable Courses/course6-4 focus=course6-4
+PASS Menus: keyboard launches J-6-4 
+PASS Menus: focus reachable Courses/course7-1 focus=course7-1
+PASS Menus: keyboard launches J-7-1 
+PASS Menus: focus reachable Courses/course7-2 focus=course7-2
+PASS Menus: keyboard launches J-7-2 
+PASS Menus: focus reachable Courses/course7-3 focus=course7-3
+PASS Menus: keyboard launches J-7-3 
+PASS Menus: focus reachable Courses/course7-4 focus=course7-4
+PASS Menus: keyboard launches J-7-4 
+PASS Menus: focus reachable Courses/course8-1 focus=course8-1
+PASS Menus: keyboard launches J-8-1 
+PASS Menus: focus reachable Courses/course8-2 focus=course8-2
+PASS Menus: keyboard launches J-8-2 
+PASS Menus: focus reachable Courses/course8-3 focus=course8-3
+PASS Menus: keyboard launches J-8-3 
+PASS Menus: focus reachable Courses/course8-4 focus=course8-4
+PASS Menus: keyboard launches J-8-4 
+PASS Menus: arrows reach all controls on Title 
+PASS Menus: arrows reach all controls on Pause 
+PASS Menus: arrows reach all controls on Courses 
+PASS Menus: arrows reach all controls on Settings 
+PASS Menus: arrows reach all controls on Restart 
+PASS Menus: arrows reach all controls on End 
+PASS Menus: arrows reach all controls on Exit 
+PASS Menus: focus reachable Title/exit focus=exit
+PASS Menus: exit confirmation defaults to cancel 
+PASS Menus: exit cancel returns to title 
+PASS Menus: focus reachable Pause/title focus=title
+PASS Menus: pad returns to title 
+PASS Menus: focus reachable End/courses focus=courses
+PASS Menus: GameOver course back returns to ending 
+PASS Menus: focus reachable End/again focus=again
+PASS Menus: GameOver replay 
+PASS Menus: focus reachable End/courses focus=courses
+PASS Menus: Victory course back returns to ending 
+PASS Menus: focus reachable End/again focus=again
+PASS Menus: Victory replay 
+PASS Menus: pad skips death exactly once 
+PASS Menus: active controller disconnect pauses gameplay 
+PASS Menus: reconnected controller resumes 
+PASS Menus: fullscreen / mute keyboard mapping 
+PASS Menus: automatic=False controller=False direction=-1 speed vx=-1.5
+PASS Menus: movement does not auto-fire 
+PASS Menus: automatic=False controller=False direction=1 speed vx=1.5
+PASS Menus: movement does not auto-fire 
+PASS Menus: automatic=False controller=True direction=-1 speed vx=-1.5
+PASS Menus: movement does not auto-fire 
+PASS Menus: automatic=False controller=True direction=1 speed vx=1.5
+PASS Menus: movement does not auto-fire 
+PASS Menus: automatic=True controller=False direction=-1 speed vx=-2.5
+PASS Menus: movement does not auto-fire 
+PASS Menus: automatic running still permits jump 
+PASS Menus: automatic running keeps explicit fire button 
+PASS Menus: held fire is not repeated by automatic running 
+PASS Menus: automatic running stops with neutral direction 
+PASS Menus: automatic=True controller=False direction=1 speed vx=2.5
+PASS Menus: movement does not auto-fire 
+PASS Menus: automatic running still permits jump 
+PASS Menus: automatic running keeps explicit fire button 
+PASS Menus: held fire is not repeated by automatic running 
+PASS Menus: automatic running stops with neutral direction 
+PASS Menus: automatic=True controller=True direction=-1 speed vx=-2.5
+PASS Menus: movement does not auto-fire 
+PASS Menus: automatic running still permits jump 
+PASS Menus: automatic running keeps explicit fire button 
+PASS Menus: held fire is not repeated by automatic running 
+PASS Menus: automatic running stops with neutral direction 
+PASS Menus: automatic=True controller=True direction=1 speed vx=2.5
+PASS Menus: movement does not auto-fire 
+PASS Menus: automatic running still permits jump 
+PASS Menus: automatic running keeps explicit fire button 
+PASS Menus: held fire is not repeated by automatic running 
+PASS Menus: automatic running stops with neutral direction 
+PASS Menus: automatic running persists across new game 
+PASS Menus: automatic running persists across respawn 
+PASS Menus: left shoulder wraps to Cat Mario 
+PASS Menus: pad launches Cat Mario 
+PASS Menus: Cat Mario moves with stick 
+PASS Menus: Cat Mario pause freezes simulation 
+PASS Menus: focus reachable Pause/settings focus=settings
+PASS Menus: Cat Mario shares settings 
+PASS Menus: Cat Mario fixed speed disables automatic run setting 
+PASS Menus: focus reachable Pause/restart focus=restart
+PASS Menus: Cat Mario restart defaults to cancel 
+PASS Menus: Cat Mario confirmed restart 
+PASS Menus: Cat Mario course focus points to a course cat1
+PASS Menus: focus reachable Courses/cat1 focus=cat1
+PASS Menus: pad selects Cat Mario 1 
+PASS Menus: Cat Mario course focus points to a course cat1
+PASS Menus: focus reachable Courses/cat2 focus=cat2
+PASS Menus: pad selects Cat Mario 2 
+PASS Menus: Cat Mario course focus points to a course cat2
+PASS Menus: focus reachable Courses/cat3 focus=cat3
+PASS Menus: pad selects Cat Mario 3 
+PASS Menus: Cat Mario course focus points to a course cat3
+PASS Menus: focus reachable Courses/cat4 focus=cat4
+PASS Menus: pad selects Cat Mario 4 
+PASS Menus: Cat Mario controller disconnect pauses 
+PASS Menus: Cat Mario exit releases runtime 
+PASS Menus: switching back to original restores Mario 

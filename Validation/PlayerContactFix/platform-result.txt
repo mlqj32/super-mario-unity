@@ -1,0 +1,1 @@
+MARIO_PLATFORM_PASS checks=44 errors=0

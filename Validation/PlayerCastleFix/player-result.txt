@@ -1,0 +1,1 @@
+MARIO_PLAYER_SMOKE_PASS courses=32 simulatedFrames=23040 errors=0

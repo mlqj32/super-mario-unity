@@ -1,0 +1,1324 @@
+PASS Castle entry: 1-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 1-1 area=0 power=1 flag triggers 
+PASS Castle entry: 1-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 1-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 1-1 area=0 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 1-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3266 door=3266
+PASS Castle entry: 1-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 1-1 area=0 power=1 next course restores player 
+PASS Castle entry: 1-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 1-1 area=0 power=2 flag triggers 
+PASS Castle entry: 1-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 1-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 1-1 area=0 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 1-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3266 door=3266
+PASS Castle entry: 1-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 1-1 area=0 power=2 next course restores player 
+PASS Castle entry: 1-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 1-1 area=0 power=3 flag triggers 
+PASS Castle entry: 1-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 1-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 1-1 area=0 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 1-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3266 door=3266
+PASS Castle entry: 1-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 1-1 area=0 power=3 next course restores player 
+PASS Castle entry: 1-2 area=3 power=1 usable ground-level castle door 
+PASS Castle entry: 1-2 area=3 power=1 flag triggers 
+PASS Castle entry: 1-2 area=3 power=1 pause preserves hidden entrance 
+PASS Castle entry: 1-2 area=3 power=1 remains inside while settlement waits 
+PASS Castle entry: 1-2 area=3 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 1-2 area=3 power=1 stops and disappears at actual doorway entered=True overshot=False x=402 door=402
+PASS Castle entry: 1-2 area=3 power=1 advances after entrance and music 
+PASS Castle entry: 1-2 area=3 power=1 next course restores player 
+PASS Castle entry: 1-2 area=3 power=2 usable ground-level castle door 
+PASS Castle entry: 1-2 area=3 power=2 flag triggers 
+PASS Castle entry: 1-2 area=3 power=2 pause preserves hidden entrance 
+PASS Castle entry: 1-2 area=3 power=2 remains inside while settlement waits 
+PASS Castle entry: 1-2 area=3 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 1-2 area=3 power=2 stops and disappears at actual doorway entered=True overshot=False x=402 door=402
+PASS Castle entry: 1-2 area=3 power=2 advances after entrance and music 
+PASS Castle entry: 1-2 area=3 power=2 next course restores player 
+PASS Castle entry: 1-2 area=3 power=3 usable ground-level castle door 
+PASS Castle entry: 1-2 area=3 power=3 flag triggers 
+PASS Castle entry: 1-2 area=3 power=3 pause preserves hidden entrance 
+PASS Castle entry: 1-2 area=3 power=3 remains inside while settlement waits 
+PASS Castle entry: 1-2 area=3 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 1-2 area=3 power=3 stops and disappears at actual doorway entered=True overshot=False x=402 door=402
+PASS Castle entry: 1-2 area=3 power=3 advances after entrance and music 
+PASS Castle entry: 1-2 area=3 power=3 next course restores player 
+PASS Castle entry: 1-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 1-3 area=0 power=1 flag triggers 
+PASS Castle entry: 1-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 1-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 1-3 area=0 power=1 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 1-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=2530 door=2530
+PASS Castle entry: 1-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 1-3 area=0 power=1 next course restores player 
+PASS Castle entry: 1-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 1-3 area=0 power=2 flag triggers 
+PASS Castle entry: 1-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 1-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 1-3 area=0 power=2 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 1-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=2530 door=2530
+PASS Castle entry: 1-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 1-3 area=0 power=2 next course restores player 
+PASS Castle entry: 1-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 1-3 area=0 power=3 flag triggers 
+PASS Castle entry: 1-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 1-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 1-3 area=0 power=3 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 1-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=2530 door=2530
+PASS Castle entry: 1-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 1-3 area=0 power=3 next course restores player 
+PASS Castle entry: 2-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 2-1 area=0 power=1 flag triggers 
+PASS Castle entry: 2-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 2-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 2-1 area=0 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 2-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3298 door=3298
+PASS Castle entry: 2-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 2-1 area=0 power=1 next course restores player 
+PASS Castle entry: 2-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 2-1 area=0 power=2 flag triggers 
+PASS Castle entry: 2-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 2-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 2-1 area=0 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 2-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3298 door=3298
+PASS Castle entry: 2-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 2-1 area=0 power=2 next course restores player 
+PASS Castle entry: 2-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 2-1 area=0 power=3 flag triggers 
+PASS Castle entry: 2-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 2-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 2-1 area=0 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 2-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3298 door=3298
+PASS Castle entry: 2-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 2-1 area=0 power=3 next course restores player 
+PASS Castle entry: 2-2 area=2 power=1 usable ground-level castle door 
+PASS Castle entry: 2-2 area=2 power=1 flag triggers 
+PASS Castle entry: 2-2 area=2 power=1 pause preserves hidden entrance 
+PASS Castle entry: 2-2 area=2 power=1 remains inside while settlement waits 
+PASS Castle entry: 2-2 area=2 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 2-2 area=2 power=1 stops and disappears at actual doorway entered=True overshot=False x=402 door=402
+PASS Castle entry: 2-2 area=2 power=1 advances after entrance and music 
+PASS Castle entry: 2-2 area=2 power=1 next course restores player 
+PASS Castle entry: 2-2 area=2 power=2 usable ground-level castle door 
+PASS Castle entry: 2-2 area=2 power=2 flag triggers 
+PASS Castle entry: 2-2 area=2 power=2 pause preserves hidden entrance 
+PASS Castle entry: 2-2 area=2 power=2 remains inside while settlement waits 
+PASS Castle entry: 2-2 area=2 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 2-2 area=2 power=2 stops and disappears at actual doorway entered=True overshot=False x=402 door=402
+PASS Castle entry: 2-2 area=2 power=2 advances after entrance and music 
+PASS Castle entry: 2-2 area=2 power=2 next course restores player 
+PASS Castle entry: 2-2 area=2 power=3 usable ground-level castle door 
+PASS Castle entry: 2-2 area=2 power=3 flag triggers 
+PASS Castle entry: 2-2 area=2 power=3 pause preserves hidden entrance 
+PASS Castle entry: 2-2 area=2 power=3 remains inside while settlement waits 
+PASS Castle entry: 2-2 area=2 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 2-2 area=2 power=3 stops and disappears at actual doorway entered=True overshot=False x=402 door=402
+PASS Castle entry: 2-2 area=2 power=3 advances after entrance and music 
+PASS Castle entry: 2-2 area=2 power=3 next course restores player 
+PASS Castle entry: 2-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 2-3 area=0 power=1 flag triggers 
+PASS Castle entry: 2-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 2-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 2-3 area=0 power=1 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 2-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3682 door=3682
+PASS Castle entry: 2-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 2-3 area=0 power=1 next course restores player 
+PASS Castle entry: 2-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 2-3 area=0 power=2 flag triggers 
+PASS Castle entry: 2-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 2-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 2-3 area=0 power=2 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 2-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3682 door=3682
+PASS Castle entry: 2-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 2-3 area=0 power=2 next course restores player 
+PASS Castle entry: 2-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 2-3 area=0 power=3 flag triggers 
+PASS Castle entry: 2-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 2-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 2-3 area=0 power=3 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 2-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3682 door=3682
+PASS Castle entry: 2-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 2-3 area=0 power=3 next course restores player 
+PASS Castle entry: 3-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 3-1 area=0 power=1 flag triggers 
+PASS Castle entry: 3-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 3-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 3-1 area=0 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 3-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3298 door=3298
+PASS Castle entry: 3-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 3-1 area=0 power=1 next course restores player 
+PASS Castle entry: 3-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 3-1 area=0 power=2 flag triggers 
+PASS Castle entry: 3-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 3-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 3-1 area=0 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 3-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3298 door=3298
+PASS Castle entry: 3-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 3-1 area=0 power=2 next course restores player 
+PASS Castle entry: 3-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 3-1 area=0 power=3 flag triggers 
+PASS Castle entry: 3-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 3-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 3-1 area=0 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 3-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3298 door=3298
+PASS Castle entry: 3-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 3-1 area=0 power=3 next course restores player 
+PASS Castle entry: 3-2 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 3-2 area=0 power=1 flag triggers 
+PASS Castle entry: 3-2 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 3-2 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 3-2 area=0 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 3-2 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3442 door=3442
+PASS Castle entry: 3-2 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 3-2 area=0 power=1 next course restores player 
+PASS Castle entry: 3-2 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 3-2 area=0 power=2 flag triggers 
+PASS Castle entry: 3-2 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 3-2 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 3-2 area=0 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 3-2 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3442 door=3442
+PASS Castle entry: 3-2 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 3-2 area=0 power=2 next course restores player 
+PASS Castle entry: 3-2 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 3-2 area=0 power=3 flag triggers 
+PASS Castle entry: 3-2 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 3-2 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 3-2 area=0 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 3-2 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3442 door=3442
+PASS Castle entry: 3-2 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 3-2 area=0 power=3 next course restores player 
+PASS Castle entry: 3-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 3-3 area=0 power=1 flag triggers 
+PASS Castle entry: 3-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 3-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 3-3 area=0 power=1 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 3-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=2498 door=2498
+PASS Castle entry: 3-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 3-3 area=0 power=1 next course restores player 
+PASS Castle entry: 3-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 3-3 area=0 power=2 flag triggers 
+PASS Castle entry: 3-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 3-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 3-3 area=0 power=2 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 3-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=2498 door=2498
+PASS Castle entry: 3-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 3-3 area=0 power=2 next course restores player 
+PASS Castle entry: 3-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 3-3 area=0 power=3 flag triggers 
+PASS Castle entry: 3-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 3-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 3-3 area=0 power=3 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 3-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=2498 door=2498
+PASS Castle entry: 3-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 3-3 area=0 power=3 next course restores player 
+PASS Castle entry: 4-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 4-1 area=0 power=1 flag triggers 
+PASS Castle entry: 4-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 4-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 4-1 area=0 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 4-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3698 door=3698
+PASS Castle entry: 4-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 4-1 area=0 power=1 next course restores player 
+PASS Castle entry: 4-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 4-1 area=0 power=2 flag triggers 
+PASS Castle entry: 4-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 4-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 4-1 area=0 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 4-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3698 door=3698
+PASS Castle entry: 4-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 4-1 area=0 power=2 next course restores player 
+PASS Castle entry: 4-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 4-1 area=0 power=3 flag triggers 
+PASS Castle entry: 4-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 4-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 4-1 area=0 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 4-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3698 door=3698
+PASS Castle entry: 4-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 4-1 area=0 power=3 next course restores player 
+PASS Castle entry: 4-2 area=3 power=1 usable ground-level castle door 
+PASS Castle entry: 4-2 area=3 power=1 flag triggers 
+PASS Castle entry: 4-2 area=3 power=1 pause preserves hidden entrance 
+PASS Castle entry: 4-2 area=3 power=1 remains inside while settlement waits 
+PASS Castle entry: 4-2 area=3 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 4-2 area=3 power=1 stops and disappears at actual doorway entered=True overshot=False x=402 door=402
+PASS Castle entry: 4-2 area=3 power=1 advances after entrance and music 
+PASS Castle entry: 4-2 area=3 power=1 next course restores player 
+PASS Castle entry: 4-2 area=3 power=2 usable ground-level castle door 
+PASS Castle entry: 4-2 area=3 power=2 flag triggers 
+PASS Castle entry: 4-2 area=3 power=2 pause preserves hidden entrance 
+PASS Castle entry: 4-2 area=3 power=2 remains inside while settlement waits 
+PASS Castle entry: 4-2 area=3 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 4-2 area=3 power=2 stops and disappears at actual doorway entered=True overshot=False x=402 door=402
+PASS Castle entry: 4-2 area=3 power=2 advances after entrance and music 
+PASS Castle entry: 4-2 area=3 power=2 next course restores player 
+PASS Castle entry: 4-2 area=3 power=3 usable ground-level castle door 
+PASS Castle entry: 4-2 area=3 power=3 flag triggers 
+PASS Castle entry: 4-2 area=3 power=3 pause preserves hidden entrance 
+PASS Castle entry: 4-2 area=3 power=3 remains inside while settlement waits 
+PASS Castle entry: 4-2 area=3 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 4-2 area=3 power=3 stops and disappears at actual doorway entered=True overshot=False x=402 door=402
+PASS Castle entry: 4-2 area=3 power=3 advances after entrance and music 
+PASS Castle entry: 4-2 area=3 power=3 next course restores player 
+PASS Castle entry: 4-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 4-3 area=0 power=1 flag triggers 
+PASS Castle entry: 4-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 4-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 4-3 area=0 power=1 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 4-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=2434 door=2434
+PASS Castle entry: 4-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 4-3 area=0 power=1 next course restores player 
+PASS Castle entry: 4-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 4-3 area=0 power=2 flag triggers 
+PASS Castle entry: 4-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 4-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 4-3 area=0 power=2 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 4-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=2434 door=2434
+PASS Castle entry: 4-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 4-3 area=0 power=2 next course restores player 
+PASS Castle entry: 4-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 4-3 area=0 power=3 flag triggers 
+PASS Castle entry: 4-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 4-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 4-3 area=0 power=3 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 4-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=2434 door=2434
+PASS Castle entry: 4-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 4-3 area=0 power=3 next course restores player 
+PASS Castle entry: 5-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 5-1 area=0 power=1 flag triggers 
+PASS Castle entry: 5-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 5-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 5-1 area=0 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 5-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3282 door=3282
+PASS Castle entry: 5-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 5-1 area=0 power=1 next course restores player 
+PASS Castle entry: 5-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 5-1 area=0 power=2 flag triggers 
+PASS Castle entry: 5-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 5-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 5-1 area=0 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 5-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3282 door=3282
+PASS Castle entry: 5-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 5-1 area=0 power=2 next course restores player 
+PASS Castle entry: 5-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 5-1 area=0 power=3 flag triggers 
+PASS Castle entry: 5-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 5-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 5-1 area=0 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 5-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3282 door=3282
+PASS Castle entry: 5-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 5-1 area=0 power=3 next course restores player 
+PASS Castle entry: 5-2 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 5-2 area=0 power=1 flag triggers 
+PASS Castle entry: 5-2 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 5-2 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 5-2 area=0 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 5-2 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3298 door=3298
+PASS Castle entry: 5-2 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 5-2 area=0 power=1 next course restores player 
+PASS Castle entry: 5-2 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 5-2 area=0 power=2 flag triggers 
+PASS Castle entry: 5-2 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 5-2 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 5-2 area=0 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 5-2 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3298 door=3298
+PASS Castle entry: 5-2 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 5-2 area=0 power=2 next course restores player 
+PASS Castle entry: 5-2 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 5-2 area=0 power=3 flag triggers 
+PASS Castle entry: 5-2 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 5-2 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 5-2 area=0 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 5-2 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3298 door=3298
+PASS Castle entry: 5-2 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 5-2 area=0 power=3 next course restores player 
+PASS Castle entry: 5-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 5-3 area=0 power=1 flag triggers 
+PASS Castle entry: 5-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 5-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 5-3 area=0 power=1 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 5-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=2530 door=2530
+PASS Castle entry: 5-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 5-3 area=0 power=1 next course restores player 
+PASS Castle entry: 5-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 5-3 area=0 power=2 flag triggers 
+PASS Castle entry: 5-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 5-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 5-3 area=0 power=2 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 5-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=2530 door=2530
+PASS Castle entry: 5-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 5-3 area=0 power=2 next course restores player 
+PASS Castle entry: 5-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 5-3 area=0 power=3 flag triggers 
+PASS Castle entry: 5-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 5-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 5-3 area=0 power=3 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 5-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=2530 door=2530
+PASS Castle entry: 5-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 5-3 area=0 power=3 next course restores player 
+PASS Castle entry: 6-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 6-1 area=0 power=1 flag triggers 
+PASS Castle entry: 6-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 6-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 6-1 area=0 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 6-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3074 door=3074
+PASS Castle entry: 6-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 6-1 area=0 power=1 next course restores player 
+PASS Castle entry: 6-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 6-1 area=0 power=2 flag triggers 
+PASS Castle entry: 6-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 6-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 6-1 area=0 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 6-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3074 door=3074
+PASS Castle entry: 6-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 6-1 area=0 power=2 next course restores player 
+PASS Castle entry: 6-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 6-1 area=0 power=3 flag triggers 
+PASS Castle entry: 6-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 6-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 6-1 area=0 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 6-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3074 door=3074
+PASS Castle entry: 6-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 6-1 area=0 power=3 next course restores player 
+PASS Castle entry: 6-2 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 6-2 area=0 power=1 flag triggers 
+PASS Castle entry: 6-2 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 6-2 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 6-2 area=0 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 6-2 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3554 door=3554
+PASS Castle entry: 6-2 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 6-2 area=0 power=1 next course restores player 
+PASS Castle entry: 6-2 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 6-2 area=0 power=2 flag triggers 
+PASS Castle entry: 6-2 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 6-2 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 6-2 area=0 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 6-2 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3554 door=3554
+PASS Castle entry: 6-2 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 6-2 area=0 power=2 next course restores player 
+PASS Castle entry: 6-2 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 6-2 area=0 power=3 flag triggers 
+PASS Castle entry: 6-2 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 6-2 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 6-2 area=0 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 6-2 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3554 door=3554
+PASS Castle entry: 6-2 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 6-2 area=0 power=3 next course restores player 
+PASS Castle entry: 6-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 6-3 area=0 power=1 flag triggers 
+PASS Castle entry: 6-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 6-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 6-3 area=0 power=1 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 6-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=2754 door=2754
+PASS Castle entry: 6-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 6-3 area=0 power=1 next course restores player 
+PASS Castle entry: 6-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 6-3 area=0 power=2 flag triggers 
+PASS Castle entry: 6-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 6-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 6-3 area=0 power=2 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 6-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=2754 door=2754
+PASS Castle entry: 6-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 6-3 area=0 power=2 next course restores player 
+PASS Castle entry: 6-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 6-3 area=0 power=3 flag triggers 
+PASS Castle entry: 6-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 6-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 6-3 area=0 power=3 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 6-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=2754 door=2754
+PASS Castle entry: 6-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 6-3 area=0 power=3 next course restores player 
+PASS Castle entry: 7-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 7-1 area=0 power=1 flag triggers 
+PASS Castle entry: 7-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 7-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 7-1 area=0 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 7-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=2962 door=2962
+PASS Castle entry: 7-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 7-1 area=0 power=1 next course restores player 
+PASS Castle entry: 7-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 7-1 area=0 power=2 flag triggers 
+PASS Castle entry: 7-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 7-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 7-1 area=0 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 7-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=2962 door=2962
+PASS Castle entry: 7-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 7-1 area=0 power=2 next course restores player 
+PASS Castle entry: 7-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 7-1 area=0 power=3 flag triggers 
+PASS Castle entry: 7-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 7-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 7-1 area=0 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 7-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=2962 door=2962
+PASS Castle entry: 7-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 7-1 area=0 power=3 next course restores player 
+PASS Castle entry: 7-2 area=2 power=1 usable ground-level castle door 
+PASS Castle entry: 7-2 area=2 power=1 flag triggers 
+PASS Castle entry: 7-2 area=2 power=1 pause preserves hidden entrance 
+PASS Castle entry: 7-2 area=2 power=1 remains inside while settlement waits 
+PASS Castle entry: 7-2 area=2 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 7-2 area=2 power=1 stops and disappears at actual doorway entered=True overshot=False x=402 door=402
+PASS Castle entry: 7-2 area=2 power=1 advances after entrance and music 
+PASS Castle entry: 7-2 area=2 power=1 next course restores player 
+PASS Castle entry: 7-2 area=2 power=2 usable ground-level castle door 
+PASS Castle entry: 7-2 area=2 power=2 flag triggers 
+PASS Castle entry: 7-2 area=2 power=2 pause preserves hidden entrance 
+PASS Castle entry: 7-2 area=2 power=2 remains inside while settlement waits 
+PASS Castle entry: 7-2 area=2 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 7-2 area=2 power=2 stops and disappears at actual doorway entered=True overshot=False x=402 door=402
+PASS Castle entry: 7-2 area=2 power=2 advances after entrance and music 
+PASS Castle entry: 7-2 area=2 power=2 next course restores player 
+PASS Castle entry: 7-2 area=2 power=3 usable ground-level castle door 
+PASS Castle entry: 7-2 area=2 power=3 flag triggers 
+PASS Castle entry: 7-2 area=2 power=3 pause preserves hidden entrance 
+PASS Castle entry: 7-2 area=2 power=3 remains inside while settlement waits 
+PASS Castle entry: 7-2 area=2 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 7-2 area=2 power=3 stops and disappears at actual doorway entered=True overshot=False x=402 door=402
+PASS Castle entry: 7-2 area=2 power=3 advances after entrance and music 
+PASS Castle entry: 7-2 area=2 power=3 next course restores player 
+PASS Castle entry: 7-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 7-3 area=0 power=1 flag triggers 
+PASS Castle entry: 7-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 7-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 7-3 area=0 power=1 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 7-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3682 door=3682
+PASS Castle entry: 7-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 7-3 area=0 power=1 next course restores player 
+PASS Castle entry: 7-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 7-3 area=0 power=2 flag triggers 
+PASS Castle entry: 7-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 7-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 7-3 area=0 power=2 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 7-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3682 door=3682
+PASS Castle entry: 7-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 7-3 area=0 power=2 next course restores player 
+PASS Castle entry: 7-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 7-3 area=0 power=3 flag triggers 
+PASS Castle entry: 7-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 7-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 7-3 area=0 power=3 landed walk uses running poses walking=41 bad=0 poses=3
+PASS Castle entry: 7-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3682 door=3682
+PASS Castle entry: 7-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 7-3 area=0 power=3 next course restores player 
+PASS Castle entry: 8-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 8-1 area=0 power=1 flag triggers 
+PASS Castle entry: 8-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 8-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 8-1 area=0 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 8-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=6114 door=6114
+PASS Castle entry: 8-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 8-1 area=0 power=1 next course restores player 
+PASS Castle entry: 8-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 8-1 area=0 power=2 flag triggers 
+PASS Castle entry: 8-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 8-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 8-1 area=0 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 8-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=6114 door=6114
+PASS Castle entry: 8-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 8-1 area=0 power=2 next course restores player 
+PASS Castle entry: 8-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 8-1 area=0 power=3 flag triggers 
+PASS Castle entry: 8-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 8-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 8-1 area=0 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 8-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=6114 door=6114
+PASS Castle entry: 8-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 8-1 area=0 power=3 next course restores player 
+PASS Castle entry: 8-2 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 8-2 area=0 power=1 flag triggers 
+PASS Castle entry: 8-2 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 8-2 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 8-2 area=0 power=1 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 8-2 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3554 door=3554
+PASS Castle entry: 8-2 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 8-2 area=0 power=1 next course restores player 
+PASS Castle entry: 8-2 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 8-2 area=0 power=2 flag triggers 
+PASS Castle entry: 8-2 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 8-2 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 8-2 area=0 power=2 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 8-2 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3554 door=3554
+PASS Castle entry: 8-2 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 8-2 area=0 power=2 next course restores player 
+PASS Castle entry: 8-2 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 8-2 area=0 power=3 flag triggers 
+PASS Castle entry: 8-2 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 8-2 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 8-2 area=0 power=3 landed walk uses running poses walking=54 bad=0 poses=3
+PASS Castle entry: 8-2 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3554 door=3554
+PASS Castle entry: 8-2 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 8-2 area=0 power=3 next course restores player 
+PASS Castle entry: 8-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: 8-3 area=0 power=1 flag triggers 
+PASS Castle entry: 8-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: 8-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: 8-3 area=0 power=1 landed walk uses running poses walking=79 bad=0 poses=3
+PASS Castle entry: 8-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3554 door=3554
+PASS Castle entry: 8-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: 8-3 area=0 power=1 next course restores player 
+PASS Castle entry: 8-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: 8-3 area=0 power=2 flag triggers 
+PASS Castle entry: 8-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: 8-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: 8-3 area=0 power=2 landed walk uses running poses walking=79 bad=0 poses=3
+PASS Castle entry: 8-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3554 door=3554
+PASS Castle entry: 8-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: 8-3 area=0 power=2 next course restores player 
+PASS Castle entry: 8-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: 8-3 area=0 power=3 flag triggers 
+PASS Castle entry: 8-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: 8-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: 8-3 area=0 power=3 landed walk uses running poses walking=79 bad=0 poses=3
+PASS Castle entry: 8-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3554 door=3554
+PASS Castle entry: 8-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: 8-3 area=0 power=3 next course restores player 
+PASS Castle entry: J-1-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-1-1 area=0 power=1 flag triggers 
+PASS Castle entry: J-1-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-1-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-1-1 area=0 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-1-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3106 door=3106
+PASS Castle entry: J-1-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-1-1 area=0 power=1 next course restores player 
+PASS Castle entry: J-1-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-1-1 area=0 power=2 flag triggers 
+PASS Castle entry: J-1-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-1-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-1-1 area=0 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-1-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3106 door=3106
+PASS Castle entry: J-1-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-1-1 area=0 power=2 next course restores player 
+PASS Castle entry: J-1-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-1-1 area=0 power=3 flag triggers 
+PASS Castle entry: J-1-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-1-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-1-1 area=0 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-1-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3106 door=3106
+PASS Castle entry: J-1-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-1-1 area=0 power=3 next course restores player 
+PASS Castle entry: J-1-1 area=4 power=1 usable ground-level castle door 
+PASS Castle entry: J-1-1 area=4 power=1 flag triggers 
+PASS Castle entry: J-1-1 area=4 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-1-1 area=4 power=1 remains inside while settlement waits 
+PASS Castle entry: J-1-1 area=4 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-1-1 area=4 power=1 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-1-1 area=4 power=1 advances after entrance and music 
+PASS Castle entry: J-1-1 area=4 power=1 next course restores player 
+PASS Castle entry: J-1-1 area=4 power=2 usable ground-level castle door 
+PASS Castle entry: J-1-1 area=4 power=2 flag triggers 
+PASS Castle entry: J-1-1 area=4 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-1-1 area=4 power=2 remains inside while settlement waits 
+PASS Castle entry: J-1-1 area=4 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-1-1 area=4 power=2 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-1-1 area=4 power=2 advances after entrance and music 
+PASS Castle entry: J-1-1 area=4 power=2 next course restores player 
+PASS Castle entry: J-1-1 area=4 power=3 usable ground-level castle door 
+PASS Castle entry: J-1-1 area=4 power=3 flag triggers 
+PASS Castle entry: J-1-1 area=4 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-1-1 area=4 power=3 remains inside while settlement waits 
+PASS Castle entry: J-1-1 area=4 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-1-1 area=4 power=3 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-1-1 area=4 power=3 advances after entrance and music 
+PASS Castle entry: J-1-1 area=4 power=3 next course restores player 
+PASS Castle entry: J-1-2 area=2 power=1 usable ground-level castle door 
+PASS Castle entry: J-1-2 area=2 power=1 flag triggers 
+PASS Castle entry: J-1-2 area=2 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-1-2 area=2 power=1 remains inside while settlement waits 
+PASS Castle entry: J-1-2 area=2 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-1-2 area=2 power=1 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-1-2 area=2 power=1 advances after entrance and music 
+PASS Castle entry: J-1-2 area=2 power=1 next course restores player 
+PASS Castle entry: J-1-2 area=2 power=2 usable ground-level castle door 
+PASS Castle entry: J-1-2 area=2 power=2 flag triggers 
+PASS Castle entry: J-1-2 area=2 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-1-2 area=2 power=2 remains inside while settlement waits 
+PASS Castle entry: J-1-2 area=2 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-1-2 area=2 power=2 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-1-2 area=2 power=2 advances after entrance and music 
+PASS Castle entry: J-1-2 area=2 power=2 next course restores player 
+PASS Castle entry: J-1-2 area=2 power=3 usable ground-level castle door 
+PASS Castle entry: J-1-2 area=2 power=3 flag triggers 
+PASS Castle entry: J-1-2 area=2 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-1-2 area=2 power=3 remains inside while settlement waits 
+PASS Castle entry: J-1-2 area=2 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-1-2 area=2 power=3 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-1-2 area=2 power=3 advances after entrance and music 
+PASS Castle entry: J-1-2 area=2 power=3 next course restores player 
+PASS Castle entry: J-1-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-1-3 area=0 power=1 flag triggers 
+PASS Castle entry: J-1-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-1-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-1-3 area=0 power=1 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-1-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=2770 door=2770
+PASS Castle entry: J-1-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-1-3 area=0 power=1 next course restores player 
+PASS Castle entry: J-1-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-1-3 area=0 power=2 flag triggers 
+PASS Castle entry: J-1-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-1-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-1-3 area=0 power=2 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-1-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=2770 door=2770
+PASS Castle entry: J-1-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-1-3 area=0 power=2 next course restores player 
+PASS Castle entry: J-1-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-1-3 area=0 power=3 flag triggers 
+PASS Castle entry: J-1-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-1-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-1-3 area=0 power=3 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-1-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=2770 door=2770
+PASS Castle entry: J-1-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-1-3 area=0 power=3 next course restores player 
+PASS Castle entry: J-2-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-2-1 area=0 power=1 flag triggers 
+PASS Castle entry: J-2-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-2-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-2-1 area=0 power=1 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-2-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3794 door=3794
+PASS Castle entry: J-2-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-2-1 area=0 power=1 next course restores player 
+PASS Castle entry: J-2-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-2-1 area=0 power=2 flag triggers 
+PASS Castle entry: J-2-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-2-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-2-1 area=0 power=2 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-2-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3794 door=3794
+PASS Castle entry: J-2-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-2-1 area=0 power=2 next course restores player 
+PASS Castle entry: J-2-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-2-1 area=0 power=3 flag triggers 
+PASS Castle entry: J-2-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-2-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-2-1 area=0 power=3 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-2-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3794 door=3794
+PASS Castle entry: J-2-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-2-1 area=0 power=3 next course restores player 
+PASS Castle entry: J-2-1 area=2 power=1 usable ground-level castle door 
+PASS Castle entry: J-2-1 area=2 power=1 flag triggers 
+PASS Castle entry: J-2-1 area=2 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-2-1 area=2 power=1 remains inside while settlement waits 
+PASS Castle entry: J-2-1 area=2 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-2-1 area=2 power=1 stops and disappears at actual doorway entered=True overshot=False x=4290 door=4290
+PASS Castle entry: J-2-1 area=2 power=1 advances after entrance and music 
+PASS Castle entry: J-2-1 area=2 power=1 next course restores player 
+PASS Castle entry: J-2-1 area=2 power=2 usable ground-level castle door 
+PASS Castle entry: J-2-1 area=2 power=2 flag triggers 
+PASS Castle entry: J-2-1 area=2 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-2-1 area=2 power=2 remains inside while settlement waits 
+PASS Castle entry: J-2-1 area=2 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-2-1 area=2 power=2 stops and disappears at actual doorway entered=True overshot=False x=4290 door=4290
+PASS Castle entry: J-2-1 area=2 power=2 advances after entrance and music 
+PASS Castle entry: J-2-1 area=2 power=2 next course restores player 
+PASS Castle entry: J-2-1 area=2 power=3 usable ground-level castle door 
+PASS Castle entry: J-2-1 area=2 power=3 flag triggers 
+PASS Castle entry: J-2-1 area=2 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-2-1 area=2 power=3 remains inside while settlement waits 
+PASS Castle entry: J-2-1 area=2 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-2-1 area=2 power=3 stops and disappears at actual doorway entered=True overshot=False x=4290 door=4290
+PASS Castle entry: J-2-1 area=2 power=3 advances after entrance and music 
+PASS Castle entry: J-2-1 area=2 power=3 next course restores player 
+PASS Castle entry: J-2-2 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-2-2 area=0 power=1 flag triggers 
+PASS Castle entry: J-2-2 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-2-2 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-2-2 area=0 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-2-2 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=4290 door=4290
+PASS Castle entry: J-2-2 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-2-2 area=0 power=1 next course restores player 
+PASS Castle entry: J-2-2 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-2-2 area=0 power=2 flag triggers 
+PASS Castle entry: J-2-2 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-2-2 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-2-2 area=0 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-2-2 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=4290 door=4290
+PASS Castle entry: J-2-2 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-2-2 area=0 power=2 next course restores player 
+PASS Castle entry: J-2-2 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-2-2 area=0 power=3 flag triggers 
+PASS Castle entry: J-2-2 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-2-2 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-2-2 area=0 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-2-2 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=4290 door=4290
+PASS Castle entry: J-2-2 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-2-2 area=0 power=3 next course restores player 
+PASS Castle entry: J-2-2 area=2 power=1 usable ground-level castle door 
+PASS Castle entry: J-2-2 area=2 power=1 flag triggers 
+PASS Castle entry: J-2-2 area=2 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-2-2 area=2 power=1 remains inside while settlement waits 
+PASS Castle entry: J-2-2 area=2 power=1 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-2-2 area=2 power=1 stops and disappears at actual doorway entered=True overshot=False x=3794 door=3794
+PASS Castle entry: J-2-2 area=2 power=1 advances after entrance and music 
+PASS Castle entry: J-2-2 area=2 power=1 next course restores player 
+PASS Castle entry: J-2-2 area=2 power=2 usable ground-level castle door 
+PASS Castle entry: J-2-2 area=2 power=2 flag triggers 
+PASS Castle entry: J-2-2 area=2 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-2-2 area=2 power=2 remains inside while settlement waits 
+PASS Castle entry: J-2-2 area=2 power=2 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-2-2 area=2 power=2 stops and disappears at actual doorway entered=True overshot=False x=3794 door=3794
+PASS Castle entry: J-2-2 area=2 power=2 advances after entrance and music 
+PASS Castle entry: J-2-2 area=2 power=2 next course restores player 
+PASS Castle entry: J-2-2 area=2 power=3 usable ground-level castle door 
+PASS Castle entry: J-2-2 area=2 power=3 flag triggers 
+PASS Castle entry: J-2-2 area=2 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-2-2 area=2 power=3 remains inside while settlement waits 
+PASS Castle entry: J-2-2 area=2 power=3 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-2-2 area=2 power=3 stops and disappears at actual doorway entered=True overshot=False x=3794 door=3794
+PASS Castle entry: J-2-2 area=2 power=3 advances after entrance and music 
+PASS Castle entry: J-2-2 area=2 power=3 next course restores player 
+PASS Castle entry: J-2-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-2-3 area=0 power=1 flag triggers 
+PASS Castle entry: J-2-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-2-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-2-3 area=0 power=1 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-2-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=2914 door=2914
+PASS Castle entry: J-2-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-2-3 area=0 power=1 next course restores player 
+PASS Castle entry: J-2-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-2-3 area=0 power=2 flag triggers 
+PASS Castle entry: J-2-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-2-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-2-3 area=0 power=2 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-2-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=2914 door=2914
+PASS Castle entry: J-2-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-2-3 area=0 power=2 next course restores player 
+PASS Castle entry: J-2-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-2-3 area=0 power=3 flag triggers 
+PASS Castle entry: J-2-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-2-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-2-3 area=0 power=3 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-2-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=2914 door=2914
+PASS Castle entry: J-2-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-2-3 area=0 power=3 next course restores player 
+PASS Castle entry: J-3-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-3-1 area=0 power=1 flag triggers 
+PASS Castle entry: J-3-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-3-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-3-1 area=0 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-3-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3074 door=3074
+PASS Castle entry: J-3-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-3-1 area=0 power=1 next course restores player 
+PASS Castle entry: J-3-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-3-1 area=0 power=2 flag triggers 
+PASS Castle entry: J-3-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-3-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-3-1 area=0 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-3-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3074 door=3074
+PASS Castle entry: J-3-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-3-1 area=0 power=2 next course restores player 
+PASS Castle entry: J-3-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-3-1 area=0 power=3 flag triggers 
+PASS Castle entry: J-3-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-3-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-3-1 area=0 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-3-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3074 door=3074
+PASS Castle entry: J-3-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-3-1 area=0 power=3 next course restores player 
+PASS Castle entry: J-3-2 area=1 power=1 usable ground-level castle door 
+PASS Castle entry: J-3-2 area=1 power=1 flag triggers 
+PASS Castle entry: J-3-2 area=1 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-3-2 area=1 power=1 remains inside while settlement waits 
+PASS Castle entry: J-3-2 area=1 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-3-2 area=1 power=1 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-3-2 area=1 power=1 advances after entrance and music 
+PASS Castle entry: J-3-2 area=1 power=1 next course restores player 
+PASS Castle entry: J-3-2 area=1 power=2 usable ground-level castle door 
+PASS Castle entry: J-3-2 area=1 power=2 flag triggers 
+PASS Castle entry: J-3-2 area=1 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-3-2 area=1 power=2 remains inside while settlement waits 
+PASS Castle entry: J-3-2 area=1 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-3-2 area=1 power=2 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-3-2 area=1 power=2 advances after entrance and music 
+PASS Castle entry: J-3-2 area=1 power=2 next course restores player 
+PASS Castle entry: J-3-2 area=1 power=3 usable ground-level castle door 
+PASS Castle entry: J-3-2 area=1 power=3 flag triggers 
+PASS Castle entry: J-3-2 area=1 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-3-2 area=1 power=3 remains inside while settlement waits 
+PASS Castle entry: J-3-2 area=1 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-3-2 area=1 power=3 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-3-2 area=1 power=3 advances after entrance and music 
+PASS Castle entry: J-3-2 area=1 power=3 next course restores player 
+PASS Castle entry: J-3-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-3-3 area=0 power=1 flag triggers 
+PASS Castle entry: J-3-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-3-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-3-3 area=0 power=1 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-3-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3042 door=3042
+PASS Castle entry: J-3-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-3-3 area=0 power=1 next course restores player 
+PASS Castle entry: J-3-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-3-3 area=0 power=2 flag triggers 
+PASS Castle entry: J-3-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-3-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-3-3 area=0 power=2 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-3-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3042 door=3042
+PASS Castle entry: J-3-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-3-3 area=0 power=2 next course restores player 
+PASS Castle entry: J-3-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-3-3 area=0 power=3 flag triggers 
+PASS Castle entry: J-3-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-3-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-3-3 area=0 power=3 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-3-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3042 door=3042
+PASS Castle entry: J-3-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-3-3 area=0 power=3 next course restores player 
+PASS Castle entry: J-4-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-4-1 area=0 power=1 flag triggers 
+PASS Castle entry: J-4-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-4-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-4-1 area=0 power=1 landed walk uses running poses walking=66 bad=0 poses=3
+PASS Castle entry: J-4-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3298 door=3298
+PASS Castle entry: J-4-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-4-1 area=0 power=1 next course restores player 
+PASS Castle entry: J-4-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-4-1 area=0 power=2 flag triggers 
+PASS Castle entry: J-4-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-4-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-4-1 area=0 power=2 landed walk uses running poses walking=66 bad=0 poses=3
+PASS Castle entry: J-4-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3298 door=3298
+PASS Castle entry: J-4-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-4-1 area=0 power=2 next course restores player 
+PASS Castle entry: J-4-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-4-1 area=0 power=3 flag triggers 
+PASS Castle entry: J-4-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-4-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-4-1 area=0 power=3 landed walk uses running poses walking=66 bad=0 poses=3
+PASS Castle entry: J-4-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3298 door=3298
+PASS Castle entry: J-4-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-4-1 area=0 power=3 next course restores player 
+PASS Castle entry: J-4-2 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-4-2 area=0 power=1 flag triggers 
+PASS Castle entry: J-4-2 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-4-2 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-4-2 area=0 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-4-2 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3394 door=3394
+PASS Castle entry: J-4-2 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-4-2 area=0 power=1 next course restores player 
+PASS Castle entry: J-4-2 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-4-2 area=0 power=2 flag triggers 
+PASS Castle entry: J-4-2 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-4-2 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-4-2 area=0 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-4-2 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3394 door=3394
+PASS Castle entry: J-4-2 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-4-2 area=0 power=2 next course restores player 
+PASS Castle entry: J-4-2 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-4-2 area=0 power=3 flag triggers 
+PASS Castle entry: J-4-2 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-4-2 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-4-2 area=0 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-4-2 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3394 door=3394
+PASS Castle entry: J-4-2 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-4-2 area=0 power=3 next course restores player 
+PASS Castle entry: J-4-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-4-3 area=0 power=1 flag triggers 
+PASS Castle entry: J-4-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-4-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-4-3 area=0 power=1 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-4-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3042 door=3042
+PASS Castle entry: J-4-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-4-3 area=0 power=1 next course restores player 
+PASS Castle entry: J-4-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-4-3 area=0 power=2 flag triggers 
+PASS Castle entry: J-4-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-4-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-4-3 area=0 power=2 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-4-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3042 door=3042
+PASS Castle entry: J-4-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-4-3 area=0 power=2 next course restores player 
+PASS Castle entry: J-4-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-4-3 area=0 power=3 flag triggers 
+PASS Castle entry: J-4-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-4-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-4-3 area=0 power=3 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-4-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3042 door=3042
+PASS Castle entry: J-4-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-4-3 area=0 power=3 next course restores player 
+PASS Castle entry: J-5-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-5-1 area=0 power=1 flag triggers 
+PASS Castle entry: J-5-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-5-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-5-1 area=0 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=5874 door=5874
+PASS Castle entry: J-5-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-5-1 area=0 power=1 next course restores player 
+PASS Castle entry: J-5-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-5-1 area=0 power=2 flag triggers 
+PASS Castle entry: J-5-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-5-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-5-1 area=0 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=5874 door=5874
+PASS Castle entry: J-5-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-5-1 area=0 power=2 next course restores player 
+PASS Castle entry: J-5-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-5-1 area=0 power=3 flag triggers 
+PASS Castle entry: J-5-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-5-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-5-1 area=0 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=5874 door=5874
+PASS Castle entry: J-5-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-5-1 area=0 power=3 next course restores player 
+PASS Castle entry: J-5-1 area=2 power=1 usable ground-level castle door 
+PASS Castle entry: J-5-1 area=2 power=1 flag triggers 
+PASS Castle entry: J-5-1 area=2 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-5-1 area=2 power=1 remains inside while settlement waits 
+PASS Castle entry: J-5-1 area=2 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-1 area=2 power=1 stops and disappears at actual doorway entered=True overshot=False x=3122 door=3122
+PASS Castle entry: J-5-1 area=2 power=1 advances after entrance and music 
+PASS Castle entry: J-5-1 area=2 power=1 next course restores player 
+PASS Castle entry: J-5-1 area=2 power=2 usable ground-level castle door 
+PASS Castle entry: J-5-1 area=2 power=2 flag triggers 
+PASS Castle entry: J-5-1 area=2 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-5-1 area=2 power=2 remains inside while settlement waits 
+PASS Castle entry: J-5-1 area=2 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-1 area=2 power=2 stops and disappears at actual doorway entered=True overshot=False x=3122 door=3122
+PASS Castle entry: J-5-1 area=2 power=2 advances after entrance and music 
+PASS Castle entry: J-5-1 area=2 power=2 next course restores player 
+PASS Castle entry: J-5-1 area=2 power=3 usable ground-level castle door 
+PASS Castle entry: J-5-1 area=2 power=3 flag triggers 
+PASS Castle entry: J-5-1 area=2 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-5-1 area=2 power=3 remains inside while settlement waits 
+PASS Castle entry: J-5-1 area=2 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-1 area=2 power=3 stops and disappears at actual doorway entered=True overshot=False x=3122 door=3122
+PASS Castle entry: J-5-1 area=2 power=3 advances after entrance and music 
+PASS Castle entry: J-5-1 area=2 power=3 next course restores player 
+PASS Castle entry: J-5-2 area=2 power=1 usable ground-level castle door 
+PASS Castle entry: J-5-2 area=2 power=1 flag triggers 
+PASS Castle entry: J-5-2 area=2 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-5-2 area=2 power=1 remains inside while settlement waits 
+PASS Castle entry: J-5-2 area=2 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-2 area=2 power=1 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-5-2 area=2 power=1 advances after entrance and music 
+PASS Castle entry: J-5-2 area=2 power=1 next course restores player 
+PASS Castle entry: J-5-2 area=2 power=2 usable ground-level castle door 
+PASS Castle entry: J-5-2 area=2 power=2 flag triggers 
+PASS Castle entry: J-5-2 area=2 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-5-2 area=2 power=2 remains inside while settlement waits 
+PASS Castle entry: J-5-2 area=2 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-2 area=2 power=2 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-5-2 area=2 power=2 advances after entrance and music 
+PASS Castle entry: J-5-2 area=2 power=2 next course restores player 
+PASS Castle entry: J-5-2 area=2 power=3 usable ground-level castle door 
+PASS Castle entry: J-5-2 area=2 power=3 flag triggers 
+PASS Castle entry: J-5-2 area=2 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-5-2 area=2 power=3 remains inside while settlement waits 
+PASS Castle entry: J-5-2 area=2 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-2 area=2 power=3 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-5-2 area=2 power=3 advances after entrance and music 
+PASS Castle entry: J-5-2 area=2 power=3 next course restores player 
+PASS Castle entry: J-5-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-5-3 area=0 power=1 flag triggers 
+PASS Castle entry: J-5-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-5-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-5-3 area=0 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3122 door=3122
+PASS Castle entry: J-5-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-5-3 area=0 power=1 next course restores player 
+PASS Castle entry: J-5-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-5-3 area=0 power=2 flag triggers 
+PASS Castle entry: J-5-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-5-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-5-3 area=0 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3122 door=3122
+PASS Castle entry: J-5-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-5-3 area=0 power=2 next course restores player 
+PASS Castle entry: J-5-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-5-3 area=0 power=3 flag triggers 
+PASS Castle entry: J-5-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-5-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-5-3 area=0 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3122 door=3122
+PASS Castle entry: J-5-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-5-3 area=0 power=3 next course restores player 
+PASS Castle entry: J-5-3 area=2 power=1 usable ground-level castle door 
+PASS Castle entry: J-5-3 area=2 power=1 flag triggers 
+PASS Castle entry: J-5-3 area=2 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-5-3 area=2 power=1 remains inside while settlement waits 
+PASS Castle entry: J-5-3 area=2 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-3 area=2 power=1 stops and disappears at actual doorway entered=True overshot=False x=5874 door=5874
+PASS Castle entry: J-5-3 area=2 power=1 advances after entrance and music 
+PASS Castle entry: J-5-3 area=2 power=1 next course restores player 
+PASS Castle entry: J-5-3 area=2 power=2 usable ground-level castle door 
+PASS Castle entry: J-5-3 area=2 power=2 flag triggers 
+PASS Castle entry: J-5-3 area=2 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-5-3 area=2 power=2 remains inside while settlement waits 
+PASS Castle entry: J-5-3 area=2 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-3 area=2 power=2 stops and disappears at actual doorway entered=True overshot=False x=5874 door=5874
+PASS Castle entry: J-5-3 area=2 power=2 advances after entrance and music 
+PASS Castle entry: J-5-3 area=2 power=2 next course restores player 
+PASS Castle entry: J-5-3 area=2 power=3 usable ground-level castle door 
+PASS Castle entry: J-5-3 area=2 power=3 flag triggers 
+PASS Castle entry: J-5-3 area=2 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-5-3 area=2 power=3 remains inside while settlement waits 
+PASS Castle entry: J-5-3 area=2 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-5-3 area=2 power=3 stops and disappears at actual doorway entered=True overshot=False x=5874 door=5874
+PASS Castle entry: J-5-3 area=2 power=3 advances after entrance and music 
+PASS Castle entry: J-5-3 area=2 power=3 next course restores player 
+PASS Castle entry: J-6-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-6-1 area=0 power=1 flag triggers 
+PASS Castle entry: J-6-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-6-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-6-1 area=0 power=1 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-6-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3970 door=3970
+PASS Castle entry: J-6-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-6-1 area=0 power=1 next course restores player 
+PASS Castle entry: J-6-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-6-1 area=0 power=2 flag triggers 
+PASS Castle entry: J-6-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-6-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-6-1 area=0 power=2 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-6-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3970 door=3970
+PASS Castle entry: J-6-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-6-1 area=0 power=2 next course restores player 
+PASS Castle entry: J-6-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-6-1 area=0 power=3 flag triggers 
+PASS Castle entry: J-6-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-6-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-6-1 area=0 power=3 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-6-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3970 door=3970
+PASS Castle entry: J-6-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-6-1 area=0 power=3 next course restores player 
+PASS Castle entry: J-6-2 area=1 power=1 usable ground-level castle door 
+PASS Castle entry: J-6-2 area=1 power=1 flag triggers 
+PASS Castle entry: J-6-2 area=1 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-6-2 area=1 power=1 remains inside while settlement waits 
+PASS Castle entry: J-6-2 area=1 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-6-2 area=1 power=1 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-6-2 area=1 power=1 advances after entrance and music 
+PASS Castle entry: J-6-2 area=1 power=1 next course restores player 
+PASS Castle entry: J-6-2 area=1 power=2 usable ground-level castle door 
+PASS Castle entry: J-6-2 area=1 power=2 flag triggers 
+PASS Castle entry: J-6-2 area=1 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-6-2 area=1 power=2 remains inside while settlement waits 
+PASS Castle entry: J-6-2 area=1 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-6-2 area=1 power=2 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-6-2 area=1 power=2 advances after entrance and music 
+PASS Castle entry: J-6-2 area=1 power=2 next course restores player 
+PASS Castle entry: J-6-2 area=1 power=3 usable ground-level castle door 
+PASS Castle entry: J-6-2 area=1 power=3 flag triggers 
+PASS Castle entry: J-6-2 area=1 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-6-2 area=1 power=3 remains inside while settlement waits 
+PASS Castle entry: J-6-2 area=1 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-6-2 area=1 power=3 stops and disappears at actual doorway entered=True overshot=False x=802 door=802
+PASS Castle entry: J-6-2 area=1 power=3 advances after entrance and music 
+PASS Castle entry: J-6-2 area=1 power=3 next course restores player 
+PASS Castle entry: J-6-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-6-3 area=0 power=1 flag triggers 
+PASS Castle entry: J-6-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-6-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-6-3 area=0 power=1 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-6-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3554 door=3554
+PASS Castle entry: J-6-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-6-3 area=0 power=1 next course restores player 
+PASS Castle entry: J-6-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-6-3 area=0 power=2 flag triggers 
+PASS Castle entry: J-6-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-6-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-6-3 area=0 power=2 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-6-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3554 door=3554
+PASS Castle entry: J-6-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-6-3 area=0 power=2 next course restores player 
+PASS Castle entry: J-6-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-6-3 area=0 power=3 flag triggers 
+PASS Castle entry: J-6-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-6-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-6-3 area=0 power=3 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-6-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3554 door=3554
+PASS Castle entry: J-6-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-6-3 area=0 power=3 next course restores player 
+PASS Castle entry: J-7-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-7-1 area=0 power=1 flag triggers 
+PASS Castle entry: J-7-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-7-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-7-1 area=0 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-7-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3330 door=3330
+PASS Castle entry: J-7-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-7-1 area=0 power=1 next course restores player 
+PASS Castle entry: J-7-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-7-1 area=0 power=2 flag triggers 
+PASS Castle entry: J-7-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-7-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-7-1 area=0 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-7-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3330 door=3330
+PASS Castle entry: J-7-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-7-1 area=0 power=2 next course restores player 
+PASS Castle entry: J-7-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-7-1 area=0 power=3 flag triggers 
+PASS Castle entry: J-7-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-7-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-7-1 area=0 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-7-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3330 door=3330
+PASS Castle entry: J-7-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-7-1 area=0 power=3 next course restores player 
+PASS Castle entry: J-7-2 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-7-2 area=0 power=1 flag triggers 
+PASS Castle entry: J-7-2 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-7-2 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-7-2 area=0 power=1 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-7-2 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3170 door=3170
+PASS Castle entry: J-7-2 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-7-2 area=0 power=1 next course restores player 
+PASS Castle entry: J-7-2 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-7-2 area=0 power=2 flag triggers 
+PASS Castle entry: J-7-2 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-7-2 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-7-2 area=0 power=2 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-7-2 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3170 door=3170
+PASS Castle entry: J-7-2 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-7-2 area=0 power=2 next course restores player 
+PASS Castle entry: J-7-2 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-7-2 area=0 power=3 flag triggers 
+PASS Castle entry: J-7-2 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-7-2 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-7-2 area=0 power=3 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-7-2 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3170 door=3170
+PASS Castle entry: J-7-2 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-7-2 area=0 power=3 next course restores player 
+PASS Castle entry: J-7-2 area=2 power=1 usable ground-level castle door 
+PASS Castle entry: J-7-2 area=2 power=1 flag triggers 
+PASS Castle entry: J-7-2 area=2 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-7-2 area=2 power=1 remains inside while settlement waits 
+PASS Castle entry: J-7-2 area=2 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-7-2 area=2 power=1 stops and disappears at actual doorway entered=True overshot=False x=3330 door=3330
+PASS Castle entry: J-7-2 area=2 power=1 advances after entrance and music 
+PASS Castle entry: J-7-2 area=2 power=1 next course restores player 
+PASS Castle entry: J-7-2 area=2 power=2 usable ground-level castle door 
+PASS Castle entry: J-7-2 area=2 power=2 flag triggers 
+PASS Castle entry: J-7-2 area=2 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-7-2 area=2 power=2 remains inside while settlement waits 
+PASS Castle entry: J-7-2 area=2 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-7-2 area=2 power=2 stops and disappears at actual doorway entered=True overshot=False x=3330 door=3330
+PASS Castle entry: J-7-2 area=2 power=2 advances after entrance and music 
+PASS Castle entry: J-7-2 area=2 power=2 next course restores player 
+PASS Castle entry: J-7-2 area=2 power=3 usable ground-level castle door 
+PASS Castle entry: J-7-2 area=2 power=3 flag triggers 
+PASS Castle entry: J-7-2 area=2 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-7-2 area=2 power=3 remains inside while settlement waits 
+PASS Castle entry: J-7-2 area=2 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-7-2 area=2 power=3 stops and disappears at actual doorway entered=True overshot=False x=3330 door=3330
+PASS Castle entry: J-7-2 area=2 power=3 advances after entrance and music 
+PASS Castle entry: J-7-2 area=2 power=3 next course restores player 
+PASS Castle entry: J-7-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-7-3 area=0 power=1 flag triggers 
+PASS Castle entry: J-7-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-7-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-7-3 area=0 power=1 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-7-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=5122 door=5122
+PASS Castle entry: J-7-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-7-3 area=0 power=1 next course restores player 
+PASS Castle entry: J-7-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-7-3 area=0 power=2 flag triggers 
+PASS Castle entry: J-7-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-7-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-7-3 area=0 power=2 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-7-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=5122 door=5122
+PASS Castle entry: J-7-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-7-3 area=0 power=2 next course restores player 
+PASS Castle entry: J-7-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-7-3 area=0 power=3 flag triggers 
+PASS Castle entry: J-7-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-7-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-7-3 area=0 power=3 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-7-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=5122 door=5122
+PASS Castle entry: J-7-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-7-3 area=0 power=3 next course restores player 
+PASS Castle entry: J-8-1 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-8-1 area=0 power=1 flag triggers 
+PASS Castle entry: J-8-1 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-8-1 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-8-1 area=0 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-8-1 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3538 door=3538
+PASS Castle entry: J-8-1 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-8-1 area=0 power=1 next course restores player 
+PASS Castle entry: J-8-1 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-8-1 area=0 power=2 flag triggers 
+PASS Castle entry: J-8-1 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-8-1 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-8-1 area=0 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-8-1 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3538 door=3538
+PASS Castle entry: J-8-1 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-8-1 area=0 power=2 next course restores player 
+PASS Castle entry: J-8-1 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-8-1 area=0 power=3 flag triggers 
+PASS Castle entry: J-8-1 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-8-1 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-8-1 area=0 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-8-1 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3538 door=3538
+PASS Castle entry: J-8-1 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-8-1 area=0 power=3 next course restores player 
+PASS Castle entry: J-8-1 area=2 power=1 usable ground-level castle door 
+PASS Castle entry: J-8-1 area=2 power=1 flag triggers 
+PASS Castle entry: J-8-1 area=2 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-8-1 area=2 power=1 remains inside while settlement waits 
+PASS Castle entry: J-8-1 area=2 power=1 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-8-1 area=2 power=1 stops and disappears at actual doorway entered=True overshot=False x=5874 door=5874
+PASS Castle entry: J-8-1 area=2 power=1 advances after entrance and music 
+PASS Castle entry: J-8-1 area=2 power=1 next course restores player 
+PASS Castle entry: J-8-1 area=2 power=2 usable ground-level castle door 
+PASS Castle entry: J-8-1 area=2 power=2 flag triggers 
+PASS Castle entry: J-8-1 area=2 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-8-1 area=2 power=2 remains inside while settlement waits 
+PASS Castle entry: J-8-1 area=2 power=2 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-8-1 area=2 power=2 stops and disappears at actual doorway entered=True overshot=False x=5874 door=5874
+PASS Castle entry: J-8-1 area=2 power=2 advances after entrance and music 
+PASS Castle entry: J-8-1 area=2 power=2 next course restores player 
+PASS Castle entry: J-8-1 area=2 power=3 usable ground-level castle door 
+PASS Castle entry: J-8-1 area=2 power=3 flag triggers 
+PASS Castle entry: J-8-1 area=2 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-8-1 area=2 power=3 remains inside while settlement waits 
+PASS Castle entry: J-8-1 area=2 power=3 landed walk uses running poses walking=53 bad=0 poses=3
+PASS Castle entry: J-8-1 area=2 power=3 stops and disappears at actual doorway entered=True overshot=False x=5874 door=5874
+PASS Castle entry: J-8-1 area=2 power=3 advances after entrance and music 
+PASS Castle entry: J-8-1 area=2 power=3 next course restores player 
+PASS Castle entry: J-8-2 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-8-2 area=0 power=1 flag triggers 
+PASS Castle entry: J-8-2 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-8-2 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-8-2 area=0 power=1 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-8-2 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3586 door=3586
+PASS Castle entry: J-8-2 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-8-2 area=0 power=1 next course restores player 
+PASS Castle entry: J-8-2 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-8-2 area=0 power=2 flag triggers 
+PASS Castle entry: J-8-2 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-8-2 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-8-2 area=0 power=2 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-8-2 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3586 door=3586
+PASS Castle entry: J-8-2 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-8-2 area=0 power=2 next course restores player 
+PASS Castle entry: J-8-2 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-8-2 area=0 power=3 flag triggers 
+PASS Castle entry: J-8-2 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-8-2 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-8-2 area=0 power=3 landed walk uses running poses walking=40 bad=0 poses=3
+PASS Castle entry: J-8-2 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3586 door=3586
+PASS Castle entry: J-8-2 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-8-2 area=0 power=3 next course restores player 
+PASS Castle entry: J-8-3 area=0 power=1 usable ground-level castle door 
+PASS Castle entry: J-8-3 area=0 power=1 flag triggers 
+PASS Castle entry: J-8-3 area=0 power=1 pause preserves hidden entrance 
+PASS Castle entry: J-8-3 area=0 power=1 remains inside while settlement waits 
+PASS Castle entry: J-8-3 area=0 power=1 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-8-3 area=0 power=1 stops and disappears at actual doorway entered=True overshot=False x=3490 door=3490
+PASS Castle entry: J-8-3 area=0 power=1 advances after entrance and music 
+PASS Castle entry: J-8-3 area=0 power=1 next course restores player 
+PASS Castle entry: J-8-3 area=0 power=2 usable ground-level castle door 
+PASS Castle entry: J-8-3 area=0 power=2 flag triggers 
+PASS Castle entry: J-8-3 area=0 power=2 pause preserves hidden entrance 
+PASS Castle entry: J-8-3 area=0 power=2 remains inside while settlement waits 
+PASS Castle entry: J-8-3 area=0 power=2 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-8-3 area=0 power=2 stops and disappears at actual doorway entered=True overshot=False x=3490 door=3490
+PASS Castle entry: J-8-3 area=0 power=2 advances after entrance and music 
+PASS Castle entry: J-8-3 area=0 power=2 next course restores player 
+PASS Castle entry: J-8-3 area=0 power=3 usable ground-level castle door 
+PASS Castle entry: J-8-3 area=0 power=3 flag triggers 
+PASS Castle entry: J-8-3 area=0 power=3 pause preserves hidden entrance 
+PASS Castle entry: J-8-3 area=0 power=3 remains inside while settlement waits 
+PASS Castle entry: J-8-3 area=0 power=3 landed walk uses running poses walking=27 bad=0 poses=3
+PASS Castle entry: J-8-3 area=0 power=3 stops and disappears at actual doorway entered=True overshot=False x=3490 door=3490
+PASS Castle entry: J-8-3 area=0 power=3 advances after entrance and music 
+PASS Castle entry: J-8-3 area=0 power=3 next course restores player 
+PASS Castle entry: distant edited door prevents premature transition 
+PASS Castle entry: distant edited door eventually completes 
+PASS Castle entry: custom map without door does not deadlock 
+MARIO_CASTLE_ENTRY_PASS checks=1327 errors=0

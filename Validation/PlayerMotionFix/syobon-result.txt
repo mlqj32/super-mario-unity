@@ -1,0 +1,1 @@
+SYOBON_PLAYER_PASS stages=4 areas=8 checks=82 errors=0

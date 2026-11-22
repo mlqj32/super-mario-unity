@@ -1,0 +1,200 @@
+{
+  "passed": true,
+  "courses": 32,
+  "matchedRootTiles": 41661,
+  "errors": [],
+  "details": [
+    {
+      "course": "J-1-1",
+      "rootTiles": 911,
+      "reachableLocations": 7,
+      "sourcePointer": "0x20"
+    },
+    {
+      "course": "J-1-2",
+      "rootTiles": 1407,
+      "reachableLocations": 6,
+      "sourcePointer": "0x40"
+    },
+    {
+      "course": "J-1-3",
+      "rootTiles": 864,
+      "reachableLocations": 1,
+      "sourcePointer": "0x21"
+    },
+    {
+      "course": "J-1-4",
+      "rootTiles": 1070,
+      "reachableLocations": 1,
+      "sourcePointer": "0x60"
+    },
+    {
+      "course": "J-2-1",
+      "rootTiles": 1221,
+      "reachableLocations": 6,
+      "sourcePointer": "0x22"
+    },
+    {
+      "course": "J-2-2",
+      "rootTiles": 948,
+      "reachableLocations": 3,
+      "sourcePointer": "0x23"
+    },
+    {
+      "course": "J-2-3",
+      "rootTiles": 936,
+      "reachableLocations": 1,
+      "sourcePointer": "0x24"
+    },
+    {
+      "course": "J-2-4",
+      "rootTiles": 1010,
+      "reachableLocations": 1,
+      "sourcePointer": "0x61"
+    },
+    {
+      "course": "J-3-1",
+      "rootTiles": 1469,
+      "reachableLocations": 4,
+      "sourcePointer": "0x25"
+    },
+    {
+      "course": "J-3-2",
+      "rootTiles": 2876,
+      "reachableLocations": 2,
+      "sourcePointer": "0x0"
+    },
+    {
+      "course": "J-3-3",
+      "rootTiles": 999,
+      "reachableLocations": 1,
+      "sourcePointer": "0x26"
+    },
+    {
+      "course": "J-3-4",
+      "rootTiles": 988,
+      "reachableLocations": 1,
+      "sourcePointer": "0x62"
+    },
+    {
+      "course": "J-4-1",
+      "rootTiles": 974,
+      "reachableLocations": 3,
+      "sourcePointer": "0x27"
+    },
+    {
+      "course": "J-4-2",
+      "rootTiles": 913,
+      "reachableLocations": 3,
+      "sourcePointer": "0x28"
+    },
+    {
+      "course": "J-4-3",
+      "rootTiles": 779,
+      "reachableLocations": 1,
+      "sourcePointer": "0x2a"
+    },
+    {
+      "course": "J-4-4",
+      "rootTiles": 1284,
+      "reachableLocations": 1,
+      "sourcePointer": "0x63"
+    },
+    {
+      "course": "J-5-1",
+      "rootTiles": 2355,
+      "reachableLocations": 6,
+      "sourcePointer": "0x2b"
+    },
+    {
+      "course": "J-5-2",
+      "rootTiles": 1867,
+      "reachableLocations": 3,
+      "sourcePointer": "0x43"
+    },
+    {
+      "course": "J-5-3",
+      "rootTiles": 983,
+      "reachableLocations": 3,
+      "sourcePointer": "0x2c"
+    },
+    {
+      "course": "J-5-4",
+      "rootTiles": 1229,
+      "reachableLocations": 1,
+      "sourcePointer": "0x64"
+    },
+    {
+      "course": "J-6-1",
+      "rootTiles": 1152,
+      "reachableLocations": 3,
+      "sourcePointer": "0x2d"
+    },
+    {
+      "course": "J-6-2",
+      "rootTiles": 2878,
+      "reachableLocations": 2,
+      "sourcePointer": "0x1"
+    },
+    {
+      "course": "J-6-3",
+      "rootTiles": 861,
+      "reachableLocations": 1,
+      "sourcePointer": "0x2e"
+    },
+    {
+      "course": "J-6-4",
+      "rootTiles": 1063,
+      "reachableLocations": 1,
+      "sourcePointer": "0x65"
+    },
+    {
+      "course": "J-7-1",
+      "rootTiles": 1379,
+      "reachableLocations": 5,
+      "sourcePointer": "0x2f"
+    },
+    {
+      "course": "J-7-2",
+      "rootTiles": 784,
+      "reachableLocations": 6,
+      "sourcePointer": "0x30"
+    },
+    {
+      "course": "J-7-3",
+      "rootTiles": 917,
+      "reachableLocations": 1,
+      "sourcePointer": "0x31"
+    },
+    {
+      "course": "J-7-4",
+      "rootTiles": 1735,
+      "reachableLocations": 1,
+      "sourcePointer": "0x66"
+    },
+    {
+      "course": "J-8-1",
+      "rootTiles": 952,
+      "reachableLocations": 3,
+      "sourcePointer": "0x32"
+    },
+    {
+      "course": "J-8-2",
+      "rootTiles": 1099,
+      "reachableLocations": 4,
+      "sourcePointer": "0x35"
+    },
+    {
+      "course": "J-8-3",
+      "rootTiles": 1082,
+      "reachableLocations": 3,
+      "sourcePointer": "0x36"
+    },
+    {
+      "course": "J-8-4",
+      "rootTiles": 2676,
+      "reachableLocations": 5,
+      "sourcePointer": "0x67"
+    }
+  ]
+}

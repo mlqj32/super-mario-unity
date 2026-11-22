@@ -1,0 +1,503 @@
+PASS Water surface: 2-2/1 power=1 responsive=False entry starts below the surface head=176
+PASS Water surface: 2-2/1 power=1 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 2-2/1 power=1 responsive=False releasing swim sinks normally 
+PASS Water surface: 2-2/1 power=1 responsive=False upward impulse stays under surface 
+PASS Water surface: 2-2/1 power=1 responsive=False pause keeps position 
+PASS Water surface: 2-2/1 power=2 responsive=False entry starts below the surface head=176
+PASS Water surface: 2-2/1 power=2 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 2-2/1 power=2 responsive=False releasing swim sinks normally 
+PASS Water surface: 2-2/1 power=2 responsive=False upward impulse stays under surface 
+PASS Water surface: 2-2/1 power=2 responsive=False pause keeps position 
+PASS Water surface: 2-2/1 power=3 responsive=False entry starts below the surface head=176
+PASS Water surface: 2-2/1 power=3 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 2-2/1 power=3 responsive=False releasing swim sinks normally 
+PASS Water surface: 2-2/1 power=3 responsive=False upward impulse stays under surface 
+PASS Water surface: 2-2/1 power=3 responsive=False pause keeps position 
+PASS Water surface: 2-2/1 power=1 responsive=True entry starts below the surface head=176
+PASS Water surface: 2-2/1 power=1 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 2-2/1 power=1 responsive=True releasing swim sinks normally 
+PASS Water surface: 2-2/1 power=1 responsive=True upward impulse stays under surface 
+PASS Water surface: 2-2/1 power=1 responsive=True pause keeps position 
+PASS Water surface: 2-2/1 power=2 responsive=True entry starts below the surface head=176
+PASS Water surface: 2-2/1 power=2 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 2-2/1 power=2 responsive=True releasing swim sinks normally 
+PASS Water surface: 2-2/1 power=2 responsive=True upward impulse stays under surface 
+PASS Water surface: 2-2/1 power=2 responsive=True pause keeps position 
+PASS Water surface: 2-2/1 power=3 responsive=True entry starts below the surface head=176
+PASS Water surface: 2-2/1 power=3 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 2-2/1 power=3 responsive=True releasing swim sinks normally 
+PASS Water surface: 2-2/1 power=3 responsive=True upward impulse stays under surface 
+PASS Water surface: 2-2/1 power=3 responsive=True pause keeps position 
+PASS Water surface: 2-2/1 growth is bounded before power-up freeze 
+PASS Water surface: 2-2/1 power-up freeze preserves surface 
+PASS Water surface: 2-2/1 side exit still triggers 
+PASS Water surface: 2-2/1 pipe transfer completes 
+PASS Water surface: 5-2/3 power=1 responsive=False entry starts below the surface head=176
+PASS Water surface: 5-2/3 power=1 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 5-2/3 power=1 responsive=False releasing swim sinks normally 
+PASS Water surface: 5-2/3 power=1 responsive=False upward impulse stays under surface 
+PASS Water surface: 5-2/3 power=1 responsive=False pause keeps position 
+PASS Water surface: 5-2/3 power=2 responsive=False entry starts below the surface head=176
+PASS Water surface: 5-2/3 power=2 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 5-2/3 power=2 responsive=False releasing swim sinks normally 
+PASS Water surface: 5-2/3 power=2 responsive=False upward impulse stays under surface 
+PASS Water surface: 5-2/3 power=2 responsive=False pause keeps position 
+PASS Water surface: 5-2/3 power=3 responsive=False entry starts below the surface head=176
+PASS Water surface: 5-2/3 power=3 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 5-2/3 power=3 responsive=False releasing swim sinks normally 
+PASS Water surface: 5-2/3 power=3 responsive=False upward impulse stays under surface 
+PASS Water surface: 5-2/3 power=3 responsive=False pause keeps position 
+PASS Water surface: 5-2/3 power=1 responsive=True entry starts below the surface head=176
+PASS Water surface: 5-2/3 power=1 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 5-2/3 power=1 responsive=True releasing swim sinks normally 
+PASS Water surface: 5-2/3 power=1 responsive=True upward impulse stays under surface 
+PASS Water surface: 5-2/3 power=1 responsive=True pause keeps position 
+PASS Water surface: 5-2/3 power=2 responsive=True entry starts below the surface head=176
+PASS Water surface: 5-2/3 power=2 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 5-2/3 power=2 responsive=True releasing swim sinks normally 
+PASS Water surface: 5-2/3 power=2 responsive=True upward impulse stays under surface 
+PASS Water surface: 5-2/3 power=2 responsive=True pause keeps position 
+PASS Water surface: 5-2/3 power=3 responsive=True entry starts below the surface head=176
+PASS Water surface: 5-2/3 power=3 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 5-2/3 power=3 responsive=True releasing swim sinks normally 
+PASS Water surface: 5-2/3 power=3 responsive=True upward impulse stays under surface 
+PASS Water surface: 5-2/3 power=3 responsive=True pause keeps position 
+PASS Water surface: 5-2/3 growth is bounded before power-up freeze 
+PASS Water surface: 5-2/3 power-up freeze preserves surface 
+PASS Water surface: 5-2/3 side exit still triggers 
+PASS Water surface: 5-2/3 pipe transfer completes 
+PASS Water surface: 6-2/6 power=1 responsive=False entry starts below the surface head=176
+PASS Water surface: 6-2/6 power=1 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 6-2/6 power=1 responsive=False releasing swim sinks normally 
+PASS Water surface: 6-2/6 power=1 responsive=False upward impulse stays under surface 
+PASS Water surface: 6-2/6 power=1 responsive=False pause keeps position 
+PASS Water surface: 6-2/6 power=2 responsive=False entry starts below the surface head=176
+PASS Water surface: 6-2/6 power=2 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 6-2/6 power=2 responsive=False releasing swim sinks normally 
+PASS Water surface: 6-2/6 power=2 responsive=False upward impulse stays under surface 
+PASS Water surface: 6-2/6 power=2 responsive=False pause keeps position 
+PASS Water surface: 6-2/6 power=3 responsive=False entry starts below the surface head=176
+PASS Water surface: 6-2/6 power=3 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 6-2/6 power=3 responsive=False releasing swim sinks normally 
+PASS Water surface: 6-2/6 power=3 responsive=False upward impulse stays under surface 
+PASS Water surface: 6-2/6 power=3 responsive=False pause keeps position 
+PASS Water surface: 6-2/6 power=1 responsive=True entry starts below the surface head=176
+PASS Water surface: 6-2/6 power=1 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 6-2/6 power=1 responsive=True releasing swim sinks normally 
+PASS Water surface: 6-2/6 power=1 responsive=True upward impulse stays under surface 
+PASS Water surface: 6-2/6 power=1 responsive=True pause keeps position 
+PASS Water surface: 6-2/6 power=2 responsive=True entry starts below the surface head=176
+PASS Water surface: 6-2/6 power=2 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 6-2/6 power=2 responsive=True releasing swim sinks normally 
+PASS Water surface: 6-2/6 power=2 responsive=True upward impulse stays under surface 
+PASS Water surface: 6-2/6 power=2 responsive=True pause keeps position 
+PASS Water surface: 6-2/6 power=3 responsive=True entry starts below the surface head=176
+PASS Water surface: 6-2/6 power=3 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 6-2/6 power=3 responsive=True releasing swim sinks normally 
+PASS Water surface: 6-2/6 power=3 responsive=True upward impulse stays under surface 
+PASS Water surface: 6-2/6 power=3 responsive=True pause keeps position 
+PASS Water surface: 6-2/6 growth is bounded before power-up freeze 
+PASS Water surface: 6-2/6 power-up freeze preserves surface 
+PASS Water surface: 6-2/6 side exit still triggers 
+PASS Water surface: 6-2/6 pipe transfer completes 
+PASS Water surface: 7-2/1 power=1 responsive=False entry starts below the surface head=176
+PASS Water surface: 7-2/1 power=1 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 7-2/1 power=1 responsive=False releasing swim sinks normally 
+PASS Water surface: 7-2/1 power=1 responsive=False upward impulse stays under surface 
+PASS Water surface: 7-2/1 power=1 responsive=False pause keeps position 
+PASS Water surface: 7-2/1 power=2 responsive=False entry starts below the surface head=176
+PASS Water surface: 7-2/1 power=2 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 7-2/1 power=2 responsive=False releasing swim sinks normally 
+PASS Water surface: 7-2/1 power=2 responsive=False upward impulse stays under surface 
+PASS Water surface: 7-2/1 power=2 responsive=False pause keeps position 
+PASS Water surface: 7-2/1 power=3 responsive=False entry starts below the surface head=176
+PASS Water surface: 7-2/1 power=3 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 7-2/1 power=3 responsive=False releasing swim sinks normally 
+PASS Water surface: 7-2/1 power=3 responsive=False upward impulse stays under surface 
+PASS Water surface: 7-2/1 power=3 responsive=False pause keeps position 
+PASS Water surface: 7-2/1 power=1 responsive=True entry starts below the surface head=176
+PASS Water surface: 7-2/1 power=1 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 7-2/1 power=1 responsive=True releasing swim sinks normally 
+PASS Water surface: 7-2/1 power=1 responsive=True upward impulse stays under surface 
+PASS Water surface: 7-2/1 power=1 responsive=True pause keeps position 
+PASS Water surface: 7-2/1 power=2 responsive=True entry starts below the surface head=176
+PASS Water surface: 7-2/1 power=2 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 7-2/1 power=2 responsive=True releasing swim sinks normally 
+PASS Water surface: 7-2/1 power=2 responsive=True upward impulse stays under surface 
+PASS Water surface: 7-2/1 power=2 responsive=True pause keeps position 
+PASS Water surface: 7-2/1 power=3 responsive=True entry starts below the surface head=176
+PASS Water surface: 7-2/1 power=3 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 7-2/1 power=3 responsive=True releasing swim sinks normally 
+PASS Water surface: 7-2/1 power=3 responsive=True upward impulse stays under surface 
+PASS Water surface: 7-2/1 power=3 responsive=True pause keeps position 
+PASS Water surface: 7-2/1 growth is bounded before power-up freeze 
+PASS Water surface: 7-2/1 power-up freeze preserves surface 
+PASS Water surface: 8-4/4 power=1 responsive=False entry starts below the surface head=48
+PASS Water surface: 8-4/4 power=1 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 8-4/4 power=1 responsive=False releasing swim sinks normally 
+PASS Water surface: 8-4/4 power=1 responsive=False upward impulse stays under surface 
+PASS Water surface: 8-4/4 power=1 responsive=False pause keeps position 
+PASS Water surface: 8-4/4 power=2 responsive=False entry starts below the surface head=64
+PASS Water surface: 8-4/4 power=2 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 8-4/4 power=2 responsive=False releasing swim sinks normally 
+PASS Water surface: 8-4/4 power=2 responsive=False upward impulse stays under surface 
+PASS Water surface: 8-4/4 power=2 responsive=False pause keeps position 
+PASS Water surface: 8-4/4 power=3 responsive=False entry starts below the surface head=64
+PASS Water surface: 8-4/4 power=3 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: 8-4/4 power=3 responsive=False releasing swim sinks normally 
+PASS Water surface: 8-4/4 power=3 responsive=False upward impulse stays under surface 
+PASS Water surface: 8-4/4 power=3 responsive=False pause keeps position 
+PASS Water surface: 8-4/4 power=1 responsive=True entry starts below the surface head=48
+PASS Water surface: 8-4/4 power=1 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 8-4/4 power=1 responsive=True releasing swim sinks normally 
+PASS Water surface: 8-4/4 power=1 responsive=True upward impulse stays under surface 
+PASS Water surface: 8-4/4 power=1 responsive=True pause keeps position 
+PASS Water surface: 8-4/4 power=2 responsive=True entry starts below the surface head=64
+PASS Water surface: 8-4/4 power=2 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 8-4/4 power=2 responsive=True releasing swim sinks normally 
+PASS Water surface: 8-4/4 power=2 responsive=True upward impulse stays under surface 
+PASS Water surface: 8-4/4 power=2 responsive=True pause keeps position 
+PASS Water surface: 8-4/4 power=3 responsive=True entry starts below the surface head=64
+PASS Water surface: 8-4/4 power=3 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: 8-4/4 power=3 responsive=True releasing swim sinks normally 
+PASS Water surface: 8-4/4 power=3 responsive=True upward impulse stays under surface 
+PASS Water surface: 8-4/4 power=3 responsive=True pause keeps position 
+PASS Water surface: 8-4/4 growth is bounded before power-up freeze 
+PASS Water surface: 8-4/4 power-up freeze preserves surface 
+PASS Water surface: 8-4/4 side exit still triggers 
+PASS Water surface: 8-4/4 pipe transfer completes 
+PASS Water surface: J-3-2/0 power=1 responsive=False entry starts below the surface head=176
+PASS Water surface: J-3-2/0 power=1 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-3-2/0 power=1 responsive=False releasing swim sinks normally 
+PASS Water surface: J-3-2/0 power=1 responsive=False upward impulse stays under surface 
+PASS Water surface: J-3-2/0 power=1 responsive=False pause keeps position 
+PASS Water surface: J-3-2/0 power=2 responsive=False entry starts below the surface head=176
+PASS Water surface: J-3-2/0 power=2 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-3-2/0 power=2 responsive=False releasing swim sinks normally 
+PASS Water surface: J-3-2/0 power=2 responsive=False upward impulse stays under surface 
+PASS Water surface: J-3-2/0 power=2 responsive=False pause keeps position 
+PASS Water surface: J-3-2/0 power=3 responsive=False entry starts below the surface head=176
+PASS Water surface: J-3-2/0 power=3 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-3-2/0 power=3 responsive=False releasing swim sinks normally 
+PASS Water surface: J-3-2/0 power=3 responsive=False upward impulse stays under surface 
+PASS Water surface: J-3-2/0 power=3 responsive=False pause keeps position 
+PASS Water surface: J-3-2/0 power=1 responsive=True entry starts below the surface head=176
+PASS Water surface: J-3-2/0 power=1 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-3-2/0 power=1 responsive=True releasing swim sinks normally 
+PASS Water surface: J-3-2/0 power=1 responsive=True upward impulse stays under surface 
+PASS Water surface: J-3-2/0 power=1 responsive=True pause keeps position 
+PASS Water surface: J-3-2/0 power=2 responsive=True entry starts below the surface head=176
+PASS Water surface: J-3-2/0 power=2 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-3-2/0 power=2 responsive=True releasing swim sinks normally 
+PASS Water surface: J-3-2/0 power=2 responsive=True upward impulse stays under surface 
+PASS Water surface: J-3-2/0 power=2 responsive=True pause keeps position 
+PASS Water surface: J-3-2/0 power=3 responsive=True entry starts below the surface head=176
+PASS Water surface: J-3-2/0 power=3 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-3-2/0 power=3 responsive=True releasing swim sinks normally 
+PASS Water surface: J-3-2/0 power=3 responsive=True upward impulse stays under surface 
+PASS Water surface: J-3-2/0 power=3 responsive=True pause keeps position 
+PASS Water surface: J-3-2/0 growth is bounded before power-up freeze 
+PASS Water surface: J-3-2/0 power-up freeze preserves surface 
+PASS Water surface: J-3-2/0 side exit still triggers 
+PASS Water surface: J-3-2/0 pipe transfer completes 
+PASS Water surface: J-4-1/1 power=1 responsive=False entry starts below the surface head=176
+PASS Water surface: J-4-1/1 power=1 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-4-1/1 power=1 responsive=False releasing swim sinks normally 
+PASS Water surface: J-4-1/1 power=1 responsive=False upward impulse stays under surface 
+PASS Water surface: J-4-1/1 power=1 responsive=False pause keeps position 
+PASS Water surface: J-4-1/1 power=2 responsive=False entry starts below the surface head=176
+PASS Water surface: J-4-1/1 power=2 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-4-1/1 power=2 responsive=False releasing swim sinks normally 
+PASS Water surface: J-4-1/1 power=2 responsive=False upward impulse stays under surface 
+PASS Water surface: J-4-1/1 power=2 responsive=False pause keeps position 
+PASS Water surface: J-4-1/1 power=3 responsive=False entry starts below the surface head=176
+PASS Water surface: J-4-1/1 power=3 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-4-1/1 power=3 responsive=False releasing swim sinks normally 
+PASS Water surface: J-4-1/1 power=3 responsive=False upward impulse stays under surface 
+PASS Water surface: J-4-1/1 power=3 responsive=False pause keeps position 
+PASS Water surface: J-4-1/1 power=1 responsive=True entry starts below the surface head=176
+PASS Water surface: J-4-1/1 power=1 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-4-1/1 power=1 responsive=True releasing swim sinks normally 
+PASS Water surface: J-4-1/1 power=1 responsive=True upward impulse stays under surface 
+PASS Water surface: J-4-1/1 power=1 responsive=True pause keeps position 
+PASS Water surface: J-4-1/1 power=2 responsive=True entry starts below the surface head=176
+PASS Water surface: J-4-1/1 power=2 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-4-1/1 power=2 responsive=True releasing swim sinks normally 
+PASS Water surface: J-4-1/1 power=2 responsive=True upward impulse stays under surface 
+PASS Water surface: J-4-1/1 power=2 responsive=True pause keeps position 
+PASS Water surface: J-4-1/1 power=3 responsive=True entry starts below the surface head=176
+PASS Water surface: J-4-1/1 power=3 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-4-1/1 power=3 responsive=True releasing swim sinks normally 
+PASS Water surface: J-4-1/1 power=3 responsive=True upward impulse stays under surface 
+PASS Water surface: J-4-1/1 power=3 responsive=True pause keeps position 
+PASS Water surface: J-4-1/1 growth is bounded before power-up freeze 
+PASS Water surface: J-4-1/1 power-up freeze preserves surface 
+PASS Water surface: J-4-1/1 side exit still triggers 
+PASS Water surface: J-4-1/1 pipe transfer completes 
+PASS Water surface: J-6-1/1 power=1 responsive=False entry starts below the surface head=176
+PASS Water surface: J-6-1/1 power=1 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-6-1/1 power=1 responsive=False releasing swim sinks normally 
+PASS Water surface: J-6-1/1 power=1 responsive=False upward impulse stays under surface 
+PASS Water surface: J-6-1/1 power=1 responsive=False pause keeps position 
+PASS Water surface: J-6-1/1 power=2 responsive=False entry starts below the surface head=176
+PASS Water surface: J-6-1/1 power=2 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-6-1/1 power=2 responsive=False releasing swim sinks normally 
+PASS Water surface: J-6-1/1 power=2 responsive=False upward impulse stays under surface 
+PASS Water surface: J-6-1/1 power=2 responsive=False pause keeps position 
+PASS Water surface: J-6-1/1 power=3 responsive=False entry starts below the surface head=176
+PASS Water surface: J-6-1/1 power=3 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-6-1/1 power=3 responsive=False releasing swim sinks normally 
+PASS Water surface: J-6-1/1 power=3 responsive=False upward impulse stays under surface 
+PASS Water surface: J-6-1/1 power=3 responsive=False pause keeps position 
+PASS Water surface: J-6-1/1 power=1 responsive=True entry starts below the surface head=176
+PASS Water surface: J-6-1/1 power=1 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-6-1/1 power=1 responsive=True releasing swim sinks normally 
+PASS Water surface: J-6-1/1 power=1 responsive=True upward impulse stays under surface 
+PASS Water surface: J-6-1/1 power=1 responsive=True pause keeps position 
+PASS Water surface: J-6-1/1 power=2 responsive=True entry starts below the surface head=176
+PASS Water surface: J-6-1/1 power=2 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-6-1/1 power=2 responsive=True releasing swim sinks normally 
+PASS Water surface: J-6-1/1 power=2 responsive=True upward impulse stays under surface 
+PASS Water surface: J-6-1/1 power=2 responsive=True pause keeps position 
+PASS Water surface: J-6-1/1 power=3 responsive=True entry starts below the surface head=176
+PASS Water surface: J-6-1/1 power=3 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-6-1/1 power=3 responsive=True releasing swim sinks normally 
+PASS Water surface: J-6-1/1 power=3 responsive=True upward impulse stays under surface 
+PASS Water surface: J-6-1/1 power=3 responsive=True pause keeps position 
+PASS Water surface: J-6-1/1 growth is bounded before power-up freeze 
+PASS Water surface: J-6-1/1 power-up freeze preserves surface 
+PASS Water surface: J-6-1/1 side exit still triggers 
+PASS Water surface: J-6-1/1 pipe transfer completes 
+PASS Water surface: J-6-2/0 power=1 responsive=False entry starts below the surface head=176
+PASS Water surface: J-6-2/0 power=1 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-6-2/0 power=1 responsive=False releasing swim sinks normally 
+PASS Water surface: J-6-2/0 power=1 responsive=False upward impulse stays under surface 
+PASS Water surface: J-6-2/0 power=1 responsive=False pause keeps position 
+PASS Water surface: J-6-2/0 power=2 responsive=False entry starts below the surface head=176
+PASS Water surface: J-6-2/0 power=2 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-6-2/0 power=2 responsive=False releasing swim sinks normally 
+PASS Water surface: J-6-2/0 power=2 responsive=False upward impulse stays under surface 
+PASS Water surface: J-6-2/0 power=2 responsive=False pause keeps position 
+PASS Water surface: J-6-2/0 power=3 responsive=False entry starts below the surface head=176
+PASS Water surface: J-6-2/0 power=3 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-6-2/0 power=3 responsive=False releasing swim sinks normally 
+PASS Water surface: J-6-2/0 power=3 responsive=False upward impulse stays under surface 
+PASS Water surface: J-6-2/0 power=3 responsive=False pause keeps position 
+PASS Water surface: J-6-2/0 power=1 responsive=True entry starts below the surface head=176
+PASS Water surface: J-6-2/0 power=1 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-6-2/0 power=1 responsive=True releasing swim sinks normally 
+PASS Water surface: J-6-2/0 power=1 responsive=True upward impulse stays under surface 
+PASS Water surface: J-6-2/0 power=1 responsive=True pause keeps position 
+PASS Water surface: J-6-2/0 power=2 responsive=True entry starts below the surface head=176
+PASS Water surface: J-6-2/0 power=2 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-6-2/0 power=2 responsive=True releasing swim sinks normally 
+PASS Water surface: J-6-2/0 power=2 responsive=True upward impulse stays under surface 
+PASS Water surface: J-6-2/0 power=2 responsive=True pause keeps position 
+PASS Water surface: J-6-2/0 power=3 responsive=True entry starts below the surface head=176
+PASS Water surface: J-6-2/0 power=3 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-6-2/0 power=3 responsive=True releasing swim sinks normally 
+PASS Water surface: J-6-2/0 power=3 responsive=True upward impulse stays under surface 
+PASS Water surface: J-6-2/0 power=3 responsive=True pause keeps position 
+PASS Water surface: J-6-2/0 growth is bounded before power-up freeze 
+PASS Water surface: J-6-2/0 power-up freeze preserves surface 
+PASS Water surface: J-6-2/0 side exit still triggers 
+PASS Water surface: J-6-2/0 pipe transfer completes 
+PASS Water surface: J-8-1/1 power=1 responsive=False entry starts below the surface head=176
+PASS Water surface: J-8-1/1 power=1 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-8-1/1 power=1 responsive=False releasing swim sinks normally 
+PASS Water surface: J-8-1/1 power=1 responsive=False upward impulse stays under surface 
+PASS Water surface: J-8-1/1 power=1 responsive=False pause keeps position 
+PASS Water surface: J-8-1/1 power=2 responsive=False entry starts below the surface head=176
+PASS Water surface: J-8-1/1 power=2 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-8-1/1 power=2 responsive=False releasing swim sinks normally 
+PASS Water surface: J-8-1/1 power=2 responsive=False upward impulse stays under surface 
+PASS Water surface: J-8-1/1 power=2 responsive=False pause keeps position 
+PASS Water surface: J-8-1/1 power=3 responsive=False entry starts below the surface head=176
+PASS Water surface: J-8-1/1 power=3 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-8-1/1 power=3 responsive=False releasing swim sinks normally 
+PASS Water surface: J-8-1/1 power=3 responsive=False upward impulse stays under surface 
+PASS Water surface: J-8-1/1 power=3 responsive=False pause keeps position 
+PASS Water surface: J-8-1/1 power=1 responsive=True entry starts below the surface head=176
+PASS Water surface: J-8-1/1 power=1 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-8-1/1 power=1 responsive=True releasing swim sinks normally 
+PASS Water surface: J-8-1/1 power=1 responsive=True upward impulse stays under surface 
+PASS Water surface: J-8-1/1 power=1 responsive=True pause keeps position 
+PASS Water surface: J-8-1/1 power=2 responsive=True entry starts below the surface head=176
+PASS Water surface: J-8-1/1 power=2 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-8-1/1 power=2 responsive=True releasing swim sinks normally 
+PASS Water surface: J-8-1/1 power=2 responsive=True upward impulse stays under surface 
+PASS Water surface: J-8-1/1 power=2 responsive=True pause keeps position 
+PASS Water surface: J-8-1/1 power=3 responsive=True entry starts below the surface head=176
+PASS Water surface: J-8-1/1 power=3 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-8-1/1 power=3 responsive=True releasing swim sinks normally 
+PASS Water surface: J-8-1/1 power=3 responsive=True upward impulse stays under surface 
+PASS Water surface: J-8-1/1 power=3 responsive=True pause keeps position 
+PASS Water surface: J-8-1/1 growth is bounded before power-up freeze 
+PASS Water surface: J-8-1/1 power-up freeze preserves surface 
+PASS Water surface: J-8-1/1 side exit still triggers 
+PASS Water surface: J-8-1/1 pipe transfer completes 
+PASS Water surface: J-8-4/1 power=1 responsive=False entry starts below the surface head=176
+PASS Water surface: J-8-4/1 power=1 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-8-4/1 power=1 responsive=False releasing swim sinks normally 
+PASS Water surface: J-8-4/1 power=1 responsive=False upward impulse stays under surface 
+PASS Water surface: J-8-4/1 power=1 responsive=False pause keeps position 
+PASS Water surface: J-8-4/1 power=2 responsive=False entry starts below the surface head=176
+PASS Water surface: J-8-4/1 power=2 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-8-4/1 power=2 responsive=False releasing swim sinks normally 
+PASS Water surface: J-8-4/1 power=2 responsive=False upward impulse stays under surface 
+PASS Water surface: J-8-4/1 power=2 responsive=False pause keeps position 
+PASS Water surface: J-8-4/1 power=3 responsive=False entry starts below the surface head=176
+PASS Water surface: J-8-4/1 power=3 responsive=False repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-8-4/1 power=3 responsive=False releasing swim sinks normally 
+PASS Water surface: J-8-4/1 power=3 responsive=False upward impulse stays under surface 
+PASS Water surface: J-8-4/1 power=3 responsive=False pause keeps position 
+PASS Water surface: J-8-4/1 power=1 responsive=True entry starts below the surface head=176
+PASS Water surface: J-8-4/1 power=1 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-8-4/1 power=1 responsive=True releasing swim sinks normally 
+PASS Water surface: J-8-4/1 power=1 responsive=True upward impulse stays under surface 
+PASS Water surface: J-8-4/1 power=1 responsive=True pause keeps position 
+PASS Water surface: J-8-4/1 power=2 responsive=True entry starts below the surface head=176
+PASS Water surface: J-8-4/1 power=2 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-8-4/1 power=2 responsive=True releasing swim sinks normally 
+PASS Water surface: J-8-4/1 power=2 responsive=True upward impulse stays under surface 
+PASS Water surface: J-8-4/1 power=2 responsive=True pause keeps position 
+PASS Water surface: J-8-4/1 power=3 responsive=True entry starts below the surface head=176
+PASS Water surface: J-8-4/1 power=3 responsive=True repeated strokes cannot leave water maxHead=176
+PASS Water surface: J-8-4/1 power=3 responsive=True releasing swim sinks normally 
+PASS Water surface: J-8-4/1 power=3 responsive=True upward impulse stays under surface 
+PASS Water surface: J-8-4/1 power=3 responsive=True pause keeps position 
+PASS Water surface: J-8-4/1 growth is bounded before power-up freeze 
+PASS Water surface: J-8-4/1 power-up freeze preserves surface 
+PASS Water surface: J-8-4/1 side exit still triggers 
+PASS Water surface: J-8-4/1 pipe transfer completes 
+PASS Water surface: all water entrance coverage entries=11
+PASS Water surface: land jumping keeps its upper range 
+PASS Water surface: ordinary water gravity stays unchanged 
+PASS Water surface: death animation can rise above swimming limit 
+PASS Boundary: Playing pause input suspends simulation 
+PASS Boundary: Playing resume restores exact phase 
+PASS Boundary: Flag pause input suspends simulation 
+PASS Boundary: Flag resume restores exact phase 
+PASS Boundary: Castle pause input suspends simulation 
+PASS Boundary: Castle resume restores exact phase 
+PASS Boundary: Clear pause input suspends simulation 
+PASS Boundary: Clear resume restores exact phase 
+PASS Boundary: Playing disconnect pauses simulation 
+PASS Boundary: Playing disconnect resumes exact phase 
+PASS Boundary: Playing lost focus pauses simulation 
+PASS Boundary: Playing focus pause restores exact phase 
+PASS Boundary: Flag disconnect pauses simulation 
+PASS Boundary: Flag disconnect resumes exact phase 
+PASS Boundary: Flag lost focus pauses simulation 
+PASS Boundary: Flag focus pause restores exact phase 
+PASS Boundary: Castle disconnect pauses simulation 
+PASS Boundary: Castle disconnect resumes exact phase 
+PASS Boundary: Castle lost focus pauses simulation 
+PASS Boundary: Castle focus pause restores exact phase 
+PASS Boundary: Clear disconnect pauses simulation 
+PASS Boundary: Clear disconnect resumes exact phase 
+PASS Boundary: Clear lost focus pauses simulation 
+PASS Boundary: Clear focus pause restores exact phase 
+PASS Boundary: Dying disconnect pauses simulation 
+PASS Boundary: Dying disconnect resumes exact phase 
+PASS Boundary: Dying lost focus pauses simulation 
+PASS Boundary: Dying focus pause restores exact phase 
+PASS Boundary: death Start still skips once 
+PASS Boundary: Flag corpse continues falling 
+PASS Boundary: Flag corpse exits and expires 
+PASS Boundary: Castle corpse continues falling 
+PASS Boundary: Castle corpse exits and expires 
+PASS Boundary: Clear corpse continues falling 
+PASS Boundary: Clear corpse exits and expires 
+PASS Boundary: Dying corpse continues falling 
+PASS Boundary: Dying corpse exits and expires 
+PASS Boundary: defeated Bowser moves once during bridge collapse 
+PASS Boundary: scale rope breaks both sides False 
+PASS Boundary: both detached scale platforms fall False left=-5.299988 right=-5
+PASS Boundary: scale rope breaks both sides True 
+PASS Boundary: both detached scale platforms fall True left=-5.299988 right=-5
+PASS Boundary: 2-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: 5-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: 6-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: 7-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: 8-4 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-3-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-4-1 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-6-1 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-6-2 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-8-1 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: J-8-4 water entry has water gravity before first stroke vy=-0.0390625
+PASS Boundary: low time music survives track selection star=False 
+PASS Boundary: low time music survives area transfer 
+PASS Boundary: new course restores normal music speed 
+PASS Boundary: low time music survives track selection star=True 
+PASS Boundary: star expiration restores urgent music 
+PASS Boundary: low time music survives area transfer 
+PASS Boundary: new course restores normal music speed 
+PASS Boundary: score stays readable over explosion rendered pixels painted=67 mismatches=0
+PASS Boundary: empty text removes stale sprite 
+PASS 1-1 editable level unchanged 
+PASS 1-2 editable level unchanged 
+PASS 1-3 editable level unchanged 
+PASS 1-4 editable level unchanged 
+PASS 2-1 editable level unchanged 
+PASS 2-2 editable level unchanged 
+PASS 2-3 editable level unchanged 
+PASS 2-4 editable level unchanged 
+PASS 3-1 editable level unchanged 
+PASS 3-2 editable level unchanged 
+PASS 3-3 editable level unchanged 
+PASS 3-4 editable level unchanged 
+PASS 4-1 editable level unchanged 
+PASS 4-2 editable level unchanged 
+PASS 4-3 editable level unchanged 
+PASS 4-4 editable level unchanged 
+PASS 5-1 editable level unchanged 
+PASS 5-2 editable level unchanged 
+PASS 5-3 editable level unchanged 
+PASS 5-4 editable level unchanged 
+PASS 6-1 editable level unchanged 
+PASS 6-2 editable level unchanged 
+PASS 6-3 editable level unchanged 
+PASS 6-4 editable level unchanged 
+PASS 7-1 editable level unchanged 
+PASS 7-2 editable level unchanged 
+PASS 7-3 editable level unchanged 
+PASS 7-4 editable level unchanged 
+PASS 8-1 editable level unchanged 
+PASS 8-2 editable level unchanged 
+PASS 8-3 editable level unchanged 
+PASS 8-4 editable level unchanged 
+PASS J-1-1 editable level unchanged 
+PASS J-1-2 editable level unchanged 
+PASS J-1-3 editable level unchanged 
+PASS J-1-4 editable level unchanged 
+PASS J-2-1 editable level unchanged 
+PASS J-2-2 editable level unchanged 
+PASS J-2-3 editable level unchanged 
+PASS J-2-4 editable level unchanged 
+PASS J-3-1 editable level unchanged 
+PASS J-3-2 editable level unchanged 
+PASS J-3-3 editable level unchanged 
+PASS J-3-4 editable level unchanged 
+PASS J-4-1 editable level unchanged 
+PASS J-4-2 editable level unchanged 
+PASS J-4-3 editable level unchanged 
+PASS J-4-4 editable level unchanged 
+PASS J-5-1 editable level unchanged 
+PASS J-5-2 editable level unchanged 
+PASS J-5-3 editable level unchanged 
+PASS J-5-4 editable level unchanged 
+PASS J-6-1 editable level unchanged 
+PASS J-6-2 editable level unchanged 
+PASS J-6-3 editable level unchanged 
+PASS J-6-4 editable level unchanged 
+PASS J-7-1 editable level unchanged 
+PASS J-7-2 editable level unchanged 
+PASS J-7-3 editable level unchanged 
+PASS J-7-4 editable level unchanged 
+PASS J-8-1 editable level unchanged 
+PASS J-8-2 editable level unchanged 
+PASS J-8-3 editable level unchanged 
+PASS J-8-4 editable level unchanged 
+MARIO_WATER_SURFACE_PASS checks=502 errors=0

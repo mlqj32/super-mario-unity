@@ -1,0 +1,44 @@
+PASS Platforms: wrap does not catch airborne player down legacy=False y=0 before=0 after=-1 platform=184
+PASS Platforms: wrap does not catch airborne player down legacy=False y=32 before=32 after=31 platform=184
+PASS Platforms: wrap does not catch airborne player down legacy=False y=80 before=80 after=79 platform=184
+PASS Platforms: wrap does not catch airborne player down legacy=False y=128 before=128 after=127 platform=184
+PASS Platforms: wrap detaches rider without vertical transfer down legacy=False before=-31.75 after=-31.75 platform=184
+PASS Platforms: same-column wrap cannot steal another rider down legacy=False reversed=False player=79.16016 support=79.16 wrapped=184
+PASS Platforms: same-column wrap cannot steal another rider down legacy=False reversed=True player=79.16016 support=79.16 wrapped=184
+PASS Platforms: recycled platform collides again next tick down legacy=False 
+PASS Platforms: ordinary vertical movement carries rider down legacy=False 
+PASS Platforms: rider can jump off elevator down legacy=False 
+PASS Platforms: wrap does not catch airborne player up legacy=False y=0 before=0 after=-1 platform=-24
+PASS Platforms: wrap does not catch airborne player up legacy=False y=32 before=32 after=31 platform=-24
+PASS Platforms: wrap does not catch airborne player up legacy=False y=80 before=80 after=79 platform=-24
+PASS Platforms: wrap does not catch airborne player up legacy=False y=128 before=128 after=127 platform=-24
+PASS Platforms: wrap detaches rider without vertical transfer up legacy=False before=199.75 after=199.75 platform=-24
+PASS Platforms: same-column wrap cannot steal another rider up legacy=False reversed=False player=80.83984 support=80.84 wrapped=-24
+PASS Platforms: same-column wrap cannot steal another rider up legacy=False reversed=True player=80.83984 support=80.84 wrapped=-24
+PASS Platforms: recycled platform collides again next tick up legacy=False 
+PASS Platforms: ordinary vertical movement carries rider up legacy=False 
+PASS Platforms: rider can jump off elevator up legacy=False 
+PASS Platforms: wrap does not catch airborne player down legacy=True y=0 before=0 after=-1 platform=184
+PASS Platforms: wrap does not catch airborne player down legacy=True y=32 before=32 after=31 platform=184
+PASS Platforms: wrap does not catch airborne player down legacy=True y=80 before=80 after=79 platform=184
+PASS Platforms: wrap does not catch airborne player down legacy=True y=128 before=128 after=127 platform=184
+PASS Platforms: wrap detaches rider without vertical transfer down legacy=True before=-31.75 after=-31.75 platform=184
+PASS Platforms: same-column wrap cannot steal another rider down legacy=True reversed=False player=79.16016 support=79.16 wrapped=184
+PASS Platforms: same-column wrap cannot steal another rider down legacy=True reversed=True player=79.16016 support=79.16 wrapped=184
+PASS Platforms: recycled platform collides again next tick down legacy=True 
+PASS Platforms: ordinary vertical movement carries rider down legacy=True 
+PASS Platforms: rider can jump off elevator down legacy=True 
+PASS Platforms: wrap does not catch airborne player up legacy=True y=0 before=0 after=-1 platform=-24
+PASS Platforms: wrap does not catch airborne player up legacy=True y=32 before=32 after=31 platform=-24
+PASS Platforms: wrap does not catch airborne player up legacy=True y=80 before=80 after=79 platform=-24
+PASS Platforms: wrap does not catch airborne player up legacy=True y=128 before=128 after=127 platform=-24
+PASS Platforms: wrap detaches rider without vertical transfer up legacy=True before=199.75 after=199.75 platform=-24
+PASS Platforms: same-column wrap cannot steal another rider up legacy=True reversed=False player=80.83984 support=80.84 wrapped=-24
+PASS Platforms: same-column wrap cannot steal another rider up legacy=True reversed=True player=80.83984 support=80.84 wrapped=-24
+PASS Platforms: recycled platform collides again next tick up legacy=True 
+PASS Platforms: ordinary vertical movement carries rider up legacy=True 
+PASS Platforms: rider can jump off elevator up legacy=True 
+PASS Platforms: wrap cannot pull player off stationary ledge False 
+PASS Platforms: wrap cannot pull player off stationary ledge True 
+PASS Platforms: multiple real elevator cycles stay local False wraps=4 maxPlayerStep=1
+PASS Platforms: multiple real elevator cycles stay local True wraps=3 maxPlayerStep=1

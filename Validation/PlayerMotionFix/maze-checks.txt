@@ -1,0 +1,54 @@
+PASS Maze: 4-4 section=0 approach=0 size=1 responsive=True x=1381.813 y=48 passed=True phase=Playing trace=Section 1 at 1392
+PASS Maze: 4-4 section=0 approach=1 size=1 responsive=True x=1381.813 y=48 passed=True phase=Playing trace=Section 1 at 1392
+PASS Maze: 4-4 section=0 approach=2 size=1 responsive=True x=1381.813 y=48 passed=False phase=Playing trace=Section 0 at 1392
+PASS Maze: 4-4 section=1 approach=0 size=1 responsive=True x=1412.25 y=130.0313 passed=True phase=Playing trace=Section 2 at 1424
+PASS Maze: second section rejects lane=1 size=1 responsive=True x=1082.25 y=48 passed=False
+PASS Maze: second section rejects lane=2 size=1 responsive=True x=1082.25 y=112 passed=False
+PASS Maze: 4-4 section=0 approach=0 size=2 responsive=True x=1381.813 y=48 passed=True phase=Playing trace=Section 1 at 1392
+PASS Maze: 4-4 section=0 approach=1 size=2 responsive=True x=1381.813 y=48 passed=True phase=Playing trace=Section 1 at 1392
+PASS Maze: 4-4 section=0 approach=2 size=2 responsive=True x=1381.813 y=48 passed=False phase=Playing trace=Section 0 at 1392
+PASS Maze: 4-4 section=1 approach=0 size=2 responsive=True x=1412.25 y=126.3125 passed=True phase=Playing trace=Section 2 at 1424
+PASS Maze: second section rejects lane=1 size=2 responsive=True x=1082.25 y=48 passed=False
+PASS Maze: second section rejects lane=2 size=2 responsive=True x=1082.25 y=112 passed=False
+PASS Maze: 4-4 section=0 approach=0 size=3 responsive=True x=1381.813 y=48 passed=True phase=Playing trace=Section 1 at 1392
+PASS Maze: 4-4 section=0 approach=1 size=3 responsive=True x=1381.813 y=48 passed=True phase=Playing trace=Section 1 at 1392
+PASS Maze: 4-4 section=0 approach=2 size=3 responsive=True x=1381.813 y=48 passed=False phase=Playing trace=Section 0 at 1392
+PASS Maze: 4-4 section=1 approach=0 size=3 responsive=True x=1412.25 y=126.3125 passed=True phase=Playing trace=Section 2 at 1424
+PASS Maze: second section rejects lane=1 size=3 responsive=True x=1082.25 y=48 passed=False
+PASS Maze: second section rejects lane=2 size=3 responsive=True x=1082.25 y=112 passed=False
+PASS Maze: 4-4 section=0 approach=0 size=1 responsive=False x=1380.813 y=48 passed=True phase=Playing trace=Section 1 at 1392
+PASS Maze: 4-4 section=0 approach=1 size=1 responsive=False x=1380.813 y=48 passed=True phase=Playing trace=Section 1 at 1392
+PASS Maze: 4-4 section=0 approach=2 size=1 responsive=False x=1380.813 y=48 passed=False phase=Playing trace=Section 0 at 1392
+PASS Maze: 4-4 section=1 approach=0 size=1 responsive=False x=1413.188 y=79.78125 passed=True phase=Playing trace=Section 2 at 1424
+PASS Maze: second section rejects lane=1 size=1 responsive=False x=1080.25 y=48 passed=False
+PASS Maze: second section rejects lane=2 size=1 responsive=False x=1080.25 y=112 passed=False
+PASS Maze: 4-4 section=0 approach=0 size=2 responsive=False x=1380.813 y=48 passed=True phase=Playing trace=Section 1 at 1392
+PASS Maze: 4-4 section=0 approach=1 size=2 responsive=False x=1380.813 y=48 passed=True phase=Playing trace=Section 1 at 1392
+PASS Maze: 4-4 section=0 approach=2 size=2 responsive=False x=1380.813 y=48 passed=False phase=Playing trace=Section 0 at 1392
+PASS Maze: 4-4 section=1 approach=0 size=2 responsive=False x=1413.188 y=79.78125 passed=True phase=Playing trace=Section 2 at 1424
+PASS Maze: second section rejects lane=1 size=2 responsive=False x=1080.25 y=48 passed=False
+PASS Maze: second section rejects lane=2 size=2 responsive=False x=1080.25 y=112 passed=False
+PASS Maze: 4-4 section=0 approach=0 size=3 responsive=False x=1380.813 y=48 passed=True phase=Playing trace=Section 1 at 1392
+PASS Maze: 4-4 section=0 approach=1 size=3 responsive=False x=1380.813 y=48 passed=True phase=Playing trace=Section 1 at 1392
+PASS Maze: 4-4 section=0 approach=2 size=3 responsive=False x=1380.813 y=48 passed=False phase=Playing trace=Section 0 at 1392
+PASS Maze: 4-4 section=1 approach=0 size=3 responsive=False x=1413.188 y=79.78125 passed=True phase=Playing trace=Section 2 at 1424
+PASS Maze: second section rejects lane=1 size=3 responsive=False x=1080.25 y=48 passed=False
+PASS Maze: second section rejects lane=2 size=3 responsive=False x=1080.25 y=112 passed=False
+PASS Maze: retry chain leg=0 size=1 responsive=True x=1381.813 y=48 trace=Section 0 at 1392
+PASS Maze: retry chain leg=1 size=1 responsive=True x=2517.813 y=48 trace=Section 1 at 2528
+PASS Maze: retry chain leg=2 size=1 responsive=True x=3684.25 y=130.0313 trace=Section 2 at 3696
+PASS Maze: retry chain leg=0 size=2 responsive=True x=1381.813 y=48 trace=Section 0 at 1392
+PASS Maze: retry chain leg=1 size=2 responsive=True x=2517.813 y=48 trace=Section 1 at 2528
+PASS Maze: retry chain leg=2 size=2 responsive=True x=3684.25 y=126.3125 trace=Section 2 at 3696
+PASS Maze: retry chain leg=0 size=3 responsive=True x=1381.813 y=48 trace=Section 0 at 1392
+PASS Maze: retry chain leg=1 size=3 responsive=True x=2517.813 y=48 trace=Section 1 at 2528
+PASS Maze: retry chain leg=2 size=3 responsive=True x=3684.25 y=126.3125 trace=Section 2 at 3696
+PASS Maze: retry chain leg=0 size=1 responsive=False x=1380.813 y=48 trace=Section 0 at 1392
+PASS Maze: retry chain leg=1 size=1 responsive=False x=2516.813 y=48 trace=Section 1 at 2528
+PASS Maze: retry chain leg=2 size=1 responsive=False x=3685.188 y=79.78125 trace=Section 2 at 3696
+PASS Maze: retry chain leg=0 size=2 responsive=False x=1380.813 y=48 trace=Section 0 at 1392
+PASS Maze: retry chain leg=1 size=2 responsive=False x=2516.813 y=48 trace=Section 1 at 2528
+PASS Maze: retry chain leg=2 size=2 responsive=False x=3685.188 y=79.78125 trace=Section 2 at 3696
+PASS Maze: retry chain leg=0 size=3 responsive=False x=1380.813 y=48 trace=Section 0 at 1392
+PASS Maze: retry chain leg=1 size=3 responsive=False x=2516.813 y=48 trace=Section 1 at 2528
+PASS Maze: retry chain leg=2 size=3 responsive=False x=3685.188 y=79.78125 trace=Section 2 at 3696

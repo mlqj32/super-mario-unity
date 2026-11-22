@@ -1,0 +1,1 @@
+MARIO_BOUNDARY_PASS checks=128 errors=0
